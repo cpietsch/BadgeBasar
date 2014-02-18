@@ -1,0 +1,361 @@
+
+svg .Nationalrat .arc path {
+  stroke:#FFF;
+  stroke-width:10px;
+  opacity: 0.1;
+  fill: #4c7388;
+}
+svg .Ständerat .arc path {
+  stroke:#FFF;
+  stroke-width:10px;
+  opacity: 0.1;
+  fill: #a95457;
+}
+
+
+svg .arc text {
+  fill:#4c4c4c;
+  opacity: 1;
+}
+svg .arc circle {
+  /*opacity: 0.8;*/
+}
+svg circle {
+  cursor: pointer;
+}
+
+svg .link {
+  stroke-width: 1px;
+  stroke: rgba(0, 0, 0, 0.49);
+  fill: none;
+  opacity: 1;
+
+}
+
+svg .voronoi path {
+  fill: none;
+  stroke:none;
+  stroke-width:1px;
+  pointer-events: all;
+  cursor: pointer;
+}
+
+svg .label path {
+  fill: none;
+  stroke: none;
+  stroke-width:1px;
+  pointer-events: none;
+}
+svg .label .background{
+  fill: #FFF;
+  stroke:#EEE;
+}
+
+svg .label .cell-center {
+  /*stroke: orange;*/
+}
+svg .label .cell-border {
+  /*stroke: green;*/
+}
+
+svg .label--top {
+  text-anchor: middle;
+}
+
+svg .label--right {
+  text-anchor: start;
+}
+
+svg .label--bottom {
+  text-anchor: middle;
+}
+
+svg .label--left {
+  text-anchor: end;
+}
+svg .label text {
+  filter:url(#highlight);
+}
+
+svg .stooltip {
+  pointer-events: none;
+}
+svg .stooltip path {
+  fill: #fff;
+  stroke: #777;
+  stroke-width: 1.5px;
+}
+svg .stooltip:hover path {
+  
+}
+
+svg .stooltip text {
+  font: 11px;
+  font-family: Arial;
+  cursor:pointer;
+}
+
+
+/* HTML STYLES ########################################### */
+
+.outerContainer {
+  position: relative;
+  background: #fff;
+  margin: 0 auto;
+  padding: 25px 30px;
+  overflow: hidden;
+  width: 955px;
+}
+
+
+body {
+  background: #EEE; /* bei live raus */
+}
+
+
+
+#chartSVG {
+  background: #fff;
+  font-size: 9px;
+  float: right;
+}
+
+.icon-male, .icon-female {
+  font-weight: normal;
+}
+
+.intro-hide {
+  display: none;
+}
+
+.info {
+  height: 130px;
+  borders-bottom: 1px solid #eee;
+  float: right;
+  position: relative;
+  width: 530px;
+  opacity: 0.3;
+}
+
+.politiker, .badge {
+  position: absolute;
+  width: 250px;
+  font-size: 11px;
+}
+.politiker h1, .badge h1 {
+  font-size: 12px;
+}
+.info .description {
+  max-height: 30px;
+padding-top: 5px;
+overflow: hidden;
+}
+.politiker .type {
+  float: left;
+  width: 5px;
+  height: 50px;
+  background: #4c7388;
+  margin-right: 10px;
+}
+.politiker .face {
+  border-radius: 25px;
+  float: left;
+  width: 50px;
+  height: 50px;
+  background: #4c7388;
+}
+.badge .face {
+  border-radius: 25px;
+  float: left;
+  width: 30px;
+  height: 30px;
+  background: #777777;
+  padding-left: 10px;
+}
+.politiker .text {
+  float: left;
+  padding-left: 10px;
+  padding-top: 5px;
+  width: 200px;
+}
+.badge .text {
+  float: left;
+  padding-left: 10px;
+  padding-top: 1px;
+  width: 200px;
+}
+
+.sidebar {
+  float: left;
+  width: 260px;
+}
+
+.intro {
+  width: 260px;
+  float: left;
+}
+.intro h1 {
+  font-size: 20px;
+  line-height: 1.2em;
+}
+
+#hint {
+  z-index: 100;
+  color: rgb(30, 30, 30);
+  font-size: 11px;
+  left: 585px;
+  position: absolute;
+  top: 830px;
+  width: 180px;
+  display: none;
+}
+.legende {
+  clear: both;
+  z-index: 100;
+  color: rgb(30, 30, 30);
+  font-size: 11px;
+  float: right;
+  width: 120px;
+}
+.legende div {
+  padding-bottom: 3px;
+  float: left;
+  width: 100%;
+}
+.legende svg {
+  float: left;
+  margin-top: 1px;
+  margin-left: 3px;
+}
+.legende span {
+  float: left;
+}
+.imprint {
+  clear: both;
+  padding-top: 30px;
+}
+.imprint .right {
+  float: right;
+}
+
+.kategorien {
+  float: left;
+  width: 260px;
+  z-index: 100;
+  background: #FFF;
+  padding-top: 20px;
+}
+.katlist .header div {
+  border-top: none;
+  font-weight: 700;
+  vertical-align: baseline;
+}
+.katlist .header span:nth-child(1) {
+  padding-top: 4px;
+}
+
+.katlist .icon  {
+  font-size: 15px;
+}
+.katlist div {
+  padding: 3px 0;
+  border-top: 1px solid #ececeb;
+  clear: both;
+  float: left;
+}
+.katlist ul {
+  float: left;
+  max-height: 0px;
+  transition:max-height .5s;
+  overflow: hidden;
+}
+.katlist li {
+  padding: 0;
+  margin: 0;
+  background: none;
+ /* height: 15px;*/
+}
+.katlist .open ul {
+  transition:max-height .5s;
+  max-height:300px;
+}
+.katlist li:hover ul {
+  /*display: block;*/
+  
+}
+.katlist li:hover ul div {
+
+}
+.katlist div.row {
+  cursor: pointer;
+}
+.katlist div.row:hover, div.row.active {
+  background: #F3F3F3;
+}
+.katlist span {
+  color: rgb(30, 30, 30);
+  font-size: 11px;
+  float: left;
+}
+.katlist div>span:nth-child(1) {
+   width: 210px;
+   padding-left: 4px;
+}
+.katlist div.row>span:nth-child(1) {
+   height: 13px;
+   overflow: hidden;
+}
+.katlist ul div>span:nth-child(1) {
+   width:200px;
+}
+.katlist ul div {
+   margin-left: 9px;
+}
+
+.katlist div>span:nth-child(2) {
+   width: 25px;
+}
+.katlist div>span:nth-child(3) {
+   width: 25px;
+}
+
+.filters {
+  float: left;
+  padding-top: 20px;
+}
+
+.filters>div {
+  margin-bottom: 10px;
+  width: 260px;
+}
+.filters>div>select {
+  width: 260px;
+}
+
+#network {
+  color: #444;
+  background: #EEE;
+  padding-left: 8px;
+  padding-right: 8px;
+  line-height: 28px;
+  border-radius: 3px;
+  font-size: 11px;
+  float: left;
+}
+
+#network label {
+  float:left;
+}
+#network span {
+  float:right;
+}
+#network .switch-button-background {
+  margin: 6px 10px;
+}
+
+#loading {
+  z-index: 100;
+  position: absolute;
+  top: 500px;
+  left: 640px;
+}
