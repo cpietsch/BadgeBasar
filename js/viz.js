@@ -360,6 +360,28 @@ function ready (error,politiker,badges,network,auswahl) {
       .style("background",function(d){ return fill(d.type+d.geschlecht) })
 
     selection.exit().style("opacity",0)
+
+  }
+
+  var makeMandatesList = function(mandates){
+    console.log("makeMandatesList", mandates);
+
+    var s = d3.select('#listMandates').selectAll("li").data(mandates);
+
+    s.exit().remove();
+
+    s.enter()
+      .append("li")
+      .text(function(d){
+        return d.name;
+      });
+
+    s
+      .text(function(d){
+        return d.name;
+      });
+
+  
   }
 
 
@@ -978,6 +1000,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
   }
 
+
   var makeNetwork = function(d){
     console.log("makeNetwork",d);
 
@@ -985,6 +1008,8 @@ function ready (error,politiker,badges,network,auswahl) {
 
     var mandates = getMandates(source);
     var personen = getPersonsForMandates(mandates);
+
+    makeMandatesList(mandates);
 
     console.log("makeMandates",source,mandates,personen);
 

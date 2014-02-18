@@ -156,19 +156,54 @@ body {
 .intro-hide {
   display: none;
 }
+.info .bubbles {
+  height: 50px;
+}
+
+.info .mandates {
+  float: left;
+  width: 600px;
+  font-size: 11px;
+  padding: 15px;
+  background: #EEE;
+  margin-top: 10px;
+
+}
+
+.info .mandates span {
+  font-weight: bold;
+}
+.info .mandates li {
+  border-bottom: 1px solid #FFFFFF;
+  margin: 0;
+  width: 185px;
+  height: 19px;
+  overflow: hidden;
+  float: left;
+  margin-right: 5px;
+  padding: 3px;
+}
 
 .info {
   height: 130px;
   borders-bottom: 1px solid #eee;
   float: right;
   position: relative;
-  width: 530px;
+  width: 600px;
   opacity: 0.3;
+}
+.info .bubbles {
+  width: 600px;
+  float:left;
+}
+.info .mandates {
+  width: 600px;
+  float: left;
 }
 
 .politiker, .badge {
   float: left;
-  width: 250px;
+  width: 200px;
   font-size: 11px;
   padding-bottom: 10px;
 }
@@ -177,8 +212,8 @@ body {
 }
 .info .description {
   max-height: 30px;
-padding-top: 5px;
-overflow: hidden;
+  padding-top: 5px;
+  overflow: hidden;
 }
 .politiker .type {
   float: left;
@@ -190,8 +225,8 @@ overflow: hidden;
 .politiker .face {
   border-radius: 25px;
   float: left;
-  width: 50px;
-  height: 50px;
+  width: 25px;
+  height: 25px;
   background: #4c7388;
 }
 .badge .face {
@@ -205,14 +240,14 @@ overflow: hidden;
 .politiker .text {
   float: left;
   padding-left: 10px;
-  padding-top: 5px;
-  width: 200px;
+  padding-top: 1px;
+  width: 170px;
 }
 .badge .text {
   float: left;
   padding-left: 10px;
   padding-top: 1px;
-  width: 200px;
+  width: 170px;
 }
 
 .sidebar {
