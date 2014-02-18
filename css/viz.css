@@ -167,9 +167,10 @@ body {
 }
 
 .politiker, .badge {
-  position: absolute;
+  float: left;
   width: 250px;
   font-size: 11px;
+  padding-bottom: 10px;
 }
 .politiker h1, .badge h1 {
   font-size: 12px;

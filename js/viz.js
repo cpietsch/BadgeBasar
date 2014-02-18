@@ -25,14 +25,29 @@ var animation = false;
 var node;
 var filterPartei;
 var fill = d3.scale.ordinal()
-  .domain(["badgem", "badgew","politikerSRm","politikerSRw", "politikerNRm","politikerNRw"])
-  .range(["#777", "#A0A0A0","#a95457", "#d58a8a" ,"#4c7388", "#87a3b0"])
+  .domain(["badgem", "badgew","politikerSRm","politikerSRw", "politikerNRm","politikerNRw", "politikerNo"])
+  .range(["#777", "#A0A0A0","#a95457", "#d58a8a" ,"#4c7388", "#87a3b0", "#FFF"])
   // .domain(["badgew", "badgem","politikerSRw","politikerSRm", "politikerNRw","politikerNRm"])
   // .range(["#777", "#777","#a95457", "#a95457" ,"#4c7388", "#4c7388"])
 
-d3.selectAll('.legende circle').attr("fill",function(d){
-  return fill(d3.select(this).attr("type"));
-})
+d3.selectAll('.legende circle')
+  .attr("fill",function(d){
+    return fill(d3.select(this).attr("type"));
+  })
+  .attr("stroke", function(d){
+    if(d3.select(this).attr("type")=="politikerNo"){
+      return "#888";
+    } else {
+      return "#FFF";
+    }
+  })
+  .attr('r', function(d){
+    if(d3.select(this).attr("type")=="politikerNo"){
+      return 4;
+    } else {
+      return 5;
+    }
+  })
 var partei;
 
 var id = function(d,i){ return d.type+d.id; };
@@ -566,13 +581,9 @@ function ready (error,politiker,badges,network,auswahl) {
 
   var sortPolitiker = function(d,key,val){
     d.data.politiker.forEach(function(d){
-      if(val=="Alle") d.active=4;
-      else d.active = 1;
 
       d.active = 1;
-
       d.badges.forEach(function(a){ if(a.active>=4) d.active=4; });
-
       if(d.geschlecht=="m") d.active+=0.1;
       
     })
@@ -582,7 +593,9 @@ function ready (error,politiker,badges,network,auswahl) {
 
     d.data.politiker.forEach(function(e,i){
       e.x = e.px= d.data.politikerSeats[i].x;
-      e.y = e.py= d.data.politikerSeats[i].y
+      e.y = e.py= d.data.politikerSeats[i].y;
+
+      if(val=="Alle") e.active=4;
     });
     return d.data.politiker;
   }
@@ -620,15 +633,48 @@ function ready (error,politiker,badges,network,auswahl) {
         .delay(function(d,i){ return i*transitionDelay; })
         .attr('cx',function(d,i){ return d.x; })
         .attr('cy',function(d,i){ return d.y; })
-        .attr("r",function(d){ return d.active; })
+        .call(setStyle)
         //.style("opacity",function(d){ return d.geschlecht=="w" ? 0.4 : 1; })
-        .attr("fill", function(d){ 
-          return d.type=="badge" ? fill(d.type+d.geschlecht) : fill(d.type+d.rat+d.geschlecht);
-        });
+        
 
     });
 
     updateVoronoi();
+  }
+
+  var setStyle = function(elm){
+    elm
+      .attr("r",function(d){ 
+        if(d.type == "politiker" && d.badges.length == 0  && d.active >= 4){
+          return 4;
+        } else {
+          return d.active;
+        }
+      })
+      .attr("stroke-width", function(d){
+        if(d.type == "politiker" && d.badges.length == 0  && d.active >= 4){
+          return 1;
+        } else {
+          return 0;
+        }
+      })
+      .attr("fill", function(d){
+          if(d.type == "politiker" && d.badges.length == 0  && d.active >= 4){
+            return "#FFF";
+          } else if (d.type == "badge") {
+            return fill(d.type+d.geschlecht);
+          } else {
+            return fill(d.type+d.rat+d.geschlecht);
+          }
+          //return d.type=="badge" ? fill(d.type+d.geschlecht) : fill(d.type+d.rat+d.geschlecht);
+      })
+      .attr("stroke", function(d){
+          if(d.type == "politiker" && d.badges.length == 0){
+            return fill(d.type+d.rat+d.geschlecht);
+          } else {
+            return "#FFF";
+          }
+      })
   }
 
   var showPolitiker = function(){
@@ -643,11 +689,12 @@ function ready (error,politiker,badges,network,auswahl) {
         .delay(function(d,i){ return i*transitionDelay; })
         .attr('cx',function(d,i){ return d.x; })
         .attr('cy',function(d,i){ return d.y; })
-        .attr("r",function(d){ return d.active; })
+        //.attr("r",function(d){ return d.active; })
         //.style("opacity",function(d){ return d.geschlecht=="w" ? 0.4 : 1; })
-        .attr("fill", function(d){ 
-          return d.type=="badge" ? fill(d.type+d.geschlecht) : fill(d.type+d.rat+d.geschlecht);
-        })
+        //.attr("fill", function(d){ 
+        //  return d.type=="badge" ? fill(d.type+d.geschlecht) : fill(d.type+d.rat+d.geschlecht);
+        //})
+        .call(setStyle)
       });
 
     
@@ -797,6 +844,8 @@ function ready (error,politiker,badges,network,auswahl) {
       resetGraph();
       circles
         .classed("hover", function(d){ return d.active >= 4; })
+        .transition()
+        .duration(200)
         .attr("r",function(d){ return d.active; })
     } else {
       circles
@@ -823,8 +872,9 @@ function ready (error,politiker,badges,network,auswahl) {
 
     circleSvg.selectAll(".hover")
       .classed("hover", false)
-      .attr("r",function(d){ return d.active; })
-      .attr("stroke", "none")
+      .call(setStyle)
+      // .attr("r",function(d){ return d.active; })
+      // .attr("stroke", "none")
       
     myTooltip.hide();
   }
@@ -902,7 +952,9 @@ function ready (error,politiker,badges,network,auswahl) {
     circles.data(personen, id)
       .attr('r',8)
       .attr('stroke-width',2)
-      .attr('stroke','#EEE')
+      .attr('stroke',function(d){
+        return (d.type == "politiker" && d.badges.length == 0) ? fill(d.type+d.rat+d.geschlecht) : "#EEE";
+      })
       .attr('opacity',1)
       .classed('hover',true);
 
@@ -1098,6 +1150,10 @@ function ready (error,politiker,badges,network,auswahl) {
           makeAuswahl();
           makeKategorien();
 
+          // release the kraken
+          personen.forEach(function(d){ d.fixed = true; });
+          showNetworks=true;
+
         },1000);
 
       },
@@ -1136,26 +1192,26 @@ function ready (error,politiker,badges,network,auswahl) {
     return false;
   });
 
-  $("#network input[type=checkbox]").switchButton({
-    show_labels: false,
-    labels_placement: "right",
-    on_label: "An" ,
-    off_label: "Aus" 
-  })
-  .change(function(){
-    if($(this).is(':checked')){
-      resetGraph();
-      filterKatergorie('Alle');
-      personen.forEach(function(d){ d.fixed = true; });
-      showNetworks=true;
-      $("#auswahl select").attr('disabled', false).trigger("chosen:updated");
-    } else {
-      showNetworks=false;
-      resetGraph();
-      filterKatergorie('Alle');
-      $("#auswahl select").attr('disabled', true).trigger("chosen:updated");
-    }
-  });
+  // $("#network input[type=checkbox]").switchButton({
+  //   show_labels: false,
+  //   labels_placement: "right",
+  //   on_label: "An" ,
+  //   off_label: "Aus" 
+  // })
+  // .change(function(){
+  //   if($(this).is(':checked')){
+  //     resetGraph();
+  //     filterKatergorie('Alle');
+  //     personen.forEach(function(d){ d.fixed = true; });
+  //     showNetworks=true;
+  //     $("#auswahl select").attr('disabled', false).trigger("chosen:updated");
+  //   } else {
+  //     showNetworks=false;
+  //     resetGraph();
+  //     filterKatergorie('Alle');
+  //     $("#auswahl select").attr('disabled', true).trigger("chosen:updated");
+  //   }
+  // });
 
 
 
