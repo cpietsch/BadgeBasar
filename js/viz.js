@@ -233,6 +233,8 @@ function ready (error,politiker,badges,network,auswahl) {
     d.id = i;
     d.mandates = network.filter(function(e){ return e.infocube_id_person == d.infocube_id})
       .map(function(d){ return mandates.filter(function(e){ return e.key == d.name; })[0]});
+
+    //d.mandates = _.uniq(d.mandates.map(function(d){ d.name; }));
   });
 
   // badges = badges.filter(function(d){
@@ -333,9 +335,15 @@ function ready (error,politiker,badges,network,auswahl) {
 
   var makeInfo = function(d){
 
+    makeMandatesList(d);
+
     if(d.type=="mandat") return false;
 
     var politiker = (d.type=="badge" ? d.politiker : d);
+
+    politiker.badges.forEach(function(d) { d.sortInfo = 0; });
+    if(d.type == "badge") d.sortInfo = 1;
+    politiker.badges.sort(function(a,b){ return a.sortInfo<b.sortInfo; });
 
     var pDiv = d3.select('#info .politiker').datum(politiker);
     pDiv.select('.face')
@@ -347,7 +355,7 @@ function ready (error,politiker,badges,network,auswahl) {
         + politiker.rat;
     });
 
-    politiker.badges.sort(function(a,b){ return a.active<b.active ?1:-1; })
+    //politiker.badges.sort(function(a,b){ return a.active<b.active ?1:-1; })
 
     var selection = d3.selectAll('#info .badge').data(politiker.badges);
     selection
@@ -363,24 +371,35 @@ function ready (error,politiker,badges,network,auswahl) {
 
   }
 
-  var makeMandatesList = function(mandates){
-    console.log("makeMandatesList", mandates);
+  var makeMandatesList = function(d){
+    console.log("makeMandatesList", d);
 
-    var s = d3.select('#listMandates').selectAll("li").data(mandates);
+    if(d.mandates && d.mandates.length > 0) {
 
-    s.exit().remove();
+      $('.info .mandates').show();
 
-    s.enter()
-      .append("li")
-      .text(function(d){
-        return d.name;
-      });
+      var mandatesUniq = _.uniq(d.mandates.map(function(d) { return d.name; }));
+      // todo : in der generierung schon die doppelten rausschmeissen!!
 
-    s
-      .text(function(d){
-        return d.name;
-      });
+      var s = d3.select('#listMandates').selectAll("li").data(mandatesUniq);
 
+      s.exit().remove();
+
+      s.enter()
+        .append("li")
+        .text(function(d){
+          return d;
+        });
+
+      s
+        .text(function(d){
+          return d;
+        });
+
+    } else {
+      $('.info .mandates').hide();
+    }
+    //d3.select('#listMandates').text(mandates.join(", "));
   
   }
 
@@ -846,6 +865,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
     myTooltip.display(d);
     makeInfo(d);
+    console.log(d)
 
     if(!networkActive){
       if(showNetworks) makeNetwork(d);
@@ -1008,8 +1028,6 @@ function ready (error,politiker,badges,network,auswahl) {
 
     var mandates = getMandates(source);
     var personen = getPersonsForMandates(mandates);
-
-    makeMandatesList(mandates);
 
     console.log("makeMandates",source,mandates,personen);
 

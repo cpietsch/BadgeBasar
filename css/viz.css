@@ -164,10 +164,9 @@ body {
   float: left;
   width: 600px;
   font-size: 11px;
-  padding: 15px;
+  padding: 10px;
   background: #EEE;
-  margin-top: 10px;
-
+  position: relative;
 }
 
 .info .mandates span {
@@ -176,12 +175,26 @@ body {
 .info .mandates li {
   border-bottom: 1px solid #FFFFFF;
   margin: 0;
-  width: 185px;
+  width: 140px;
   height: 19px;
   overflow: hidden;
   float: left;
   margin-right: 5px;
   padding: 3px;
+}
+
+.info .mandates .border {
+  -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+width: 20px;
+height: 20px;
+position: absolute;
+left: 205px;
+top: -10px;
+background: #EEE;
 }
 
 .info {
