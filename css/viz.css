@@ -157,7 +157,7 @@ body {
   display: none;
 }
 .info .bubbles {
-  height: 50px;
+  height: 65px;
 }
 
 .info .mandates {
@@ -167,6 +167,8 @@ body {
   padding: 10px;
   background: #EEE;
   position: relative;
+    display: none;
+
 }
 
 .info .mandates span {
@@ -181,6 +183,19 @@ body {
   float: left;
   margin-right: 5px;
   padding: 3px;
+}
+
+.info .mandates .title {
+font-weight: bold;
+padding-left: 3px;
+padding-bottom: 5px;
+}
+
+.politiker .title, .badge .title {
+  color: #B9B9B9;
+  padding-left: 40px;
+  padding-bottom: 4px;
+  font-size: 11px;
 }
 
 .info .mandates .border {
@@ -238,8 +253,8 @@ background: #EEE;
 .politiker .face {
   border-radius: 25px;
   float: left;
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   background: #4c7388;
 }
 .badge .face {

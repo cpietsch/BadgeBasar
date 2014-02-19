@@ -372,7 +372,11 @@ function ready (error,politiker,badges,network,auswahl) {
   }
 
   var makeMandatesList = function(d){
-    console.log("makeMandatesList", d);
+    //console.log("makeMandatesList", d);
+
+    if(d.type == "mandat") {
+      //d = d.values.filter(function(d) { return d.active>=4; })[0];
+    }
 
     if(d.mandates && d.mandates.length > 0) {
 
