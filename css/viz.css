@@ -391,6 +391,9 @@ background: #EEE;
   font-size: 11px;
   float: left;
 }
+.katlist span.right {
+  text-align: right;
+}
 .katlist div>span:nth-child(1) {
    width: 210px;
    padding-left: 4px;

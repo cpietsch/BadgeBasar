@@ -568,9 +568,11 @@ function ready (error,politiker,badges,network,auswahl) {
         .text(function(d){ return d.key; })
       elm
         .append('span')
+        .attr('class', 'right')
         .text(function(d){ return d.values.length; })
       elm
         .append('span')
+        .attr('class', 'right')
         .text(function(d){
           if (mandateCount.hasOwnProperty(d.key)) {
             return d.values.length + mandateCount[d.key];
