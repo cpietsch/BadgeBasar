@@ -255,19 +255,27 @@ function ready (error,politiker,badges,network,auswahl) {
   // politiker = politiker.filter(function(d){
   //   return _.flatten(d.badges.map(function(d){ return d.mandates; })).length!=0;
   // });
+  
+  var nationalratSort = ["SVP","SP","FDP","CVP","GP","GLP","BDP","EVP","LEG","CSP","MCR"];
+  var standeratSort = ["parteilos","GP","BDP","GLP","SVP","FDP","SP","CVP"];
 
   var nationalrat = d3.nest()
     .key(function(d) { return d.partei; })
     .entries(politiker.filter(function(d){ return d.rat == "NR" }));
+
+  // nationalrat.forEach(function (d) {
+  //   console.log(_.indexOf(nationalratSort,d.key),d.key)
+  // })
 
   // var nationalratOver = nationalrat.filter(function(d){ return d.values.length<=1 });
   //nationalrat = nationalrat.filter(function(d){ return d.values.length>1 });
   // console.log(nationalratOver);
 
   nationalrat.sort(function(a,b){
-    return b.values.length - a.values.length;
+    return _.indexOf(nationalratSort,a.key) - _.indexOf(nationalratSort,b.key);
   });
-  move(nationalrat,7,4); // 7 = PPD, soll neben CVP stehen
+  //console.log("nationalrat",nationalrat)
+  //move(nationalrat,7,4); // 7 = PPD, soll neben CVP stehen
   
   nationalrat.forEach(function(n){
     n.politiker = n.values;
@@ -278,10 +286,14 @@ function ready (error,politiker,badges,network,auswahl) {
     .key(function(d) { return d.partei; })
     .entries(politiker.filter(function(d){ return d.rat == "SR" }));
   //standerat = standerat.filter(function(d){ return d.values.length>1 });
+
+  // standerat.forEach(function (d) {
+  //   console.log(_.indexOf(standeratSort,d.key),d.key)
+  // })
   standerat.sort(function(a,b){
-    return b.values.length - a.values.length;
-  })
-  move(standerat,5,6); // 5 = GP, soll neben LES stehen
+    return _.indexOf(standeratSort,a.key) - _.indexOf(standeratSort,b.key);
+  });
+  //move(standerat,5,6); // 5 = GP, soll neben LES stehen
   standerat.forEach(function(n){
     n.politiker = n.values;
     n.badges = badges.filter(function(b){ return (n.key == b.partei && b.rat == "SR") })
