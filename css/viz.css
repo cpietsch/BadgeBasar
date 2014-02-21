@@ -345,6 +345,7 @@ background: #EEE;
 }
 .katlist .header span:nth-child(1) {
   padding-top: 4px;
+  width: auto;
 }
 
 .katlist .icon  {
