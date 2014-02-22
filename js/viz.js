@@ -188,7 +188,7 @@ function ready (error,politiker,badges,network,auswahl) {
   politiker = politiker.filter(function(d){ return (d.status !="alt") });
   //badges = badges.filter(function(d){ return (d.status !="alt") });
   badges = badges.filter(function(d){
-    return (d.status !="alt" && d.infocube_id !="")
+    return (d.status !="alt")
   });
   network = network.filter(function(d){ return d.badge_id != ""});
    mandateCount = d3.nest()
