@@ -1,4 +1,7 @@
+console.log("VIZ INITIALIZE");
+
 if(typeof d3 != 'undefined'){
+
 
 var modal = $( "#modal-quellen" );
 
@@ -51,6 +54,9 @@ d3.selectAll('.legende circle')
   })
 var partei;
 var mandateCount;
+
+console.log("VIZ RUN");
+
 
 var id = function(d,i){ return d.type+d.id; };
 
@@ -171,14 +177,11 @@ var makeRat = function(params){
 
 }
 
-queue()
-  .defer(d3.csv, 'data/politiker.csv')
-  .defer(d3.csv, 'data/badges.csv')
-  .defer(d3.csv, 'data/network.csv')
-  .defer(d3.csv, 'data/auswahl.csv')
-  .await(ready)
+
 
 function ready (error,politiker,badges,network,auswahl) {
+
+  console.log("load",error,politiker,badges,network,auswahl)
   $("#loading").fadeOut();
   // console.log(politiker,badges,kategorien);
 
@@ -1296,14 +1299,20 @@ function ready (error,politiker,badges,network,auswahl) {
   //   }
   // });
 
-
-
 }
+
+  queue()
+  .defer(d3.csv, 'data/politiker.csv')
+  .defer(d3.csv, 'data/badges.csv')
+  .defer(d3.csv, 'data/network.csv')
+  .defer(d3.csv, 'data/auswahl.csv')
+  .await(ready)
 
 } else {
   $('#noSupport').show();
   $('#vizContainer, #modal-quellen').hide();
 }
+
 
 // helper funcs
 
