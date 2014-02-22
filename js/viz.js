@@ -1,3 +1,4 @@
+if(typeof d3 != 'undefined'){
 
 var modal = $( "#modal-quellen" );
 
@@ -588,12 +589,12 @@ function ready (error,politiker,badges,network,auswahl) {
       elm
         .append('span')
         .text(function(d){
-          if (mandateCount.hasOwnProperty(d.key)) {
-            return d.values.length + mandateCount[d.key];
-          } else {
-            return "–";
-          }
-        })
+           if (mandateCount.hasOwnProperty(d.key)) {
+             return d.values.length + mandateCount[d.key];
+           } else {
+             return "–";
+           }
+         })
 
         //.text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "m";}).length; })
       elm
@@ -1297,6 +1298,11 @@ function ready (error,politiker,badges,network,auswahl) {
 
 
 
+}
+
+} else {
+  $('#noSupport').show();
+  $('#vizContainer, #modal-quellen').hide();
 }
 
 // helper funcs
