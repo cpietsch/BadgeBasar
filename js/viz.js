@@ -49,7 +49,6 @@ d3.selectAll('.legende circle')
     }
   })
 var partei;
-var mandateCount;
 
 var id = function(d,i){ return d.type+d.id; };
 
@@ -182,18 +181,7 @@ function ready (error,politiker,badges,network,auswahl) {
   // console.log(politiker,badges,kategorien);
 
   politiker = politiker.filter(function(d){ return (d.status !="alt") });
-  badges = badges.filter(function(d){
-    return (d.status !="alt" && d.infocube_id !="")
-  });
-  network = network.filter(function(d){ return d.badge_id != ""});
-
-  mandateCount = d3.nest()
-    .key(function(d) { return d.kategorie })
-    .rollup(function(g) {
-      return d3.set(g.map(function(d){ return d.badge_id })).values().length
-    })
-    .map(network)
-  mandateCount["Alle"] = d3.sum(d3.values(mandateCount))
+  badges = badges.filter(function(d){ return (d.status !="alt") });
 
   politiker.forEach(function(d){
     d.partei = d.parteiZuordnung;
@@ -203,6 +191,8 @@ function ready (error,politiker,badges,network,auswahl) {
     d.name = d.vorname + " " + d.nachname;
   });
 
+
+  network = network.filter(function(d){ return d.id != ""});
 
   var mandates = d3.nest()
     .key(function(d) { return d.name; })
@@ -216,10 +206,9 @@ function ready (error,politiker,badges,network,auswahl) {
       d.type = "mandat";
       d.id = i;
       d.name = d.key;
-      d.kategorie = d.kategorie;
       d.values = d.values.map(function(e){
         return badges
-          .filter(function(f){ return e.badge_id == f.badge_id;
+          .filter(function(f){ return e.infocube_id_person == f.infocube_id;
         })[0];
       });
     })
@@ -242,7 +231,7 @@ function ready (error,politiker,badges,network,auswahl) {
     d.type = "badge";
     d.active = 4;
     d.id = i;
-    d.mandates = network.filter(function(e){ return e.badge_id == d.badge_id})
+    d.mandates = network.filter(function(e){ return e.infocube_id_person == d.infocube_id})
       .map(function(d){ return mandates.filter(function(e){ return e.key == d.name; })[0]});
 
     //d.mandates = _.uniq(d.mandates.map(function(d){ d.name; }));
@@ -257,7 +246,7 @@ function ready (error,politiker,badges,network,auswahl) {
   // });
   
   var nationalratSort = ["SVP","SP","FDP","CVP","GP","GLP","BDP","EVP","LEG","CSP","MCR"];
-  var standeratSort = ["parteilos","GP","BDP","GLP","SVP","FDP","SP","CVP"];
+  var standeratSort = [" ","GP","BDP","GLP","SVP","FDP","SP","CVP"];
 
   var nationalrat = d3.nest()
     .key(function(d) { return d.partei; })
@@ -493,6 +482,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
       var name = $( "option:selected", this).attr('value');
       if(name){
+        resetGraph();
         filterKatergorie(name,"deklarierte_funktion");
       } else {
         resetGraph();
@@ -580,24 +570,16 @@ function ready (error,politiker,badges,network,auswahl) {
         .text(function(d){ return d.key; })
       elm
         .append('span')
-        .attr('class', 'right')
-        .text(function(d){ return d.values.length; })
+        .text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "w";}).length; })
       elm
         .append('span')
-        .attr('class', 'right')
-        .text(function(d){
-          if (mandateCount.hasOwnProperty(d.key)) {
-            return d.values.length + mandateCount[d.key];
-          } else {
-            return "–";
-          }
-        })
+        .text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "m";}).length; })
       elm
         .on('click',function(d){
     
           d3.selectAll(".katlist .active").classed("active",false);
           d3.select(this).classed("active",true);
-
+          resetGraph();
           filterKatergorie(d.key,d.field);
         })
         .classed("active",function(d) { return i==0 ? true : false; })

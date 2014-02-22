@@ -148,7 +148,7 @@ id,vorname,nachname,geschlecht,rat,partei,parteiZuordnung,farbe,kanton,infocube_
 152,Nadine,Masshardt,w,NR,SP,SP,#CE2929,BE,https://infocube.ch/de/p/6348926/schefer-andreas#activeMandates,6348926
 153,Liliane,Maury Pasquier,w,SR,PSS,SP,#CE2929,GE,,
 154,Lucrezia,Meier-Schatz,w,NR,CVP,CVP,#FF8B07,SG,,
-155,Thomas,Minder,m,SR,0,parteilos,#428953,SH,0,0
+155,Thomas,Minder,m,SR,0,,#428953,SH,0,0
 156,Isabelle,Moret,w,NR,PLR.Les Libéraux-Radicaux,FDP,#5675D6,VD,,
 157,Christoph,Mörgeli,m,NR,SVP,SVP,#428953,ZH,,
 158,Tiana Angelina,Moser,w,NR,glp,GLP,#77E599,ZH,0,0
