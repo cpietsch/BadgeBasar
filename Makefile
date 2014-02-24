@@ -12,10 +12,7 @@ deploy: dependencies
 	@echo "Deployed to\n\033[0;32m$(S3_PUBLIC_URL)\033[0m"
 
 server:
-<<<<<<< HEAD
-=======
 	@echo "Server listening on:\n\033[0;32mhttp://localhost:8000\033[0m"
->>>>>>> ab9522259e49e4b61512dd674d2571d0314f9724
 	python -m SimpleHTTPServer 8000
 
 .PHONY: dependencies deploy server
