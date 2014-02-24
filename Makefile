@@ -11,4 +11,8 @@ deploy: dependencies
 	s3cmd sync --verbose --acl-public ./ s3://$(S3_BUCKET)/$(S3_PATH)
 	@echo "Deployed to\n\033[0;32m$(S3_PUBLIC_URL)\033[0m"
 
-.PHONY: dependencies deploy
+server:
+	@echo "Server listening on:\n\033[0;32mhttp://localhost:8000\033[0m"
+	python -m SimpleHTTPServer 8000
+
+.PHONY: dependencies deploy server

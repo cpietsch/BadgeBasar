@@ -1,6 +1,13 @@
 Das Netz der Zutrittsberechtigten in Bundesbern
 ==========
 
+Development
+-----------
+
+Ein lokaler Server lässt sich hiermit starten und ist dann auf http://localhost:8000 verfügbar:
+
+    make server
+
 Deployment
 ----------
 
