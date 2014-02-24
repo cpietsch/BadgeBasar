@@ -53,7 +53,6 @@ d3.selectAll('.legende circle')
     }
   })
 var partei;
-var mandateCount;
 
 //console.log("VIZ RUN");
 
@@ -191,13 +190,6 @@ function ready (error,politiker,badges,network,auswahl) {
     return (d.status !="alt")
   });
   network = network.filter(function(d){ return d.badge_id != ""});
-  mandateCount = d3.nest()
-    .key(function(d) { return d.kategorie })
-    .rollup(function(g) {
-      return d3.set(g.map(function(d){ return d.badge_id })).values().length
-    })
-    .map(network)
-  mandateCount["Alle"] = d3.sum(d3.values(mandateCount));
 
   politiker.forEach(function(d){
     d.partei = d.parteiZuordnung;
@@ -450,12 +442,22 @@ function ready (error,politiker,badges,network,auswahl) {
   }
 
 
-
    var kategorien = d3.nest()
      .key(function(d) { return d.kategorie; })
      .entries(badges)
      .sort(function(a,b) { return b.values.length - a.values.length })
      .map(function(d){
+        // Count all persons that have any relations with the current category.
+        // This number is always equal to or higher than the number of persons
+        // within the current category
+        var allRelatedToKategorie = badges.filter(function(v){return v.aktiveKategorien.has(d.key)});
+        var setOfAllRelated = d3.set(allRelatedToKategorie.map(function(v){return v.badge_id}));
+        d.values.forEach(function(v){ setOfAllRelated.add(v.badge_id); });
+        // Don't calculate related categories for special categories
+        if (["Persönliche Mitarbeiter", "Gast"].indexOf(d.key) < 0) {
+          d.allRelatedBadgesCount = setOfAllRelated.values().length;
+        }
+
         d.field = "kategorie";
         d.subkat = d3.nest()
          .key(function(d) { return d.deklarierte_funktion; })
@@ -470,7 +472,8 @@ function ready (error,politiker,badges,network,auswahl) {
         return d;
      })
 
-  kategorien.unshift({ key: "Alle", field: "kategorie", values: badges, subkat: [] });
+  var totalRelatedBadgesCount = d3.sum(kategorien.map(function(d){return d.allRelatedBadgesCount}));
+  kategorien.unshift({ key: "Alle", field: "kategorie", values: badges, subkat: [], allRelatedBadgesCount: totalRelatedBadgesCount });
 
   kategorien
     .filter(function(d){ return (
@@ -605,13 +608,12 @@ function ready (error,politiker,badges,network,auswahl) {
       elm
         .append('span')
         .text(function(d){
-           if (mandateCount.hasOwnProperty(d.key)) {
-             return d.values.length + mandateCount[d.key];
-           } else {
-             return "–";
-           }
-         })
-
+          if (d.hasOwnProperty("allRelatedBadgesCount")) {
+            return d.allRelatedBadgesCount;
+          } else {
+            return "–";
+          }
+        })
         //.text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "m";}).length; })
       elm
         .on('click',function(d){
