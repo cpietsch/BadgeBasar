@@ -1,752 +1,825 @@
-organization_id,badge_id,name,role,kategorie,noga
-8761,1,Isler & Pedrazzini,delegate,Anderes,"Patent lawyers, patent licensing companies"
-570304,1,Pedrazzini Holding,president of the board of directors,Anderes,Activities of other holding companies
-570304,1,Pedrazzini Campo,president of the board of directors,Bildung & Forschung,Research and experimental development on social sciences and humanities
-6908867,1,Pedrazzini Holding,Kapitalbeteiligung 100%,Anderes,
-539751,2,Affolter Mühle und Transport,member,Bauwirtschaft & Immobilien,Manufacture of grain mill products
-5522132,2,Aaremilch,managing director,Landwirtschaft,Business and other management consultancy activities
-260570,8,UBS,authorized signatory,Finanzen & Buchhaltung,Big banks
-766457,8,UBS,authorized signatory,Finanzen & Buchhaltung,Big banks
-612375,9,GFW Development AGlll,member,Consulting & PR,Other business support service activities n.e.c.
-4551851,9,Dr. Schenker Kommunikationszentrum für Wirtschaft und Politik,managing director,Consulting & PR,Public relations and communication activities
-32663,10,VSIG Handel Schweiz,member,Wirtschafts- und Branchenverbände,
-313275,10,Auto-Schweiz,president,Verkehr & Logistik,Activities of business and employers membership organisations
-353677,10,Auto-i-Dat,president of the board of directors,Anderes,Computer programming activities
-597312,10,Stiftung Auto Recycling Schweiz,member,Industrie & Energie,Other interest groups
-117050,11,Schweizerische Sozialpartner-Stiftung für die Auffangeinrichtung gemäss Artikel 60 BVG (Stiftung Auffangeinrichtung BVG),member,Altersvorsorge,Pension funding
-4645644,11,"Verein ARC, Bildungsinstitut für Arbeitnehmende",member,Gewerkschaften,Activities of trade unions
-7031474,16,Nimbus,member,Consulting & PR,Computer consultancy activities
-549040,16,"Zenhäusern und Partner, Unternehmensberstung für Öffentlichkeitsarbeit",single member of the board of directors,Consulting & PR,Public relations and communication activities
-661233,16,"Zenhäusern und Partner, Unternehmensberstung für Öffentlichkeitsarbeit",Kapitalbeteiligung 90%,Consulting & PR,
-661233,16,Maxon Motor,member,Industrie & Energie,"Manufacture of electric motors, generators and transformers"
-816596,16,Synegration,member,Consulting & PR,Computer consultancy activities
-4896041,16,Zenhäusern Akademie,single member of the board of directors,Bildung & Forschung,"Further vocational training, adult education"
-5065812,16,Zenhäusern Akademie,Kapitalbeteiligung 100%,Bildung & Forschung,
-5065812,19,Institut für Wirtschaftsstudien Basel,president of the board of directors,Consulting & PR,Other business support service activities n.e.c.
-5572862,22,Stiftung für Konsumentenschutz,managing director,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-116807,24,proparis Vorsorge-Stiftung Gewerbe Schweiz,president,Altersvorsorge,Pension funding
-130809,24,SIU - Schweizerisches Institut für Unternehmerschulung im Gewerbe Genossenschaft,president,Bildung & Forschung,"Further vocational training, adult education"
-231161,24,Energie-Agentur der Wirtschaft EnAW,vice-president,Industrie & Energie,Activities of business and employers membership organisations
-268276,24,Schweizerischer Gewerbeverband,director,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-4453219,24,"Baubiologie Bigler, haustrocknung.ch",holder,Bauwirtschaft & Immobilien,Technical testing and analysis
-5935272,24,Haustrocknung.ch GmbH,associate,Bauwirtschaft & Immobilien,Other specialised construction and civil engineering activities n.e.c.
-6588417,24,Haustrocknung.ch GmbH,Beteiligungshinweis,Bauwirtschaft & Immobilien,
-7201195,25,Stiftung im Rebberg für Wohlfahrt und Kultur,member,"Kultur, Medien, Telekommunikation",
-7201195,25,Robinvest,member,Consulting & PR,Investment intermediation
-624162,26,Swissolar - Schweizerischer Fachverband für Sonnenenergie,managing director,Industrie & Energie,Research and experimental development on biotechnology
-5729064,27,Genossenschaft Solidaritätsfonds der Auslandschweizer,vice-president,Anderes,Other interest groups
-5647039,27,Bosec Consulting,authorized signatory,Consulting & PR,Business and other management consultancy activities
-131966,27,"Institute for Security Analysis and Strategic Netwroking, Stiftung ISSN",member,Consulting & PR,"Cultural, education, scientific and research organisations"
-4377303,29,Schweizerischer Bauernverband SBV,authorized signatory,Landwirtschaft,Activities of business and employers membership organisations
-5598721,29,Agrisano,member,Landwirtschaft,
-293573,29,Schweizerische Vereinigung für die Entwicklung der Landwirtschaft und des ländlichen Raums Agridea,member,Landwirtschaft,"Further vocational training, adult education"
-403502,29,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,member,Bildung & Forschung,
-714432,30,Economiesuisse,member of the executive board,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-5599259,30,Energie-Agentur der Wirtschaft EnAW,president,Industrie & Energie,
-4453219,30,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",member,Bildung & Forschung,Research and experimental development on social sciences and humanities
-4925481,35,Centre Patronal,executive member,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-5654541,36,Serge et Daniel Bulliard,vice-president,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-5636828,36,La Méridienne Fribourg,president of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-67544,36,Coopérative Fribourgeoise de l'Habitat Familial,president,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-181484,36,TRANSAT,single member of the board of directors,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-727712,36,TRANSAT Entretien,associate,Bauwirtschaft & Immobilien,Combined facilities support activities
-5874918,36,TRANSAT Entretien,managing director,Bauwirtschaft & Immobilien,Combined facilities support activities
-5914466,36,TRANSAT Entretien,Beteiligungshinweis,Bauwirtschaft & Immobilien,Combined facilities support activities
-5914466,36,Wohnbau-DT,member,Bauwirtschaft & Immobilien,Development of building projects
-5914466,36,Wohnbau-DT,Vorsitzender der Geschäftsführung,Bauwirtschaft & Immobilien,Development of building projects
-6535205,36,Wohnbau-DT,Beteiligungshinweis,Bauwirtschaft & Immobilien,Development of building projects
-6535205,36,SFH Société fribourgeoise de l'habitat,president of the board of directors,Bauwirtschaft & Immobilien,General building construction and civil engineering works n.e.c.
-6535205,36,SBH Société Bulloise de l'Habitat,president of the board of directors,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-6550700,42,Verein Energie-Information E-Info,member,Industrie & Energie,Other technical consultancy and planning
-6705607,42,VKS - Verband Kompost- und Vergärwerke Schweiz,vice-president,Wirtschafts- und Branchenverbände,Other interest groups
-607598,42,Nova Energie,authorized signatory,Industrie & Energie,Other technical consultancy and planning
-811571,45,Rudolf Steiner Schulverein St. Gallen,member,Bildung & Forschung,Compulsory schooling n.e.c.
-4734444,45,Swissaid - Schweizerische Stiftung für Entwicklungszusammenarbeit,member,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-256067,45,Ecopolitics,associate,Consulting & PR,"Other professional, scientific and technical activities n.e.c."
-297768,45,Ecopolitics,Geschäftsführer,Consulting & PR,
-4045427,45,Ecopolitics,Beteiligungshinweis,Consulting & PR,
-4045427,45,Ecopolitics,Kapitalbeteiligung 100%,Consulting & PR,
-4045427,45,"Vorsorgestiftung RSS, Gemeinschaftsstiftung für Mitarbeitende der Rudolf Steiner Schulen in der Schweiz",member,Altersvorsorge,Pension funding
-4045427,46,Dynamics Group,director,Consulting & PR,Business and other management consultancy activities
-6753565,46,Dynamics Group,Kapitalbeteiligung 100%,Consulting & PR,Business and other management consultancy activities
-5442536,47,Handelskammer Schweiz-Armenien,vice-president,Anderes,Activities of business and employers membership organisations
-5442536,48,Schweizerischer Verband für visuelle Kommunikation Viscom,deputy director,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-7038640,48,Institut Libertas,member,Politisches,Other interest groups
-40709,48,Jubiläumsstiftung der Kantonsschule Winterthur 1963,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-161705,48,Schweizerische Gesellschaft für militärhistorische Studienreisen GMS,member,Bildung & Forschung,Travel agency activities
-168461,48,Region Ost- und Zentralschweiz des Schweizerischen Verbandes für visuelle Kommunikation Viscom,managing director,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-268316,48,Stiftung centro del bel libro,member,Bildung & Forschung,Special schools
-333303,49,Economiesuisse,Mitglied der Geschäftsführung,Wirtschafts- und Branchenverbände,
-362281,49,Fondation Anouk,Mitglied,"Gesundheit, Pflege, Pharma",
-122996,50,Pro Juventute,member,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-4504333,50,Kaufmann Ronny - Berater,holder,Consulting & PR,Business and other management consultancy activities
-5023144,50,Mobility Solutions,member,Verkehr & Logistik,Service activities incidental to land transportation
-7190156,50,Swiss eMobility,member,Verkehr & Logistik,"Cultural, education, scientific and research organisations"
-674393,53,Leder Partner,general partner,Consulting & PR,Public relations and communication activities
-16036,54,Spross Ga-La-Bau,member,Umwelt,Landscape service activities
-16037,54,Spross-Holding,member,Anderes,Activities of head offices of other companies
-16038,54,Spross-Immobilien,member,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-145354,54,Genossenschaft Hauseigentümerverband Zürich,director,Bauwirtschaft & Immobilien,Other interest groups
-161081,54,Initiativ-Genossenschaft Lindenplatz Altstetten IGLA,member,Sport & Tourismus,"Hotels, inns and guesthouses with restaurants"
-293857,54,Sto AG,member,Bauwirtschaft & Immobilien,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
-603963,54,Hypothekar-Bürgschaftsgenossenschaft für Wohneigentumsförderung HBW,authorized signatory,Finanzen & Buchhaltung,Other credit granting n.e.c.
-812395,54,Allreal Holding,member,Anderes,Activities of head offices of other companies
-4480287,54,Gebäudeversicherung Kanton Zürich,member,Versicherungen,
-5134658,54,Patronale Personalfürsorgestiftung der Spross-Holding,member,Altersvorsorge,Pension funding
-5364304,54,HEV Kanton Zürich,director,Bauwirtschaft & Immobilien,Activities of business and employers membership organisations
-5404360,54,Platanus Holding,member,Anderes,Activities of other holding companies
-5734533,54,Persimob,member,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-297799,55,Swisstransplant - Schweizerische Stiftung für Organspende und Transplantation,Vizepräsident,"Gesundheit, Pflege, Pharma",Healthcare organisations
-6459850,55,Marie-Louise Baumann MLB Communications,holder,Consulting & PR,Public relations and communication activities
-664171,56,Stiftung Casty-Buchmann,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-5091646,56,Swissgrid,member,Industrie & Energie,Transmission of electricity
-6844873,56,Psychiatrische Dienste Graubünden,president,"Gesundheit, Pflege, Pharma",Institutions for psychosocial cases
-7176095,57,With Metallbau,member,Industrie & Energie,
-142633,58,Hääss-Chammer-Gnosseschaft Appenzell,member,Anderes,Other interest groups
-5818826,58,Lokal Appenzell,Geschäftsführer,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-5818826,58,Lokal Appenzell,associate,Detailhandel & Gastronomie,
-5818826,58,Lokal Appenzell,Beteiligungshinweis,Detailhandel & Gastronomie,
-588312,66,Katz Kunststoff-Ausbildungs- und Technologie-Zentrum,member,Bildung & Forschung,"Further vocational training, adult education"
-594905,66,Swiss Plastics,managing director,Industrie & Energie,Activities of business and employers membership organisations
-5552419,66,Verband Kunststoff-Rohre und Rohrleitungsteile,authorized signatory,Industrie & Energie,Activities of professional membership organisations
-40738,68,Schweizerischer Ingenieur- und Architektenverein SIA,Geschäftsführer,Bauwirtschaft & Immobilien,
-397971,68,SIA-Haus,Mitglied,Bauwirtschaft & Immobilien,
-24114,69,Verband Holzindustrie Schweiz HIS,director,Industrie & Energie,Activities of professional membership organisations
-229860,69,Lignum Holzwirtschaft Schweiz,member,Industrie & Energie,Activities of business and employers membership organisations
-4444479,71,Möbelfabrik Betschart,member,Industrie & Energie,Manufacture of other furniture
-4444479,71,Personalvorsorgestiftung der Möbelfabrik Betschart,member,Altersvorsorge,Pension funding
-21043,71,Peter Föhn-Heinzer Holding,member,Anderes,Activities of other holding companies
-725978,71,Peter Föhn-Heinzer Holding,Kapitalbeteiligung 100%,Anderes,
-5629150,72,Société d'expansion touristique de Zinal,president of the board of directors,Sport & Tourismus,Travel agency activities
-5629150,72,Les 4 Vallées,president of the board of directors,Sport & Tourismus,Activities of sport clubs
-7027480,72,Inspection des finances du canton du Valais,Diverse,Politisches,General public administration activities
-6503707,72,Inspection des finances du canton du Valais,Beteiligungshinweis,Politisches,
-40711,72,Remontées Mécaniques de Grimentz - Zinal,member,Verkehr & Logistik,"Passenger transport by cableways, funiculars and ski-tows"
-598190,74,Aspero,managing director,Versicherungen,Activities of insurance agents and brokers
-5455082,77,Fachstelle für Gesundheitspolitik polsan,president of management board,"Gesundheit, Pflege, Pharma",Business and other management consultancy activities
-5455082,77,Fachstelle für Gesundheitspolitik polsan,associate,"Gesundheit, Pflege, Pharma",
-5455082,77,Fachstelle für Gesundheitspolitik polsan,Beteiligungshinweis,"Gesundheit, Pflege, Pharma",
-5025,80,Groupe E,member,Industrie & Energie,Distribution of electricity
-9589,80,Kraftwerke Oberhasli,member,Industrie & Energie,Production of electricity
-19021,80,AEK Energie,vice-president,Industrie & Energie,Trade of electricity
-310367,80,Verband Schweizerischer Elektrizitätsunternehmen VSE,president,Industrie & Energie,Activities of business and employers membership organisations
-4640944,80,Organisation der Schweizerischen Stromverbundunternehmen Swisselectric,member,Industrie & Energie,Activities of business and employers membership organisations
-6653957,80,BKW,vice-president,Industrie & Energie,Activities of other holding companies
-7285721,80,Devaux & Rohrbach,associate,Consulting & PR,
-7285721,80,Devaux & Rohrbach,Geschäftsführer,Consulting & PR,
-7285721,80,Devaux & Rohrbach,Beteiligungshinweis,Consulting & PR,
-1590,81,Pluswert,Vorsitzender der Geschäftsführung ,Detailhandel & Gastronomie,
-12237,81,Pluswert,Gesellschafter,Detailhandel & Gastronomie,
-17746,81,Pluswert,Beteiligungshinweis,Detailhandel & Gastronomie,
-17747,82,Stiftung Privatschulregister Schweiz,president,Bildung & Forschung,
-22927,83,Banque cantonale du Valais,member,Finanzen & Buchhaltung,Cantonal banks
-115182,83,Olf,member,Detailhandel & Gastronomie,"Wholesale of stationery, books and newspapers"
-116469,83,Vaudoise Generale,vice-president,Versicherungen,Accident and indemnity insurance
-134808,83,Vaudoise Vie,vice-president,Versicherungen,Accident and indemnity insurance
-217172,83,Robert Gilliard SA Vins,member,Landwirtschaft,Manufacture of wine from grape
-352772,83,Fondation de financement de la Caisse de pension Vaudoise Assurances,president,Altersvorsorge,Pension funding
-362987,83,Fondation Leenaards,member,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-395415,83,Les Domaines de Robert Gilliard,member,Landwirtschaft,Growing of grapes
-5243952,83,Caisse de pension Vaudoise Assurances,president,Altersvorsorge,Pension funding
-6390419,83,Mutuelle Vaudoise,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-5436471,83,Vaudoise Assurances Holding,vice-president,Versicherungen,Activities of other holding companies
-6329079,83,Fondation Louis Moret,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-292138,83,Implenia,member,Bauwirtschaft & Immobilien,Investment intermediation
-673377,83,Fondation equal-salary,member,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-4909939,84,Renate Hotz Communications,president of the board of directors,Consulting & PR,Public relations and communication activities
-4909939,87,Verein Energieallianz,member,Industrie & Energie,Other interest groups
-4909939,90,Stiftung des Schweizerischen Bierbrauervereins für Wissenschaftliche Forschung,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-15092,94,Schweizerischer Verband für komplementärmedizinische Heilmittel,managing director,"Gesundheit, Pflege, Pharma",Activities of professional membership organisations
-221374,94,"Köhler, Stüdeli und Partner",Gesellschafter,Consulting & PR,Public relations and communication activities
-286830,94,"Köhler, Stüdeli und Partner",Vorsitzender der Geschäftsführung,Consulting & PR,
-5131511,94,"Köhler, Stüdeli und Partner",Beteiligungshinweis,Consulting & PR,
-70954,97,Schweizerische Technische Fachschule Winterthur STF,president,Bildung & Forschung,Technical and vocational upper secondary education
-82756,97,Paritätische Krankenversicherung für Branchen der Gebäudetechnik,member,Versicherungen,Accident and indemnity insurance
-108662,97,Sozialfonds VSEI,member,"Hilfswerke, Nonprofit, Soziales",Other social activities without accommodation
-231161,97,Paritätische Landeskommission der Schweizerischen Elektro- und Telekommunikations-Installationsbranche PLK,member,"Kultur, Medien, Telekommunikation",Activities of professional membership organisations
-626292,98,Schweizer Reisekasse (Reka) Genossenschaft,member,Sport & Tourismus,"Holiday apartments, holiday homes"
-696949,98,Kongress & Kursaal Bern,member,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-827077,98,GastroSuisse,president,Detailhandel & Gastronomie,Activities of professional membership organisations
-5177285,98,Hotel Allegro Bern,member,Sport & Tourismus,"Hotels, inns and guesthouses with restaurants"
-5177321,98,"Gastroconsult AG, Zürich",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-5300480,98,"Gastroconsult SA, succursale de Saignelégier",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-5935272,98,"Gastroconsult AG, Succursale di Cadempino",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-6356522,98,"Gastroconsult AG, Bern",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-730959,98,"Gastroconsult SA, succursale de Fribourg",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-4710674,98,"Gastroconsult SA, Sion",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-4710674,98,"Gastroconsult SA, Pully",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-4710674,98,"Gastroconsult AG, Chur",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-5532595,98,"Gastroconsult AG, St. Gallen",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-5536332,98,"Gastroconsult AG, Luzern",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-714250,98,"Gastroconsult AG, Olten",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-714250,98,"Gastroconsult AG, Bernex",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-117058,98,"Gastroconsult AG, Visp",vice-president,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-231161,98,Hotel Consulting Group AG,president of the board of directors,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-232861,98,Belvoirpark AG,member,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-5398325,98,Sasso San Gottardo SA,member,"Kultur, Medien, Telekommunikation",Museums activities
-5654541,98,Restaurant Vieux-Bois SA,secretary,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-6755948,98,Schweizerischer Gewerbeverband,member,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-117045,98,Genossenschaft Dr. Frano Della Casa,member,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-117045,101,Sanitas Krankenversicherung,president,"Gesundheit, Pflege, Pharma",Health insurance
-395107,101,Sanitas Krankenversicherung,Vorsitzender der Geschäftsleitung,"Gesundheit, Pflege, Pharma",Health insurance
-6840148,105,Swissskills,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-20957,105,Pestalozzi-Stiftung für die Förderung der Ausbildung Jugendlicher aus schweizerischen Berggegenden,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-403502,105,Stiftung Privatschulregister Schweiz,president,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-403502,105,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",member,Bildung & Forschung,Research and experimental development on social sciences and humanities
-115912,105,Interessengemeinschaft Kaufmännische Grundbildung Schweiz IGKG,president,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-595976,106,Schweizerische Greina-Stiftung zur Erhaltung der alpinen Fliessgewässer,member,Umwelt,Other interest groups
-595976,106,Schweizerische Greina-Stiftung zur Erhaltung der alpinen Fliessgewässer,Geschäftsführer,Umwelt,Other interest groups
-5068611,106,Internationale Solarmobil Föderation ISF,vice-president,Umwelt,Activities of sport clubs
-7002607,106,Solaragentur Schweiz,managing director,Umwelt,Other interest groups
-163174,107,Proviande Genossenschaft,member,Landwirtschaft,Activities of business and employers membership organisations
-268108,107,Schweizerischer Bauernverband SBV,authorized signatory,Landwirtschaft,Activities of business and employers membership organisations
-645781,108,Schweizerischer Bauernverband SBV,authorized officer,Landwirtschaft,Activities of business and employers membership organisations
-7203683,111,Fondation du foyer d'accueil Le Christ-Roi,director,"Gesundheit, Pflege, Pharma",Residential nursing care activities
-104098,111,Argos,member,Versicherungen,Activities of insurance agents and brokers
-216315,111,Argos,Kapitalbeteiligung 100%,Versicherungen,Activities of insurance agents and brokers
-221414,111,Curaviva,vice-president,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-5208161,111,Besa Care,member,"Gesundheit, Pflege, Pharma",Healthcare organisations
-7052862,112,Interpharma,member of the executive board,"Gesundheit, Pflege, Pharma",Other research and experimental development on natural sciences and engineering
-651985,113,AG Haus der Wirtschaft,member,Bauwirtschaft & Immobilien,
-196915,113,Economiesuisse,Direktor,Wirtschafts- und Branchenverbände,
-199304,113,Fürsorgestiftung Economiesuisse,member,Altersvorsorge,
-203908,113,Stiftung Klimarappen,member,Umwelt,
-275833,114,Schweizerischer Bäcker-Confiseurmeister-Verband,vice-director,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-376445,120,Erdöl-Vereinigung EV,president,Industrie & Energie,Activities of professional membership organisations
-618293,120,Hutter Dynamics,member,Industrie & Energie,Maintenance and repair of motor vehicles
-688803,120,Hutter Dynamics AG Schaffhausen,member,Industrie & Energie,Maintenance and repair of motor vehicles
-821960,120,Stiftung Klimarappen,member,Umwelt,Other interest groups
-18526,120,Stiftung Klimaschutz und CO2-Kompensation Klik,president,Umwelt,Other interest groups
-800604,124,Theres und Gerhard Kraus-Vogt Stiftung,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-671386,128,Saly Mayer Memorial Stiftung,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-671386,128,Memorial Stiftung des Schweizerischen Israelitischen Gemeindebundes,member,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-671386,128,Adolf und Mary Mil-Stiftung,president,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-4608992,128,Sikna-Stiftung,member,"Gesundheit, Pflege, Pharma",Residential nursing care activities
-232658,128,Turavent Oil,managing director,Industrie & Energie,"Wholesale of solid, liquid and gaseous fuels and related products"
-268069,128,Phibro,managing director,Industrie & Energie,"Wholesale of solid, liquid and gaseous fuels and related products"
-296184,128,Stiftung Jüdische Zeitgeschichte an der ETH Zürich zur Sicherung und Erschliessung historischer Quellen in der Schweiz,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-4645644,128,Simon und Hildegard Rothschild-Stiftung,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-4474379,129,AXA Versicherungen,authorized signatory,Versicherungen,Accident and indemnity insurance
-5559401,131,Stiftung Werk- und Wohnhaus zur Weid,member,"Gesundheit, Pflege, Pharma",
-7011674,132,POWERcondens,member,Industrie & Energie,Wholesale of other machinery and equipment
-2749,136,Sigg Innenausbau,associate,Anderes,Interior joinery
-4407853,136,Sigg Innenausbau,Geschäftsführer,Anderes,
-6311314,136,Sigg Innenausbau,Beteiligungshinweis,Anderes,
-6311314,137,Paul Aenishänslin Public Affairs & Communications,holder,Consulting & PR,Advertising agencies
-6311314,138,Personalvorsorgestiftung von Scienceindustries,member,Altersvorsorge,Pension funding
-6311314,138,Scienceindustries,member of the executive board,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-3485,138,Swiss Engineering Media AG,president of the board of directors,Bauwirtschaft & Immobilien,Publishing of journals and periodicals
-15672,139,"Verein ARC, Bildungsinstitut für Arbeitnehmende",member,Gewerkschaften,Activities of trade unions
-79832,140,"Hirzel.Neef.Schmid Konsulenten, Zürich",director,Consulting & PR,Public relations and communication activities
-115376,140,"Hirzel.Neef.Schmid Konsulenten, Genf",director,Consulting & PR,Public relations and communication activities
-116690,140,Fipra Schweiz,managing director,Consulting & PR,Public relations and communication activities
-133643,140,Creapole SA,member,Consulting & PR,
-161526,144,Swiss Communication Agency,associate,Consulting & PR,Advertising agencies
-224525,144,Swiss Communication Agency,Geschäftsführer,Consulting & PR,Advertising agencies
-239537,144,Swiss Communication Agency,Beteiligungshinweis,Consulting & PR,Advertising agencies
-239539,145,GSMN Vaud SA,president of the board of directors,"Gesundheit, Pflege, Pharma",Special clinics
-275628,145,Société Suisse des Explosifs SA,president of the board of directors,Industrie & Energie,Manufacture of explosives
-305387,145,Clinique Générale - Ste-Anne SA,vice-president,"Gesundheit, Pflege, Pharma",General care hospitals
-310957,145,FONDATION DE PREVOYANCE GENOLIER SWISS MEDICAL NETWORK,president,Altersvorsorge,Pension funding
-311905,145,Fondation patronale de la Société Suisse des Explosifs,president,Altersvorsorge,Pension funding
-542095,145,AEVIS Holding SA,vice-president,"Gesundheit, Pflege, Pharma",Special clinics
-646222,145,Institut de Médecine de Genolier,president,"Gesundheit, Pflege, Pharma",Medical laboratories
-646899,145,Centre Médico-Chirurgical des Eaux-Vives SA,president of the board of directors,"Gesundheit, Pflege, Pharma",General medical practice activities
-711243,145,Privatklinik Obach AG,vice-president,"Gesundheit, Pflege, Pharma",General care hospitals
-795853,145,Klinik Villa im Park AG,vice-president,"Gesundheit, Pflege, Pharma",Special clinics
-799547,145,Klinik Pyramide am See AG,member,"Gesundheit, Pflege, Pharma",Special clinics
-4923606,145,SSE Finance SA,president of the board of directors,Finanzen & Buchhaltung,Fund management activities
-6262881,145,Ars Medica Clinic SA,vice-president,"Gesundheit, Pflege, Pharma",Special clinics
-6435542,145,Valsynthese SA,president of the board of directors,"Gesundheit, Pflege, Pharma",Other research and experimental development on natural sciences and engineering
-6965730,145,Clinique médico-chirurgicale de Valère SA,vice-president,"Gesundheit, Pflege, Pharma",General care hospitals
-7072960,145,Salus Medica Clinic SA,vice-president,"Gesundheit, Pflege, Pharma",General care hospitals
-7236043,145,Schweizerische Radio- und Fernsehgesellschaft,president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-5870217,145,"Schweizerische Radio- und Fernsehgesellschaft, Zweigniederlassung swissinfo",president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-40711,145,"SRF Schweizer Radio und Fernsehen, Zweigniederlassung der Schweizerischen Radio- und Fernsehgesellschaft",president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-3241,145,Publications Financières LSI SA,president of the board of directors,"Kultur, Medien, Telekommunikation",Publishing of journals and periodicals
-116484,145,"RTS Radio Télévision Suisse, succursale de la Société suisse de radiodiffusion et télévision",president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-116484,145,"RSI Radiotelevisione svizzera di lingua italiana, succursale della Società svizzera di radiotelevisione",president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-709982,145,GSMN Zürich AG,president of the board of directors,"Gesundheit, Pflege, Pharma",General care hospitals
-19176,145,CENTRE HENRY DUNANT POUR LE DIALOGUE HUMANITAIRE,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-26062,145,"RTR Radiotelevisiun Svizra Rumantscha, succursala da la Societad svizra da radio e televisiun",president,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-26072,145,Vins des Chevaliers SA,vice-president,Landwirtschaft,Growing of grapes
-299874,145,"Klinik Pyramide am See AG, Zweigniederlassung",member,"Gesundheit, Pflege, Pharma",Special clinics
-305247,145,Les Hauts de Genolier SA,president of the board of directors,"Gesundheit, Pflege, Pharma",Residential nursing care activities
-5601563,145,Raymond Loretan,holder,Consulting & PR,Advertising agencies
-6572460,145,Genolier Swiss Medical Network SA,president of the board of directors,"Gesundheit, Pflege, Pharma",Activities of other holding companies
-6617619,145,GSMN Neuchâtel SA,member,"Gesundheit, Pflege, Pharma",Specialists medical practice activities
-6723537,145,SHI Swiss Hotels Investments S.A.,member,Sport & Tourismus,Activities of other holding companies
-7190156,147,Suva,authorized signatory,Versicherungen,Accident insurance (SUVA)
-751093,148,Schweizerische Bankiervereinigung (SwissBanking),authorized signatory,Finanzen & Buchhaltung,Activities of professional membership organisations
-4925481,149,CSEM Centre Suisse d'Electronique et de Microtechnique SA - Recherche et Développement,member,Bildung & Forschung,Research and experimental development on biotechnology
-305247,149,"Fondation ""Les Billodes""",diverse,Bildung & Forschung,Special schools
-5613340,149,Fondation du Musée de la Tourbière,secretary,"Kultur, Medien, Telekommunikation",Museums activities
-7190156,150,Assista Protection juridique SA,vice-president,Versicherungen,Accident and indemnity insurance
-59257,150,Verein Barmelweid,member,"Gesundheit, Pflege, Pharma",Healthcare organisations
-101713,150,Aargauische Stiftung für Freiheit und Verantwortung in Politik und Wirtschaft,member,Politisches,Other interest groups
-121306,150,TCS-Zentrum Aargau AG,president of the board of directors,Verkehr & Logistik,Other technical consultancy and planning
-202090,150,Touring Club Suisse (TCS),vice-president,Verkehr & Logistik,Other interest groups
-569177,150,Buholz Immobilien AG,member,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-670972,150,Burkart Immobilien AG,member,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-675089,150,"Touring Club Schweiz, Sektion Aargau",president,Verkehr & Logistik,Other interest groups
-701374,150,Obere Mühle Alterswohnungen AG,member,"Gesundheit, Pflege, Pharma",Management of real estate on a fee or contract basis
-722655,150,Swiss eMobility,president,Verkehr & Logistik,"Cultural, education, scientific and research organisations"
-786744,157,AG Haus der Wirtschaft,secretary outside of the board of directors,Wirtschafts- und Branchenverbände,Management of real estate on a fee or contract basis
-813298,157,Economiesuisse,member of the executive board,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-4080626,162,Touring Club Suisse (TCS),director,Verkehr & Logistik,Other interest groups
-4249726,162,Academie Mobilite,delegate,Bildung & Forschung,"Further vocational training, adult education"
-4280390,162,Swiss eMobility,member,Verkehr & Logistik,"Cultural, education, scientific and research organisations"
-4659734,168,"Flora, Bona und Rosa Bollag-Stiftung",single member of the foundation board,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-4867290,168,Elinex Holding AG,single member of the board of directors,Anderes,Activities of other holding companies
-4867290,168,Frenziek AG,single member of the board of directors,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-4867290,168,MHN-AG Baugesellschaft zum Stein,single member of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-4867290,168,Eltan Holding AG,president of the board of directors,Anderes,Activities of other holding companies
-5598721,168,eurogold service Zumbühl & Co. Handelsagentur,general partner,Detailhandel & Gastronomie,"Agents involved in the sale of furniture, household goods, hardware and ironmongery"
-5860603,168,Mahr AG,member,Industrie & Energie,Wholesale of other machinery and equipment
-6311301,168,NetJets Europe GmbH,managing director,Industrie & Energie,Wholesale of other machinery and equipment
-6790803,168,Kolmar Group AG,member,Industrie & Energie,"Wholesale of solid, liquid and gaseous fuels and related products"
-6842976,168,Och Holding AG,vice-president,Anderes,Activities of head offices of other companies
-6842976,168,Burwill Commodities AG,vice-president,Industrie & Energie,Non-specialised wholesale trade
-821909,168,Association Romande des intermediaires financiers ARIF,vice-president,Finanzen & Buchhaltung,Other interest groups
-821909,168,Eltaver AG,president of the board of directors,Finanzen & Buchhaltung,Fund management activities
-821909,168,Klingelfuss+Cie.,general partner,Detailhandel & Gastronomie,Non-specialised wholesale trade
-5315051,168,IDS Living GmbH,president of management board,Bauwirtschaft & Immobilien,Interior and spatial design
-5485153,168,Institut für Sicherheitsanalysen und strategisches Networking - Stiftung (ISSN),president,Consulting & PR,"Cultural, education, scientific and research organisations"
-6317730,168,Eurogold Invest AG,president of the board of directors,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-6662437,168,Forum Schweizer Selbstregulierungsorganisationen (Forum-SRO),vice-president,Finanzen & Buchhaltung,Other interest groups
-6872037,168,R.R.E. Immo AG,member,Bauwirtschaft & Immobilien,Development of building projects
-6872037,168,Dr. J. Bollag & Cie.,general partner,Anderes,"Attorney, notary practice"
-6872037,171,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,member,Consulting & PR,Public relations and communication activities
-6872037,171,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,managing director,Consulting & PR,Public relations and communication activities
-6959305,171,Polo Bern AG,member,Sport & Tourismus,Other amusement and recreation activities
-6976376,171,Berner Politgespräche GmbH,managing director,Politisches,Activities of political organisations
-7015365,171,YJOO Communications,member,Consulting & PR,Public relations and communication activities
-6562984,171,YJOO Communications,member,Consulting & PR,Business and other management consultancy activities
-163174,171,Port-Associations GmbH,president of management board,Consulting & PR,Public relations and communication activities
-163174,171,Tabascom GmbH,associate,Finanzen & Buchhaltung,Investment intermediation
-357518,171,Bergfahrt AG,president of the board of directors,Verkehr & Logistik,Taxi operation
-6783413,171,Clé de Berne GmbH,managing director,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-232528,171,Swiss Capital in Motion GmbH,managing director,Consulting & PR,Public relations and communication activities
-239607,172,"Michi Nussbaumer, Grafik und Typografie",holder,Anderes,Graphic design and visual communication
-4467299,175,Interpharma,general secretary,"Gesundheit, Pflege, Pharma",Other research and experimental development on natural sciences and engineering
-4467299,175,Interpharma,managing director,"Gesundheit, Pflege, Pharma",Other research and experimental development on natural sciences and engineering
-5718242,175,Verein Hilfe für seelisch Leidende Basel,president,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-4398641,175,Stiftung Hilfe für seelisch Leidende Basel,president,"Hilfswerke, Nonprofit, Soziales",Charitable institutions
-5698245,179,Personalvorsorgestiftung Labor Veritas,member,Altersvorsorge,Pension funding
-24080,179,Probat Heizungssysteme,member,Bauwirtschaft & Immobilien,"lnstallation of heating, ventilation and air-conditioning systems"
-114874,179,Labor Veritas,vice-president,Bildung & Forschung,Technical testing and analysis
-240380,179,Studerus und Partner,single member of the board of directors,Consulting & PR,Business and other management consultancy activities
-292160,183,Thomas C. Maurer und Partner,fully liable partner,Consulting & PR,Public relations and communication activities
-662675,183,Maurer Partner Communications,president of the board of directors,Consulting & PR,Public relations and communication activities
-224039,184,Meyer-Wyss und Partner AG,member,Bauwirtschaft & Immobilien,Other information service activities n.e.c.
-116807,184,Stiftung der Schweizer Werbung für die Lauterkeit in der kommerziellen Kommunikation,member,"Kultur, Medien, Telekommunikation",Other interest groups
-683183,184,"ProLitteris, Schweizerische Urheberrechtsgesellschaft für Literatur und bildende Kunst, Genossenschaft",member,"Kultur, Medien, Telekommunikation","Attorney, notary practice"
-683183,184,Stiftung des Schweizerischen Zeitungsverleger-Verbandes zur Sicherung des schweizerischen Pressewesens,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-765645,184,Medialex,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-6480102,185,Pensionskassengenossenschaft des Schweizerischen Gewerkschaftsbundes,member,Altersvorsorge,Pension funding
-6480102,186,Stiftung für Konsumentenschutz,member,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-6480102,186,Swiss Foundation for Development and International Cooperation Intercooperation ,member,"Hilfswerke, Nonprofit, Soziales","Cultural, education, scientific and research organisations"
-6970750,186,Karch Kampagnen,managing director,Consulting & PR,Secretarial activities
-5847367,186,Karch Kampagnen,associate,Consulting & PR,Secretarial activities
-6943418,186,Karch Kampagnen,Beteiligungshinweis,Consulting & PR,Secretarial activities
-37437,189,Hanspeter Reimann Schreinerarbeiten,holder,Bauwirtschaft & Immobilien,Joinery installation
-154616,193,Stiftung Solinvest,authorized signatory,Bauwirtschaft & Immobilien,Other interest groups
-318012,193,Energieplattform Immobilien,member,Bauwirtschaft & Immobilien,Web portals
-318134,195,Genossenschaft pro Mosnang,president,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-785660,195,HULFTEGG Finanz- und Verwaltungs AG,president of the board of directors,Finanzen & Buchhaltung,Management of real estate on a fee or contract basis
-4659189,195,Stiftung St.Galler Landwirtschaft,member,Landwirtschaft,"Cultural, education, scientific and research organisations"
-4830867,195,St. Galler Bauernverband,managing director,Landwirtschaft,Activities of professional membership organisations
-6444785,195,Animaltruck AG,president of the board of directors,Verkehr & Logistik,Freight transport by road
-117560,195,Förderverein energietal toggenburg,vice-president,Industrie & Energie,"Other professional, scientific and technical activities n.e.c."
-5870217,195,Agrisano Prevos,vice-president,Altersvorsorge,
-310350,195,Paul und Hulda Gantenbein Stiftung,president,"Hilfswerke, Nonprofit, Soziales",
-145354,196,Sicherheitsfonds BVG,member,Altersvorsorge,Pension funding
-268028,198,Schweizer Milchproduzenten SMP Genossenschaft,authorized officer,Landwirtschaft,Activities of professional membership organisations
-293395,200,Genossenschaft Hauseigentümerverband Zürich,member,Bauwirtschaft & Immobilien,Other interest groups
-588305,201,Stiftung Landschaftsschutz Schweiz,managing director,Umwelt,Other interest groups
-5870237,201,Stiftung Umwelt-Einsatz Schweiz,member,Umwelt,Other interest groups
-292972,201,Rottebrigge-Alte Mühle,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-4645644,201,Fundaziun Pro Terra Engiadina,member,Umwelt,Landscape service activities
-4878047,204,Stiftung Märtplatz,member,Bildung & Forschung,"Further vocational training, adult education"
-4878047,204,Verein ARC -  Bildungsinstitut für Arbeitnehmende,member,Gewerkschaften,Activities of trade unions
-4996816,204,Stiftung Synapsis - Alzheimer Forschung Schweiz,managing director,Bildung & Forschung,Research and experimental development on biotechnology
-4996816,204,Stiftung Synapsis - Alzheimer Forschung Schweiz,secretary outside of the board of directors,Bildung & Forschung,Research and experimental development on biotechnology
-4996816,204,PHS Public Health Services,associate,"Gesundheit, Pflege, Pharma",Other paramedical activities
-5760940,204,PHS Public Health Services,managing director,"Gesundheit, Pflege, Pharma",Other paramedical activities
-6371095,204,PHS Public Health Services,Beteiligungshinweis,"Gesundheit, Pflege, Pharma",Other paramedical activities
-6371095,204,Wellatwork.ch GmbH,managing director,"Gesundheit, Pflege, Pharma",Web portals
-6371095,204,Syneric,associate,Bildung & Forschung,"Other professional, scientific and technical activities n.e.c."
-40693,204,Syneric,managing director,Bildung & Forschung,"Other professional, scientific and technical activities n.e.c."
-231362,204,Syneric,Beteiligungshinweis,Bildung & Forschung,"Other professional, scientific and technical activities n.e.c."
-267152,208,Schweizerische Vereinigung für Qualitäts- und Management-Systeme (SQS),member,Consulting & PR,Business and other management consultancy activities
-688086,208,Personalvorsorgestiftung der Wilhelm Schulthess-Stiftung,member,Altersvorsorge,Pension funding
-5344085,208,Wilhelm Schulthess - Stiftung,member,"Gesundheit, Pflege, Pharma",Special clinics
-5808690,208,Schweizerischer Versicherungsverband (SVV),director,Versicherungen,Activities of business and employers membership organisations
-19700,208,Stiftung Speranza,member,Bildung & Forschung,Other education n.e.c.
-134669,209,CH Gewerbe AG,president of the board of directors,Wirtschafts- und Branchenverbände,Other interest groups
-171444,209,Wirtschaftskammer Baselland,member of the executive board,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-171444,209,Personalfürsorgestiftung der Wirtschaftskammer Baselland,president,Altersvorsorge,Pension funding
-229773,209,"Touring Club Suisse (TCS), Vernier",member,Verkehr & Logistik,Other interest groups
-305247,209,"Touring Club Schweiz, Sektion beider Basel",member,Verkehr & Logistik,
-744464,209,IWF Institut für Wirtschaftsförderung AG,delegate,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-4173962,209,Gewerbeverband Baselland,vice-president,Wirtschafts- und Branchenverbände,Other interest groups
-4263957,209,Arbeitgeber Nordwestschweiz,president,Wirtschafts- und Branchenverbände,Other interest groups
-4267696,209,Wirtschaftskammer Nordwestschweiz,vice-president,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-4752825,209,Schweizerische Gesellschaft zur Förderung des Bausparens (SGFB),member,Bauwirtschaft & Immobilien,Activities of political organisations
-4780271,209,"Baselland Tourismus, Liestal",member of the executive board,Sport & Tourismus,Tour operator activities
-4890499,209,"Baselland Tourismus Services, Liestal",president of the board of directors,Sport & Tourismus,
-5158292,209,Arbeitgeber Baselland,president,Wirtschafts- und Branchenverbände,Activities of political organisations
-5568899,209,Verein Gastfamilien Basel 2008,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-6365916,209,Rofra Holding AG,member,Anderes,Activities of other holding companies
-6449283,209,VBS Verband-Services AG,delegate,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-7005117,209,BaZ Holding,member,Anderes,
-7298171,209,EBL (Genossenschaft Elektra Baselland),member,Industrie & Energie,
-117316,212,Fondazione ECAP,member,Bildung & Forschung,"Further vocational training, adult education"
-293241,212,Stiftung Gewerkschaftsschule Schweiz,president,Bildung & Forschung,
-579369,213,Jetra,single member of the board of directors,Industrie & Energie,Wholesale of other machinery and equipment
-579369,213,Stiftung Klimarappen,member,Umwelt,Other interest groups
-5208161,213,Verband der Schweizerischen Cementindustrie Cemsuisse ,managing director,Industrie & Energie,Activities of business and employers membership organisations
-5263841,213,Betonsuisse Marketing,secretary outside of the board of directors,Industrie & Energie,Public relations and communication activities
-5445863,216,Stiftung für Erforschung der Frauenarbeit,vice-president,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-292475,219,Schweizerischer Fussballverband,general secretary outside of the board of managers,Sport & Tourismus,Other sports activities
-6897353,220,Kummer Public Affairs,holder,Consulting & PR,Public relations and communication activities
-4115979,221,Verein velojournal,member,"Kultur, Medien, Telekommunikation",Other interest groups
-6879673,229,"Emch+Berger AG Bern, Spiez",member,Bauwirtschaft & Immobilien,Construction engineering
-8464,229,"Emch+Berger AG Bern, Zweigniederlassung Brig-Gils",member,Bauwirtschaft & Immobilien,Construction engineering
-46748,229,"Emch+Berger AG Gesamtplanung Hochbau, succursale de Lausanne",member,Bauwirtschaft & Immobilien,Construction engineering
-67731,229,Emch+Berger AG Bern,member,Bauwirtschaft & Immobilien,Construction engineering
-394367,229,"Emch+Berger AG Bern, Zweignieerlassung Biel/Bienne",member,Bauwirtschaft & Immobilien,Construction engineering
-567608,229,Band-Genossenschaft,member,Industrie & Energie,Mechanical workshops
-652694,229,"Burckhardt + Partner AG, Architekten Generalplaner, Basel",member,Bauwirtschaft & Immobilien,Architects
-674653,229,"Burckhardt + Partner AG, Architekten Generalplaner, Zürich",member,Bauwirtschaft & Immobilien,Architects
-4148527,229,"Burckhardt + Partner AG, Architekten Generalplaner, Lausanne",member,Bauwirtschaft & Immobilien,Architects
-4559356,229,"Burckhardt + Partner AG, Architekten Generalplaner, Carouge",member,Bauwirtschaft & Immobilien,Architects
-4798198,229,"Burckhardt + Partner AG, Architekten Generalplaner, Zweigniederlassung mit Sitz in Bern",member,Bauwirtschaft & Immobilien,Architects
-4975118,229,Stiftung Diaconis,member,"Gesundheit, Pflege, Pharma",Residential nursing care activities
-4982160,229,CSS Versicherung AG,member,"Gesundheit, Pflege, Pharma",Health insurance
-4988911,229,CSS Verein,member,"Gesundheit, Pflege, Pharma",Healthcare organisations
-5042617,229,tk3 AG,member,Bauwirtschaft & Immobilien,Architects
-5443936,229,"tk3 AG, Zweigniederlassung Zürich",member,Bauwirtschaft & Immobilien,Architects
-5565060,229,INTRAS Assurance SA,member,Versicherungen,Accident and indemnity insurance
-5746627,229,"tk3 SA, succursale de Lausanne",member,Bauwirtschaft & Immobilien,Architects
-5927280,229,Stade de Suisse Wankdorf Nationalstadion AG,member,Sport & Tourismus,Operation of sports facilities
-6277031,229,"tk3 SA, succursale de Carouge",member,Bauwirtschaft & Immobilien,Architects
-7064698,229,CSS Kranken-Versicherung AG,member,"Gesundheit, Pflege, Pharma",Health insurance
-7064698,229,CSS Holding AG,member,Anderes,Investment intermediation
-7064698,229,Sport und Event Holding AG,member,Sport & Tourismus,Activities of other holding companies
-5597055,229,Arcosana AG,member,"Gesundheit, Pflege, Pharma",Health insurance
-5597055,229,BSC Young Boys Betriebs AG,member,Sport & Tourismus,Activities of sport clubs
-70954,229,Stadtbauten Bern,member,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-310378,229,Schweizerische Exportrisikoversicherung,member,Versicherungen,Accident and indemnity insurance
-712164,229,INTRAS Assurance-maladie SA,member,"Gesundheit, Pflege, Pharma",Health insurance
-5033251,229,Sanagate AG,member,"Gesundheit, Pflege, Pharma",Health insurance
-7124388,229,Stiftung Bärenpark Bern,member,Umwelt,Other interest groups
-82791,229,Hayoz GmbH,associate,Consulting & PR,Business and other management consultancy activities
-811363,234,Vitali Treuhand,associate,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-811363,234,Vitali Treuhand,Beteiligungshinweis,Finanzen & Buchhaltung,"Accounting, bookkeeping and auditing activities; tax consultancy"
-5638490,235,Schweizer Reisekasse Genossenschaft,member,Sport & Tourismus,"Holiday apartments, holiday homes"
-6569447,235,Verband öffentlicher Verkehr,director,Verkehr & Logistik,Activities of professional membership organisations
-7200315,235,Schweiz Mobil,member,Sport & Tourismus,Other interest groups
-313275,235,Stiftung für die Unterstützung der Forschung im Bereich Seilbahnen,president,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-583791,235,"Bärn fägt - Stiftung für Berner Spiel-, Sport- und Erlebnistage",authorized signatory,Sport & Tourismus,Other sports activities
-597312,242,Maxmakers,vice-president,Consulting & PR,Other financial intermediation n.e.c.
-630809,242,Extramedia Holding,president of the board of directors,Finanzen & Buchhaltung,Investment intermediation
-646922,242,Extramedia Holding,Kapitalbeteiligung 100%,Finanzen & Buchhaltung,Investment intermediation
-4723997,242,Foundation for Global Sustainability,delegate,Umwelt,Research and experimental development on social sciences and humanities
-5426262,242,Stiftung Global Infrastructure Basel,member,Anderes,"Cultural, education, scientific and research organisations"
-818565,242,Cleantech Agentur Schweiz,vice-president,Umwelt,Business and other management consultancy activities
-331779,244,auto-schweiz VEREINIGUNG SCHWEIZER AUTOMOBIL-IMPORTEURE,director,Verkehr & Logistik,Activities of business and employers membership organisations
-70624,244,INOBAT Interessenorganisation Batterieentsorgung Genossenschaft,member,Umwelt,Treatment and disposal of non-hazardous waste
-117243,244,Stiftung Auto Recycling Schweiz,member,Industrie & Energie,Other interest groups
-109479,244,"Orthotec AG, Nottwil",member,Industrie & Energie,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
-268418,244,"Orthotec AG, succursale de Cugy",member,Industrie & Energie,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
-5134692,244,DTC Dynamic Test Center AG,vice-president,Industrie & Energie,Technical testing and analysis
-268215,244,spirit of management Andreas Burgener,holder,Consulting & PR,Business and other management consultancy activities
-384792,244,Bozzio AG,president of the board of directors,Industrie & Energie,Manufacture of other parts and accessories for motor vehicles
-384792,245,SBB,authorized signatory,Verkehr & Logistik,"Passenger rail transport, interurban"
-384792,246,"Lothar Ziörjen, Architekturbüro",authorized signatory,Bauwirtschaft & Immobilien,Architects
-97024,255,Pensionskasse Schweizerischer Anwaltsverband,member,Altersvorsorge,Pension funding
-602539,255,Unterstützungsfonds des Schweizerischen Anwaltsverbandes,member,Anderes,Other social activities without accommodation
-116974,256,Genossenschaft Feriendorf Fiesch,member,Sport & Tourismus,Other reservation services and related activities
-282878,256,Schweizer Sporthilfe,authorized signatory,Sport & Tourismus,Other sports activities
-283302,256,Swiss Olympic,director,Sport & Tourismus,Activities of sport clubs
-403502,259,"Wohnbaugenossenschaften Schweiz, Verband der gemeinnützigen Wohnbauträger",member,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-653780,259,Klipper,associate,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-653780,259,Klipper,managing director,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-661166,259,Klipper,Beteiligungshinweis,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-5402950,261,"East West Book Shop, Rentsch und Co",authorized officer,Detailhandel & Gastronomie,Publishing of directories and mailing lists
-5455802,262,Green Cross Schweiz,managing director,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-6294164,275,Fondation rurale de prévoyance professionnelle vieillesse survivants et invalidité,member,Altersvorsorge,Pension funding
-4805,275,LANDI Chénens Société coopérative,member,Landwirtschaft,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"
-40105,275,Société de fromagerie de Châtonnaye-Sédeilles-Rossens,president,Landwirtschaft,Manufacture of cheese
-40458,275,Le Journal Agri Sàrl,diverse,Landwirtschaft,Publishing of newspapers
-172258,275,"Bauernzeitung Nordwestschweiz, Bern und Freiburg AG, Bern",member,Landwirtschaft,Publishing of newspapers
-406353,275,Agrosolution AG,vice-president,Landwirtschaft,"Other professional, scientific and technical activities n.e.c."
-666723,275,AGRO fiduciaire fribourgeoise SA,president of the board of directors,Landwirtschaft,"Accounting, bookkeeping and auditing activities; tax consultancy"
-4681350,275,Agrimmo AG,president of the board of directors,Landwirtschaft,Letting of own or leased buildings and dwellings
-5508793,275,Schweizerischer Bauernverband (SBV),vice-president,Landwirtschaft,
-5649408,283,Electricité de la Lienne SA,member,Industrie & Energie,Production of electricity
-6428365,283,USIC-Stiftung,member,Bauwirtschaft & Immobilien,Other interest groups
-7106884,283,Association de l'ancien Hôpital de Gravelone des communes des districts de Sion-Hérens-Conthey,member,"Gesundheit, Pflege, Pharma",Healthcare organisations
-682800,283,Kbm Engineers SA,president of the board of directors,Industrie & Energie,Construction engineering
-4146848,283,Radio Rhône SA,member,"Kultur, Medien, Telekommunikation",Sound recording and music publishing activities
-171444,283,Pini Swiss Engineers SA,member,Industrie & Energie,Construction engineering
-171444,283,ETEC Ecologie aquatique Sàrl,managing director,Umwelt,Other research and experimental development on natural sciences and engineering
-379649,283,GazEl SA,president of the board of directors,Umwelt,Treatment and disposal of non-hazardous waste
-744464,283,alp Andenmatten Lauber & Partner AG,secretary,Industrie & Energie,Construction engineering
-4173962,283,"alp Andenmatten Lauber & Partner AG, Zermatt",secretary,Industrie & Energie,Construction engineering
-4890499,283,Zentrum La Suisse Brig AG,president of the board of directors,Bauwirtschaft & Immobilien,Development of building projects
-5002473,283,"Pini Swiss Engineers SA, Niederlassung Zürich",member,Industrie & Energie,Construction engineering
-5473306,288,"Lys DCT Seydoux, Beerli",general partner,Consulting & PR,Computer consultancy activities
-6997555,288,Lysoft,president of the board of directors,Anderes,Computer programming activities
-7005117,292,"Burson-Marsteller AG, Zürich",member of the executive board,Consulting & PR,
-7092781,292,"Burson-Marsteller AG, Geneva Branch, Genève",member of the executive board,Consulting & PR,
-7092781,292,"Burson-Marsteller AG, Zweigniederlassung Bern, Bern",member of the executive board,Consulting & PR,
-7092781,294,Wirtschaftskammer Baselland,member of the executive board,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-268184,294,"BG Mitte, Bürgschaftsgenossenschaft für KMU",member,Wirtschafts- und Branchenverbände,Other credit granting n.e.c.
-6943418,294,IWF Institut für Wirtschaftsförderung AG,authorized signatory,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-5117,294,Gewerbeverband Baselland,member,Wirtschafts- und Branchenverbände,Other interest groups
-5966,294,Arbeitgeber Baselland,member,Wirtschafts- und Branchenverbände,Activities of political organisations
-26062,294,"Zentrale Paritätische Kontrollstelle, ZPK",vice-president,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-26072,294,"Zentrale Arbeitsmarkt-Kontrolle, ZAK",member,Gewerkschaften,Activities of trade unions
-107920,294,Stiftung Tierpark Weihermätteli,vice-president,Umwelt,Botanical and zoological gardens and nature reserves activities
-107920,294,VBS Verband-Services AG,authorized signatory,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-4185512,295,Swisstasting,associate,Detailhandel & Gastronomie,Retail sale via mail order houses or via Internet
-4269554,295,Swisstasting,managing director,Detailhandel & Gastronomie,Retail sale via mail order houses or via Internet
-4269558,295,Swisstasting,Beteiligungshinweis,Detailhandel & Gastronomie,Retail sale via mail order houses or via Internet
-4691415,300,Hauseigentümerverband Schweiz,director,Bauwirtschaft & Immobilien,Other interest groups
-5553278,300,Energieplattform Immobilien,member of the executive board,Bauwirtschaft & Immobilien,Web portals
-5920036,301,Clientis Bank Küttigen-Erlinsbach AG,president of the board of directors,Finanzen & Buchhaltung,Regional banks and saving banks
-6734760,301,Franke Schweiz AG,member,Anderes,Activities of head offices of other companies
-779169,301,Verein Barmelweid,president,"Gesundheit, Pflege, Pharma",Healthcare organisations
-6368285,301,Aargauische Stiftung für Freiheit und Verantwortung in Politik und Wirtschaft,member,Wirtschafts- und Branchenverbände,Other interest groups
-68038,301,"Farner Consulting AG, Zürich",member,Consulting & PR,Business and other management consultancy activities
-786243,301,"Farner Consulting AG, Zürich",director,Consulting & PR,Business and other management consultancy activities
-40749,301,"Farner Consulting AG, Bern",member,Consulting & PR,Public relations and communication activities
-5208161,301,"Farner Consulting AG, Bern",director,Consulting & PR,Public relations and communication activities
-6943418,301,Reuss Private AG,president of the board of directors,Finanzen & Buchhaltung,Security and commodity contracts brokerage
-7290621,301,Betriebe Barmelweid AG,president of the board of directors,"Gesundheit, Pflege, Pharma",Combined facilities support activities
-24114,301,Klinik Barmelweid AG,president of the board of directors,"Gesundheit, Pflege, Pharma",Special clinics
-646899,301,Clientis AG,member,Finanzen & Buchhaltung,Banks with a special field of business
-11261,301,"Farner Consulting SA, Lausanne",member,Consulting & PR,Public relations and communication activities
-5436471,301,"Farner Consulting SA, Lausanne",director,Consulting & PR,Public relations and communication activities
-597312,301,Pflegezentrum Barmelweid AG,president of the board of directors,"Gesundheit, Pflege, Pharma",Residential nursing care activities
-692676,301,Verein Geothermische Kraftwerke Schweiz (VGKS),member,Industrie & Energie,Other interest groups
-4680048,301,Reuss Private Group AG,president of the board of directors,Finanzen & Buchhaltung,
-5870217,303,Estermann-Consulting,holder,Consulting & PR,Business and other management consultancy activities
-5718926,303,Yvette-Estermann-Stiftung,member,Anderes,"Cultural, education, scientific and research organisations"
-5269690,305,Schweizerische Beratungsstelle für Unfallverhütung,member of the executive board,"Gesundheit, Pflege, Pharma",Other interest groups
-7015293,314,Geo Consulting Group,single member of the board of directors,Consulting & PR,Business and other management consultancy activities
-4022257,315,Nuklearforum Schweiz,member,Industrie & Energie,Other interest groups
-4539901,315,Stiftung Klimarappen,member,Umwelt,Other interest groups
-5697285,315,Energieplattform Immobilien,member,Bauwirtschaft & Immobilien,Web portals
-5674085,315,Validitas Fachverband Schweizer Finanzdienstleister,vice-president,Finanzen & Buchhaltung,
-4093801,317,Möbelfabrik Betschart,member,Industrie & Energie,Manufacture of other furniture
-114788,326,"Schweizerische Radio- und Fernsehgesellschaft, Bern",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-217269,326,"SWI swissinfo.ch, Zweigniederlassung der Schweizerischen Radio- und Fernsehgesellschaft",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-641740,326,"SRF Schweizer Radio und Fernsehen, Zweigniederlassung der Schweizerischen Radio- und Fernsehgesellschaft, Zürich",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-6299054,326,"RTS Radio Télévision Suisse, succursale de la Société suisse de radiodiffusion et télévision",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-9363,326,"RSI Radiotelevisione svizzera di lingua italiana, succursale della Società svizzera di radiotelevisione",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-10728,326,"RTR Radiotelevisiun Svizra Rumantscha, succursala da la Societad svizra da radio e televisiun",director general,"Kultur, Medien, Telekommunikation",Television programming and broadcasting activities
-32608,329,Migros-Genossenschafts-Bund,authorized signatory,Detailhandel & Gastronomie,"Non-specialized wholesale of food, beverages and tobacco"
-586089,329,Renate Hotz Communications,member,Consulting & PR,Public relations and communication activities
-4492330,331,Stiftung Auto Recycling Schweiz,member,Industrie & Energie,Other interest groups
-5880664,331,"Boom, Büro für Organisation, Oeffentlichkeitsarbeit und Medienberatung Michael Gehrken",holder,Consulting & PR,Business and other management consultancy activities
-6957758,331,Schweizerischer Nutzfahrzeugverband Astag,director,Verkehr & Logistik,Activities of professional membership organisations
-6957758,331,Suva,member,Versicherungen,Accident insurance (SUVA)
-685220,341,Giovanni Giunta Bureau de conseils,holder,Consulting & PR,Business and other management consultancy activities
-685220,344,Medi 24 Service,single member of the board of directors,Versicherungen,Other paramedical activities
-685310,344,Amavita Health Care,authorized signatory,"Gesundheit, Pflege, Pharma",Wholesale of pharmaceutical goods
-4395103,344,G-Pharma,authorized signatory,"Gesundheit, Pflege, Pharma",Wholesale of pharmaceutical goods
-5411125,347,The Swiss Leading Hospitals,member,"Gesundheit, Pflege, Pharma",Other interest groups
-5797620,349,Consulenza Armin Menzi,holder,Consulting & PR,Advertising agencies
-6569447,361,Fondation des immeubles pour les organisations internationales,member,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-7256869,361,Services industriels de Genève,member,Industrie & Energie,Distribution of electricity
-597317,366,Kistler Holding AG,member,Anderes,Activities of other holding companies
-4046366,366,Burckhardt Compression AG,president of the board of directors,Industrie & Energie,Manufacture of other pumps and compressors
-4525006,366,"Allgemeiner Wohlfahrtsfonds der Kistler Instrumente Aktiengesellschaft, Winterthur",member,Altersvorsorge,Pension funding
-4525006,366,Kistler Instrumente AG,member,Industrie & Energie,"Manufacture of instruments and appliances for measuring, testing and navigation"
-4525006,366,Burckhardt Compression Holding AG,president of the board of directors,Industrie & Energie,Activities of other holding companies
-5241435,366,EGS Beteiligungen AG,member,Finanzen & Buchhaltung,Investment intermediation
-5690754,366,TAW Holding AG,president of the board of directors,Finanzen & Buchhaltung,Investment intermediation
-7237206,370,Ecos,president of the board of directors,"Kultur, Medien, Telekommunikation",Publishing of journals and periodicals
-55733,370,Stiftung Oekomedia,president,"Kultur, Medien, Telekommunikation",Library and archives activities
-55733,370,Stiftung BASE (Basel Agency for Sustainable Energy),member,Umwelt,"Cultural, education, scientific and research organisations"
-257640,370,The Gold Standard Foundation,member,Umwelt,Other interest groups
-268190,370,Swisscleantech,member,Umwelt,Research and experimental development on social sciences and humanities
-286828,370,Stiftung Global Infrastructure Basel,president,Anderes,"Cultural, education, scientific and research organisations"
-286828,370,Förderverein Cargo sous terrain,member,Verkehr & Logistik,
-318221,372,Komet Werbeagentur AG,president of the board of directors,Consulting & PR,Advertising agencies
-586102,372,"Durst, Marketing und Kommunikation",holder,Consulting & PR,Business and other management consultancy activities
-4043196,372,Birdie Company,associate,Consulting & PR,Business and other management consultancy activities
-4368260,372,Association Spitex privée Suisse,secretary outside of the board of managers,"Gesundheit, Pflege, Pharma",Healthcare organisations
-5740079,372,Komet Marketing & Communication,president of management board,Consulting & PR,Business and other management consultancy activities
-5870217,372,Vermag,member,Bauwirtschaft & Immobilien,Buying and selling of own real estate
-7051193,374,Bildungsfonds des KV Schweiz,member,Bildung & Forschung,Technical and vocational upper secondary education
-6567746,374,Bildungsfonds des KV Schweiz,managing director,Bildung & Forschung,Technical and vocational upper secondary education
-771741,374,Kaufmännischer Verband Schweiz,general secretary,Wirtschafts- und Branchenverbände,Activities of professional membership organisations
-269490,374,Sozialfonds des KV Schweiz,member,"Hilfswerke, Nonprofit, Soziales",Other social activities without accommodation
-702393,374,Sozialfonds des KV Schweiz,managing director,"Hilfswerke, Nonprofit, Soziales",Other social activities without accommodation
-806711,374,Vorsorgestiftung des Kaufmännischen Verbandes Schweiz,managing director,Altersvorsorge,Pension funding
-32605,374,Heidi Taxi Betriebs AG,member,Verkehr & Logistik,Taxi operation
-5870217,374,SKV Immobilien AG,delegate,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-6512328,374,HWZ Hochschule für Wirtschaft Zürich AG,member,Bildung & Forschung,Universities
-243207,374,SIB Schweizerisches Institut für Betriebsökonomie AG,delegate,Bildung & Forschung,"Further vocational training, adult education"
-6317730,374,Suva,member,Versicherungen,Accident insurance (SUVA)
-42744,374,Verlag SKV AG,delegate,"Kultur, Medien, Telekommunikation",Publishing of newspapers
-116726,374,Sabimo,member,Bauwirtschaft & Immobilien,
-122994,380,Swisspower,member of the executive board,Industrie & Energie,Activities of other holding companies
-122994,385,GTER-GROUPEMENT POUR DES TRANSPORTS EXPRESS REGIONAUX,member,Verkehr & Logistik,"Cultural, education, scientific and research organisations"
-646698,386,Robert-Walser-Stiftung Bern,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-4825624,386,Swisscable Verband für Kommunikationsnetze,managing director,"Kultur, Medien, Telekommunikation",Activities of business and employers membership organisations
-13369,386,Swiss Cable Net SCN,single member of the board of directors,"Kultur, Medien, Telekommunikation",Wired telecommunications activities
-6327436,388,Hilfs- und Solidaritätsfonds Syndicom,co-president,Gewerkschaften,Other social activities without accommodation
-5579664,388,Suva,member,Versicherungen,Accident insurance (SUVA)
-5579664,388,Syndicom,co-president,Gewerkschaften,Activities of trade unions
-5579664,389,Raiffeisenbank Amriswil-Dozwil-Sommeri Genossenschaft,member,Finanzen & Buchhaltung,Raiffeisen banks
-5606885,389,"Yjoo comunications, St. Gallen",authorized signature,Consulting & PR,
-691516,389,"Yjoo comunications, Zürich",authorized signature,Consulting & PR,
-217443,392,Stiftung für Radio und Kultur Schweiz,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-242583,394,E plus U Energie- und Umweltberatung GmbH,associate,Umwelt,Business and other management consultancy activities
-12837,394,E plus U Energie- und Umweltberatung GmbH,managing director,Umwelt,Business and other management consultancy activities
-19493,394,"Wohnbaugenossenschaft Oberfeld, Ostermundigen",president,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-20732,397,Fondation des Spectacles français,member,"Kultur, Medien, Telekommunikation",Operation of arts facilities
-204079,398,OGS Beratungsteam,member,Consulting & PR,Business and other management consultancy activities
-204079,398,Radio- und Fernsehgenossenschaft Bern Deutschfreiburg Oberwallis RGB,president,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-698074,406,PILATUS Flugzeugwerke AG,president of the board of directors,Industrie & Energie,Manufacture of air and spacecraft and related machinery
-4005937,406,Pilatus Aircraft Service AG,president of the board of directors,Industrie & Energie,Service activities incidental to air transportation
-4272674,406,PILATUS-BAHNEN AG,president of the board of directors,Verkehr & Logistik,"Passenger transport by cableways, funiculars and ski-tows"
-6484243,406,Mineralquelle Bad Knutwil AG,president of the board of directors,Industrie & Energie,Manufacture of soft drinks; production of mineral waters and other bottled waters
-268184,406,Tautec AG,single member of the board of directors,Detailhandel & Gastronomie,Non-specialised wholesale trade
-6925297,406,Oskar J. Schwenk,holder,Consulting & PR,Business and other management consultancy activities
-286827,406,Patronale Personalfürsorgestiftung PILATUS-BAHNEN,member,Altersvorsorge,Pension funding
-292304,406,SCL Helvetia AG,member,Verkehr & Logistik,Service activities incidental to water transportation
-821909,408,Hauseigentümerverband Schweiz,deputy director,Bauwirtschaft & Immobilien,Other interest groups
-821909,414,Garage STUDER,holder,Anderes,Maintenance and repair of motor vehicles
-821909,417,Stiftung SwissEngineering STV,member,Wirtschafts- und Branchenverbände,Charitable institutions
-5485153,417,Stiftung für die Hilfskasse des Schweizerischen Technischen Verbandes STV,member,Anderes,
-6662437,417,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,member,Consulting & PR,Public relations and communication activities
-86175,417,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,managing director,Consulting & PR,Public relations and communication activities
-131777,417,Berner Politgespräche GmbH,president of management board,Politisches,Activities of political organisations
-546549,417,Port-Associations GmbH,managing director,Consulting & PR,Public relations and communication activities
-4784701,418,cR Kommunikation AG,president of the board of directors,Consulting & PR,Advertising agencies
-7191682,418,Genossenschaft Baseltor,president,Sport & Tourismus,"Hotels, inns and guesthouses with restaurants"
-318134,418,Liegenschaft Hauptgasse 79 AG,member,Detailhandel & Gastronomie,"Restaurants, cafes, snack bars, tea rooms, ice-cream parlours"
-653780,418,cR Lichtspiele GmbH,authorized signatory,"Kultur, Medien, Telekommunikation","Motion picture, video and television programme production activities"
-653780,418,Liegenschaft Hauptgasse 64 AG,member,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-698007,424,Schweizer Obstverband,vice-director,Landwirtschaft,Activities of business and employers membership organisations
-765433,424,Stiftung Cavo,member,Landwirtschaft,Other interest groups
-15126,424,Stiftung Technische Obstverwertung Wädenswil,member,Landwirtschaft,Other interest groups
-74971,426,Helsana Unfall AG,vice-president,Versicherungen,Accident and indemnity insurance
-293364,426,Ersatzkasse gemäss den Artikeln 72 - 74 des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung,member,Versicherungen,Accident insurance (SUVA)
-12585,426,Schweizerische Sozialpartner-Stiftung für die Auffangeinrichtung gemäss Artikel 60 BVG (Stiftung Auffangeinrichtung BVG),president,Altersvorsorge,Pension funding
-104608,426,Sicherheitsfonds BVG,president,Altersvorsorge,Pension funding
-117050,426,proparis Vorsorge-Stiftung Gewerbe Schweiz,member,Altersvorsorge,Pension funding
-117560,426,Stiftung für ein erweitertes Versicherungsangebot durch die Helsana,member,"Gesundheit, Pflege, Pharma",Health insurance
-130809,426,Helsana Zusatzversicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-231161,426,Helsana Versicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-391644,426,Progrès Versicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-670731,426,Personalvorsorgestiftung der Helsana Versicherungen AG,member,Altersvorsorge,Pension funding
-697913,426,Helsana AG,vice-president,"Gesundheit, Pflege, Pharma",Activities of other holding companies
-760934,426,avanex Versicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-787348,426,Sansan Versicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-831675,426,maxi.ch Versicherungen AG,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-4373737,426,Suva,member,Versicherungen,Accident insurance (SUVA)
-4373739,431,COGERIM SOCIETE COOPERATIVE,member,Bauwirtschaft & Immobilien,Real estate agencies
-5546128,431,Gewerkschaften UNIA,co-president,Gewerkschaften,Activities of trade unions
-5870217,431,Egghölzli Verwaltungen AG,president of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-3548,431,Société Immobilière Cluse-Préau SA,member,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-83794,431,SI Lignon-Résidence SA,vice-president,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-83794,431,Stiftung UNIA,member,Gewerkschaften,Activities of trade unions
-89292,431,Stiftung UNIA,managing director,Gewerkschaften,Activities of trade unions
-99048,431,Typo Offset Aurora SA,vice-president,Industrie & Energie,Offset printing
-273184,431,"Wohnbaugenossenschaft ""Schönehof"" Frauenfeld",member,Bauwirtschaft & Immobilien,Letting of own or leased buildings and dwellings
-277486,431,"Zivag Verwaltungen AG, Bern",president of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-292249,431,"Zivag Verwaltungen AG, Lausanne",president of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-292249,431,L'Evénement syndical SA,member,Gewerkschaften,Publishing of newspapers
-309374,431,Associazione interprofessionale di controllo (AIC),president,Wirtschafts- und Branchenverbände,Other interest groups
-327310,431,Caisse de retraite anticipée du second oeuvre romand (RESOR),authorized signatory,Altersvorsorge,Pension funding
-331829,431,"Zivag Verwaltungen AG, Zweigniederlassung Zürich",president of the board of directors,Bauwirtschaft & Immobilien,Management of real estate on a fee or contract basis
-775866,431,Suva,member,Versicherungen,Accident insurance (SUVA)
-786186,431,IndustriALL Global Union,member,Gewerkschaften,Activities of trade unions
-786186,441,Genossenschaft Landwirtschaftliches Bau- und Architekturbüro LBA des Schweizerischen Bauernverbandes,member,Bauwirtschaft & Immobilien,Architects
-4877396,441,Personalvorsorgestiftung des Schweizerischen Bauernverbandes,member,Altersvorsorge,Pension funding
-4889447,441,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,president,Landwirtschaft,"Cultural, education, scientific and research organisations"
-5870217,441,Schweizerischer Bauernverband (SBV),vice-president,Landwirtschaft,Activities of business and employers membership organisations
-6972825,441,Qualinova AG,member,Bildung & Forschung,Technical testing and analysis
-182233,441,Regionale Wald-Genossenschaft Fontannen,vice-president,Landwirtschaft,Logging
-182462,444,Emmentalische Mobiliar Versicherungs-Genossenschaft (Emmental Versicherung),vice-president,Versicherungen,Accident and indemnity insurance
-232487,444,Pensionskasse der Emmental Versicherung,member,Altersvorsorge,Pension funding
-293573,444,Zusatzstiftung SMP,president,Altersvorsorge,Pension funding
-403502,444,Schweizerischer Bauernverband (SBV),member,Landwirtschaft,
-822767,449,Verkehrsclub der Schweiz,managing director,Verkehr & Logistik,Other interest groups
-5701303,449,Schweizerische Verkehrs-Stiftung,member,Verkehr & Logistik,Other interest groups
-4971,454,Furrer.Hugi und Partner,authorized officer,Consulting & PR,Public relations and communication activities
-232666,457,Jubiläums-Stiftung des Bankhauses La Roche & Co.,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-326487,457,Stiftung Europainstitut Basel,member,Politisches,Activities of political organisations
-403502,457,Handelskammer beider Basel,director,Wirtschafts- und Branchenverbände,Activities of business and employers membership organisations
-40937,457,SSIB Swiss School for International Business AG,member,Bildung & Forschung,"Further vocational training, adult education"
-122699,457,Swiss Chambers' Arbitration Institution,member,Anderes,Other interest groups
-821909,457,BioValley Basel,cashier,Bildung & Forschung,Other interest groups
-821909,457,BaselArea - Wirtschaftsförderung Basel-Stadt und Basel-Landschaft,member,Wirtschafts- und Branchenverbände,Regulation of and contribution to more efficient operation of businesses
-292876,457,Basel Tourismus,member,Sport & Tourismus,
-313520,457,Stiftung Telebasel,member,"Kultur, Medien, Telekommunikation",
-371094,463,Stiftung Zewo,member,"Hilfswerke, Nonprofit, Soziales",Activities of trade unions
-612315,465,CLINIQUE LE NOIRMONT SOCIETE COOPERATIVE,member,"Gesundheit, Pflege, Pharma",Special clinics
-726339,465,Stiftung zur Förderung besonderer gemeinschaftlicher Aufgaben der sozialen Krankenversicherung,member,"Gesundheit, Pflege, Pharma",Health insurance
-4926052,465,Medidata AG,member,"Gesundheit, Pflege, Pharma",Business and other management consultancy activities
-5722470,465,SVK Schweizerischer Verband für Gemeinschaftsaufgaben der Krankenversicherer,member,"Gesundheit, Pflege, Pharma",
-6572383,465,Schweizerischer Versicherungsverband (SVV),member,Versicherungen,Activities of business and employers membership organisations
-6639707,465,Genossenschaft Alpin Center Zermatt,member,Sport & Tourismus,Other personal service activities n.e.c.
-4412332,465,"SASIS AG, Solothurn",vice-president,Anderes,Computer programming activities
-75809,465,"SASIS AG, Luzern",vice-president,Anderes,Computer programming activities
-293513,465,santésuisse,vice-president,"Gesundheit, Pflege, Pharma",Activities of business and employers membership organisations
-635751,465,tarifsuisse ag,vice-president,"Gesundheit, Pflege, Pharma",Activities of business and employers membership organisations
-726764,465,Mutuel Assurance Maladie SA,member,"Gesundheit, Pflege, Pharma",Health insurance
-5344085,465,Allianz Schweizer Krankenversicherer,vice-president,"Gesundheit, Pflege, Pharma",Health insurance
-5516292,466,Credit Suisse Group AG,authorized signatory,Finanzen & Buchhaltung,Investment intermediation
-5828759,466,Credit Suisse AG,authorized signatory,Finanzen & Buchhaltung,Big banks
-6246638,466,Dr. Heinrich Wachter-Stiftung zur Förderung der wissenschaftlichen Forschung an der Hochschule St. Gallen für Wirtschafts- und Sozialwissenschaften,member,Bildung & Forschung,"Cultural, education, scientific and research organisations"
-6426301,466,Young Leaders Alumni Foundation,member,Bildung & Forschung,Other interest groups
-6455695,467,EQUAM Stiftung,member,"Gesundheit, Pflege, Pharma",Healthcare organisations
-6784868,470,Europäische Reiseversicherungs AG,member,Versicherungen,Accident and indemnity insurance
-3913,470,Stiftung für Konsumentenschutz,vice-president,"Hilfswerke, Nonprofit, Soziales",Other interest groups
-15012,477,Stiftung Landschaftsschutz Schweiz,member,Umwelt,Other interest groups
-318753,477,Sanu durabilitas - Schweizerische Stiftung für Nachhaltige Entwicklung,member,Umwelt,"Cultural, education, scientific and research organisations"
-7059421,478,Solsana,member,Sport & Tourismus,"Hotels, inns and guesthouses with restaurants"
-825414,481,Schweizerisches Alpines Museum,vice-president,"Kultur, Medien, Telekommunikation",Museums activities
-5242,481,Top Fifty AG,member,Consulting & PR,Activities of employment placement agencies
-116807,481,Fondation pour la Garde Suisse Pontificale au Vatican,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-268028,481,Stylos BVG-Sammelstiftung,member,Altersvorsorge,Pension funding
-268034,481,Textbüro Holz GmbH,associate,Consulting & PR,Advertising agencies
-6473402,481,Textbüro Holz GmbH,Beteiligungshinweis,Consulting & PR,Advertising agencies
-268221,481,"Dynamics Group AG, Bern",president of the board of directors,Consulting & PR,Business and other management consultancy activities
-709580,481,"Andermatt Swiss Alps AG, Andermatt",member,Sport & Tourismus,Development of building projects
-4140396,481,Orascom Development Holding AG,member,Anderes,Activities of head offices of other companies
-4944573,481,"Dynamics Group AG, Zürich",president of the board of directors,Consulting & PR,Business and other management consultancy activities
-5295393,481,Stiftung SALLE MODULABLE,member,"Kultur, Medien, Telekommunikation","Cultural, education, scientific and research organisations"
-5295393,481,"Andermatt Swiss Alps AG, Altdorf (UR)",member,Sport & Tourismus,Development of building projects
-5295393,481,Andermatt-Urserntal Tourismus,managing director,Sport & Tourismus,
-5442536,486,Premium Incentives and Events,member,Consulting & PR,Organisation of conventions and trade shows
-5442536,486,Swiss Economic Forum,member,Wirtschafts- und Branchenverbände,"Cultural, education, scientific and research organisations"
-5530903,486,Stähli und Linder,member,Consulting & PR,Business and other management consultancy activities
-5633298,486,IFH Interforum Holding,member,Finanzen & Buchhaltung,Investment intermediation
-5660402,491,Coop Rechtsschutz,member,Versicherungen,Accident and indemnity insurance
-5677046,491,Ferienheimgenossenschaft SEV,president,Gewerkschaften,"Hotels, inns and guesthouses with restaurants"
-5708995,491,Gewerkschaften des Verkehrspersonals SEV,president,Gewerkschaften,Activities of trade unions
-6679138,491,Pensionskasse des Schweizerischen Eisenbahn- und Verkehrspersonal-Verbandes,member,Altersvorsorge,Pension funding
-4594926,492,Lenzlinger Söhne,authorized signatory,Bauwirtschaft & Immobilien,Laying of floor coverings
-4804896,492,Verein Pro Waldmannsburg,member,"Kultur, Medien, Telekommunikation",Other interest groups
-5837891,492,"Lenzlinger Fils, Bernex",authorized signatory,Bauwirtschaft & Immobilien,Laying of floor coverings
-6808909,492,"Lenzlinger Söhne, Zürich",authorized signatory,Bauwirtschaft & Immobilien,Laying of floor coverings
-6808909,492,"Lenzlinger Söhne, Luzern",authorized signatory,Bauwirtschaft & Immobilien,Laying of floor coverings
-3749,492,"Lenzlinger Söhne, Rothrist",authorized signatory,Bauwirtschaft & Immobilien,Laying of floor coverings
-70243,499,Schweizer Reisekasse (Reka) Genossenschaft,member,Sport & Tourismus,
-83722,499,"sfb Bildungszentrum (esg, soa)",member,Bildung & Forschung,
-108671,500,With Metallbau AG,member,Industrie & Energie,
-224004,505,Oltra AG,member,Bauwirtschaft & Immobilien,
-10084,505,Swisscom (Schweiz) AG,authorized signatory,"Kultur, Medien, Telekommunikation",
-727357,505,Swisscom AG,authorized signatory,"Kultur, Medien, Telekommunikation",
-268215,510,mcw - Miriam C. Wetter Arni,holder,Consulting & PR,
-384792,521,Stiftung Alpenruhe Saanen,member,"Kultur, Medien, Telekommunikation",
-384792,521,Schweizerische Flüchtlingshilfe / SFH,member,"Hilfswerke, Nonprofit, Soziales",
+badge_id,infocube_id_person,name_badgeinhaber,organization_id,name,status,kategorie,mandat_beteiligung,ort
+1,370844,Vincenzo Pedrazzini,8761,Isler & Pedrazzini AG,,Anderes,Delegierter,Zürich
+1,370844,Vincenzo Pedrazzini,570304,Pedrazzini Holding AG,,Anderes,Präsident des Verwaltungsrates,Zürich
+1,370844,Vincenzo Pedrazzini,6908867,Pedrazzini Campo SA,,Bildung & Forschung,Präsident des Verwaltungsrates,Campo (Vallemaggia)
+2,4937033,Donat Schneider,539751,Affolter Mühle und Transport AG,,Bauwirtschaft & Immobilien,Mitglied,Schüpfen
+2,4937033,Donat Schneider,5522132,aaremilch AG,,Landwirtschaft,Geschäftsführer,Lyss
+3,,Etienne Bütikofer,,,,,,
+5,,Alex Fischer,,,,,,
+6,,Andrea Kind,,,,,,
+7,,Simon Affolter,,,,,,
+8,5315606,Raphaël Tschanz,260570,UBS AG,,Finanzen,ferner zeichnet,Basel
+8,5315606,Raphaël Tschanz,766457,UBS AG,,Finanzen,ferner zeichnet,Zürich
+9,5716363,Stefan Wyer,612375,GFW Development AGlll,,Consulting & PR,Mitglied,Leuk Stadt
+9,5716363,Stefan Wyer,4551851,Dr. Schenker Kommunikationszentrum für Wirtschaft und Politik AG,,Consulting & PR,Geschäftsführer,Bern
+10,1030082,Max Nötzli,32663,VSIG Handel Schweiz,,Anderes,Mitglied,Basel
+10,1030082,Max Nötzli,313275,auto-schweiz VEREINIGUNG SCHWEIZER AUTOMOBIL-IMPORTEURE,,Verkehr & Logistik,Präsident ,Bern
+10,1030082,Max Nötzli,353677,Auto-i-DAT AG,,Anderes,Präsident des Verwaltungsrates,Zürich
+10,1030082,Max Nötzli,597312,Stiftung Auto Recycling Schweiz,,Industrie & Energie,Mitglied,Bern
+11,4589513,Martin Flügel,117050,Schweizerische Sozialpartner-Stiftung für die Auffangeinrichtung gemäss Artikel 60 BVG (Stiftung Auffangeinrichtung BVG),,Altersvorsorge,Mitglied,Zürich
+11,4589513,Martin Flügel,4645644,Verein ARC -  Bildungsinstitut für Arbeitnehmende,,Gewerkschaften,Mitglied,Bern
+15,,Emil Kälin,,,,,,
+16,736914,Martin Zenhäusern,549040,Nimbus AG,,Consulting & PR,Mitglied,Ziegelbrücke
+16,736914,Martin Zenhäusern,661233,Zenhäusern & Partner AG Unternehmensberatung für Öffentlichkeitsarbeit,,Consulting & PR,Einziges Mitglied des Verwaltungsrates,Zürich
+16,736914,Martin Zenhäusern,661233,Zenhäusern & Partner AG Unternehmensberatung für Öffentlichkeitsarbeit,,Consulting & PR,Kapitalbeteiligung 90%,Zürich
+16,736914,Martin Zenhäusern,816596,maxon motor ag,,Industrie & Energie,Mitglied,Sachseln
+16,736914,Martin Zenhäusern,4896041,Synegration AG,,Consulting & PR,Mitglied,Niederurnen
+16,736914,Martin Zenhäusern,5065812,Zenhäusern Akademie AG,,Bildung & Forschung,Einziges Mitglied des Verwaltungsrates,Zürich
+16,736914,Martin Zenhäusern,5065812,Zenhäusern Akademie AG,,Bildung & Forschung,Kapitalbeteiligung 100%,Zürich
+17,,Natacha Berberat,,,,,,
+18,,Alain Bovard,,,,,,
+19,5591444,Stefan Vannoni,5572862,Institut für Wirtschaftsstudien Basel AG,,Consulting & PR,Präsident des Verwaltungsrates,Basel
+20,,Matthias Dietrich,,,,,,
+21,,Hans Koller,,,,,,
+22,5701234,Sara Stalder,116807,Stiftung für Konsumentenschutz,,"Hilfswerke, Nonprofit, Soziales",Geschäftsführer,Bern
+23,,Marco Taddei,,,,,,
+24,850929,Hans-Ulrich Bigler,130809,proparis Vorsorge-Stiftung Gewerbe Schweiz,,Altersvorsorge,Präsident ,Bern
+24,850929,Hans-Ulrich Bigler,268276,SIU - Schweizerisches Institut für Unternehmerschulung Genossenschaft,,Bildung & Forschung,Präsident ,Zürich
+24,850929,Hans-Ulrich Bigler,4453219,Energie-Agentur der Wirtschaft (EnAW),,Industrie & Energie,Vizepräsident,Zürich
+24,850929,Hans-Ulrich Bigler,5935272,Schweizerischer Gewerbeverband ,,Wirtschaftsdachverbände,Direktor,Bern
+24,850929,Hans-Ulrich Bigler,6588417,"BAUBIOLOGIE Bigler, haustrocknung.ch",,Bauwirtschaft & Immobilien,Inhaber,Schlosswil
+24,850929,Hans-Ulrich Bigler,7201195,Haustrocknung.ch GmbH,,Bauwirtschaft & Immobilien,Gesellschafter,Schlosswil
+24,850929,Hans-Ulrich Bigler,7201195,Haustrocknung.ch GmbH,,Bauwirtschaft & Immobilien,Beteiligungshinweis ,Schlosswil
+25,6895995,Blocher Silvia,624162,Stiftung im Rebberg für Wohlfahrt und Kultur,,"Kultur, Medien, Telekommunikation",Mitglied,Herrliberg
+25,6895995,Blocher Silvia,5729064,ROBINVEST AG,,Consulting & PR,Mitglied,Männedorf
+26,5646523,David Stickelberger,5647039,SWISSOLAR - Schweizerischer Fachverband für Sonnenenergie,,Industrie & Energie,Geschäftsführer,Zürich
+27,4867051,Erich Herren,131966,Genossenschaft Solidaritätsfonds der Auslandschweizer,,Anderes,Vizepräsident,Bern
+27,4867051,Erich Herren,4377303,bosec consulting gmbh,,Consulting & PR,ferner zeichnet,Kestenholz
+27,4867051,Erich Herren,5598721,Institut für Sicherheitsanalysen und strategisches Networking - Stiftung (ISSN),,Anderes,Mitglied,Zug
+28,,Urs Martin,,,,,,
+29,1073293,Francis Egger,293573,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,,Landwirtschaft,Mitglied,Brugg AG
+29,1073293,Francis Egger,403502,Schweizerischer Bauernverband (SBV),,Landwirtschaft,ferner zeichnet,Brugg AG
+29,1073293,Francis Egger,714432,Agrisano,,Landwirtschaft,Mitglied,Brugg AG
+29,1073293,Francis Egger,5599259,AGRIDEA Schweizerische Vereinigung für die Entwicklung der Landwirtschaft und des ländlichen Raums,,Bildung & Forschung,Mitglied,Fribourg
+30,5881302,Rudolf Minsch,4453219,Energie-Agentur der Wirtschaft (EnAW),,Wirtschaftsdachverbände,Präsident ,Zürich
+30,5881302,Rudolf Minsch,4925481,Economiesuisse,,Industrie & Energie,Mitglied der Geschäftsleitung,Zürich
+30,5881302,Rudolf Minsch,5654541,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",,Bildung & Forschung,Mitglied,Chur
+31,,Petra Rohner,,,,,,
+32,,Judith Uebersax,,,,,,
+34,,Beat Christen,,,,,,
+35,5809264,Martin Kuonen,5636828,"Centre Patronal, Paudex",,Consulting & PR,Direktionsmitglied,Paudex
+35,5809264,Martin Kuonen,7063823,"Centre Patronal, Bern",,Consulting & PR,,
+36,98731,Daniel Bulliard,67544,Serge et Daniel Bulliard S.A.,,Bauwirtschaft & Immobilien,Vizepräsident,Fribourg
+36,98731,Daniel Bulliard,181484,La Méridienne Fribourg S.A.,,Bauwirtschaft & Immobilien,Präsident des Verwaltungsrates,Fribourg
+36,98731,Daniel Bulliard,727712,Coopérative Fribourgeoise de l'Habitat Familial,,Bauwirtschaft & Immobilien,Präsident ,Fribourg
+36,98731,Daniel Bulliard,5874918,TRANSAT SA,,Bauwirtschaft & Immobilien,Einziges Mitglied des Verwaltungsrates,Fribourg
+36,98731,Daniel Bulliard,5914466,TRANSAT Entretien SàRL,,Bauwirtschaft & Immobilien,Gesellschafter,Fribourg
+36,98731,Daniel Bulliard,5914466,TRANSAT Entretien SàRL,,Bauwirtschaft & Immobilien,Geschäftsführer,Fribourg
+36,98731,Daniel Bulliard,5914466,TRANSAT Entretien SàRL,,Bauwirtschaft & Immobilien,Beteiligungshinweis ,Fribourg
+36,98731,Daniel Bulliard,6535205,Wohnbau-DT GmbH,,Bauwirtschaft & Immobilien,Gesellschafter,Fribourg
+36,98731,Daniel Bulliard,6535205,Wohnbau-DT GmbH,,Bauwirtschaft & Immobilien,Vorsitzender der Geschäftsführung,Fribourg
+36,98731,Daniel Bulliard,6535205,Wohnbau-DT GmbH,,Bauwirtschaft & Immobilien,Beteiligungshinweis ,Fribourg
+36,98731,Daniel Bulliard,6550700,SFH Société fribourgeoise de l'habitat SA,,Bauwirtschaft & Immobilien,Präsident des Verwaltungsrates,Fribourg
+36,98731,Daniel Bulliard,6705607,SBH Société Bulloise de l'Habitat SA,,Bauwirtschaft & Immobilien,Präsident des Verwaltungsrates,Bulle
+37,,Brigitte Pitteloud,,,,,,
+38,,Martin Fröhlich,,,,,,
+39,,Michael Töngi,,,,,,
+41,,Sara Guerra,,,,,,
+42,647183,Arthur Wellinger,607598,Verein Energie-Information (E-Info),,Industrie & Energie,Mitglied,Bern
+42,647183,Arthur Wellinger,811571,VKS - Verband Kompost- und Vergärwerke Schweiz,,Wirtschaftsdachverbände,Vizepräsident,Münchenbuchsee
+42,647183,Arthur Wellinger,4734444,Nova Energie GmbH,,Industrie & Energie,ferner zeichnet,Aarau
+43,,Sandra-Anne Göbelbecker,,,,,,
+45,4045146,Felix Wirz,256067,Rudolf Steiner Schulverein St. Gallen,,Bildung & Forschung,Mitglied,St. Gallen
+45,4045146,Felix Wirz,297768,"SWISSAID, Schweizerische Stiftung für Entwicklungszusammenarbeit",,"Hilfswerke, Nonprofit, Soziales",Mitglied,Bern
+45,4045146,Felix Wirz,4045427,Ecopolitics GmbH,,Consulting & PR,Gesellschafter,Bern
+45,4045146,Felix Wirz,4045427,Ecopolitics GmbH,,Consulting & PR,Geschäftsführer,Bern
+45,4045146,Felix Wirz,4045427,Ecopolitics GmbH,,Consulting & PR,Beteiligungshinweis ,Bern
+45,4045146,Felix Wirz,4045427,Ecopolitics GmbH,,Consulting & PR,Kapitalbeteiligung 100%,Bern
+45,4045146,Felix Wirz,6753565,"Vorsorgestiftung RSS, Gemeinschaftsstiftung für Mitarbeitende der Rudolf Steiner Schulen in der Schweiz",,Altersvorsorge,Mitglied,Basel
+46,6701264,Bettina Mutter,5442536,Dynamics Group AG,,Consulting & PR,Direktor,Zürich
+46,6701264,Bettina Mutter,5442536,Dynamics Group AG,,Consulting & PR,Kapitalbeteiligung 100%,Zürich
+47,7038795,Sarkis Shahinian,7038640,Handelskammer Schweiz- Armenien,,Anderes,Vizepräsident,Zürich
+48,4562781,Dieter Kläy,40709,Schweizerischer Verband für visuelle Kommunikation (Viscom),,Wirtschafts- und Branchenverbände,Stellvertretender Direktor,Bern
+48,4562781,Dieter Kläy,161705,INSTITUT LIBERTAS,,Politisches,Mitglied,Bern
+48,4562781,Dieter Kläy,168461,Jubiläumsstiftung der Kantonsschule Winterthur 1963,,Bildung & Forschung,Mitglied,Winterthur
+48,4562781,Dieter Kläy,268316,Schweizerische Gesellschaft für militärhistorische Studienreisen GMS,,Bildung & Forschung,Mitglied,Wettingen
+48,4562781,Dieter Kläy,333303,Region Ost- und Zentralschweiz des Schweizerischen Verbandes für visuelle Kommunikation (Viscom),,Wirtschaftsdachverbände,Geschäftsführer,Zürich
+48,4562781,Dieter Kläy,362281,Stiftung centro del bel libro,,Bildung & Forschung,Mitglied,Zimmerwald
+49,5422708,Cristina Gaggini,333303,Economiesuisse,,Wirtschaftsdachverbände,,
+49,5422708,Cristina Gaggini,362281,Fondation Anouk,,"Gesundheit, Pflege, Pharma",,
+50,4504015,Ronny Kaufmann,122996,pro juventute,,"Hilfswerke, Nonprofit, Soziales",Mitglied,Zürich
+50,4504015,Ronny Kaufmann,4504333,Kaufmann Ronny - Berater,,Consulting & PR,Inhaber,Goldach
+50,4504015,Ronny Kaufmann,5023144,Mobility Solutions AG,,Verkehr & Logistik,Mitglied,Bern
+50,4504015,Ronny Kaufmann,7190156,Swiss eMobility,,Verkehr & Logistik,Mitglied,Bern
+52,,Rita Eder-Bachmann,,,,,,
+53,628575,Ruedi Leder,674393,Leder Partner,,Consulting & PR,Kollektiv-Gesellschafter,Baden
+54,297418,Albert Leiser,16036,Spross Ga-La-Bau AG,,Umwelt,Mitglied,Zürich
+54,297418,Albert Leiser,16037,Spross-Holding AG,,Anderes,Mitglied,Zürich
+54,297418,Albert Leiser,16038,Spross-Immobilien AG,,Bauwirtschaft & Immobilien,Mitglied,Zürich
+54,297418,Albert Leiser,145354,Genossenschaft Hauseigentümerverband Zürich,,Bauwirtschaft & Immobilien,Direktor,Zürich
+54,297418,Albert Leiser,161081,Initiativ-Genossenschaft Lindenplatz Altstetten (IGLA),,Sport & Tourismus,Mitglied,Zürich
+54,297418,Albert Leiser,293857,Sto AG,,Bauwirtschaft & Immobilien,Mitglied,Niederglatt ZH
+54,297418,Albert Leiser,603963,Hypothekar-Bürgschaftsgenossenschaft für Wohneigentumsförderung HBW,,Finanzen,ferner zeichnet,Zürich
+54,297418,Albert Leiser,812395,Allreal Holding AG,,Anderes,Mitglied,Baar
+54,297418,Albert Leiser,4480287,Gebäudeversicherung Kanton Zürich,,Versicherungen,Mitglied,Zürich
+54,297418,Albert Leiser,5134658,Patronale Personalfürsorgestiftung der Spross-Holding AG,,Altersvorsorge,Mitglied,Zürich
+54,297418,Albert Leiser,5364304,HEV Kanton Zürich,,Bauwirtschaft & Immobilien,Direktor,Zürich
+54,297418,Albert Leiser,5404360,Platanus Holding AG,,Anderes,Mitglied,Zürich
+54,297418,Albert Leiser,5734533,Persimob AG,,Bauwirtschaft & Immobilien,Mitglied,Zürich
+55,4689222,Marie-Louise Baumann,297799,Swisstransplant - Schweizerische Stiftung für Organspende und Transplantation,,"Gesundheit, Pflege, Pharma",Vizepräsident,Bern
+55,4689222,Marie-Louise Baumann,6459850,Marie-Louise Baumann MLB Communications,,Consulting & PR,Inhaber,Zürich
+56,1049448,Fadri Ramming,664171,"Stiftung Casty-Buchmann, Chur/Masans",,"Kultur, Medien, Telekommunikation",Mitglied,Chur
+56,1049448,Fadri Ramming,5091646,Swissgrid AG,,Industrie & Energie,Mitglied,Laufenburg
+56,1049448,Fadri Ramming,6844873,Psychiatrische Dienste Graubünden,,"Gesundheit, Pflege, Pharma",Präsident ,Chur
+58,5818623,Helen Fässler-Eiermann,142633,Hääss-Chammer-Gnosseschaft Appenzell,,Anderes,Mitglied,Appenzell
+58,5818623,Helen Fässler-Eiermann,5818826,Lokal Appenzell GmbH,,Detailhandel & Gastronomie,Gesellschafter,Appenzell
+58,5818623,Helen Fässler-Eiermann,5818826,Lokal Appenzell GmbH,,Detailhandel & Gastronomie,Geschäftsführer,Appenzell
+58,5818623,Helen Fässler-Eiermann,5818826,Lokal Appenzell GmbH,,Detailhandel & Gastronomie,Beteiligungshinweis ,Appenzell
+59,,Chantal Aeby Pürro,,,,,,
+60,,Hans Kuno Schweiger,,,,,,
+64,,Roland Seiler,,,,,,
+65,,Sybille Oetliker,,,,,,
+66,5472975,Ernesto Engel,588312,Katz Kunststoff-Ausbildungs- und Technologie-Zentrum,,Bildung & Forschung,Mitglied,Aarau
+66,5472975,Ernesto Engel,594905,Swiss Plastics,,Industrie & Energie,Geschäftsführer,Aarau
+66,5472975,Ernesto Engel,5552419,Verband Kunststoff-Rohre und Rohrleitungsteile,,Industrie & Energie,ferner zeichnet,Aarau
+67,,Ingrid Hess,,,,,,
+68,,Hans-Georg Bächtold,,,,,,
+69,765735,Hansruedi Streiff,40738,Verband Holzindustrie Schweiz HIS,,Industrie & Energie,Direktor,Bern
+69,765735,Hansruedi Streiff,397971,Lignum Holzwirtschaft Schweiz,,Industrie & Energie,Mitglied,Zürich
+70,,Dagobert Cahannes,,,,,,
+71,4444336,Priska Föhn,24114,Möbelfabrik Betschart AG,,Bauwirtschaft & Immobilien,Mitglied,Muotathal
+71,4444336,Priska Föhn,229860,Personalvorsorgestiftung der Möbelfabrik Betschart AG,,Altersvorsorge,Mitglied,Muotathal
+71,4444336,Priska Föhn,4444479,Peter Föhn-Heinzer Holding AG,,Anderes,Mitglied,Muotathal
+71,4444336,Priska Föhn,4444479,Peter Föhn-Heinzer Holding AG,,Anderes,Kapitalbeteiligung 100%,Muotathal
+72,329859,Christian Melly,21043,Société d'expansion touristique de Zinal SA,,Sport & Tourismus,Präsident des Verwaltungsrates,Zinal
+72,329859,Christian Melly,725978,Les 4 Vallées SA,,Sport & Tourismus,Präsident des Verwaltungsrates,Haute-Nendaz
+72,329859,Christian Melly,5629150,Inspection des finances du canton du Valais,,"Politisches (Parteien, Kantone)",Diverse,Sion
+72,329859,Christian Melly,5629150,Inspection des finances du canton du Valais,,"Politisches (Parteien, Kantone)",Beteiligungshinweis ,Sion
+72,329859,Christian Melly,7027480,Remontées Mécaniques de Grimentz - Zinal SA,,Verkehr & Logistik,Mitglied,Grimentz
+73,,Paul-André Simon,,,,,,
+74,5089791,Joël A. Thüring,6503707,aspero ag,,Versicherungen,Geschäftsführer,Basel
+76,,Antoine Carraux,,,,,,
+77,5454878,Reto Wiesli,5455082,Fachstelle für Gesundheitspolitik polsan GmbH,,"Gesundheit, Pflege, Pharma",Gesellschafter,Bern
+77,5454878,Reto Wiesli,5455082,Fachstelle für Gesundheitspolitik polsan GmbH,,"Gesundheit, Pflege, Pharma",Vorsitzender der Geschäftsführung,Bern
+77,5454878,Reto Wiesli,5455082,Fachstelle für Gesundheitspolitik polsan GmbH,,"Gesundheit, Pflege, Pharma",Beteiligungshinweis ,Bern
+78,,Jürg Wittwer,,,,,,
+80,404341,Kurt Rohrbach,5025,Groupe E SA,,Industrie & Energie,Mitglied,Granges-Paccot
+80,404341,Kurt Rohrbach,9589,Kraftwerke Oberhasli AG,,Industrie & Energie,Mitglied,Innertkirchen
+80,404341,Kurt Rohrbach,19021,AEK Energie AG,,Industrie & Energie,Vizepräsident,Solothurn
+80,404341,Kurt Rohrbach,310367,Verband Schweizerischer Elektrizitätsunternehmen (VSE),,Industrie & Energie,Präsident ,Aarau
+80,404341,Kurt Rohrbach,4640944,Organisation der Schweizerischen Stromverbundunternehmen (Swisselectric),,Industrie & Energie,Mitglied,Bern
+80,404341,Kurt Rohrbach,6653957,BKW AG,,Industrie & Energie,Vizepräsident,Bern
+80,404341,Kurt Rohrbach,7285721,Devaux & Rohrbach GmbH,,Consulting & PR,Gesellschafter,Büren an der Aare
+80,404341,Kurt Rohrbach,7285721,Devaux & Rohrbach GmbH,,Consulting & PR,Geschäftsführer,Büren an der Aare
+80,404341,Kurt Rohrbach,7285721,Devaux & Rohrbach GmbH,,Consulting & PR,Beteiligungshinweis ,Büren an der Aare
+81,4822370,Christof Dietler,4822602,Pluswert,,Detailhandel & Gastronomie,Vorsitzender der Geschäftsführung ,
+81,4822370,Christof Dietler,4822602,Pluswert,,Detailhandel & Gastronomie,Gesellschafter,
+81,4822370,Christof Dietler,4822602,Pluswert,,Detailhandel & Gastronomie,Beteiligungshinweis,
+82,5398217,Rudolf Horber,5398325,"Stiftung Privatschulregister Schweiz, Bern",,"Hilfswerke, Nonprofit, Soziales",Präsident,
+83,46828,Chantal Balet,1590,Banque cantonale du Valais,,Finanzen,Mitglied,Sion
+83,46828,Chantal Balet,12237,OLF SA,,Detailhandel & Gastronomie,Mitglied,Givisiez
+83,46828,Chantal Balet,17746,"VAUDOISE GENERALE, Compagnie d'Assurances SA",,Versicherungen,Vizepräsident,Lausanne
+83,46828,Chantal Balet,17747,"VAUDOISE VIE, Compagnie d'Assurances SA",,Versicherungen,Vizepräsident,Lausanne
+83,46828,Chantal Balet,22927,Robert Gilliard SA Vins,,Landwirtschaft,Mitglied,Sion
+83,46828,Chantal Balet,115182,Fondation de financement de la Caisse de pension VAUDOISE ASSURANCES,,Altersvorsorge,Präsident ,Lausanne
+83,46828,Chantal Balet,116469,Fondation Leenaards,,"Hilfswerke, Nonprofit, Soziales",Mitglied,Lausanne
+83,46828,Chantal Balet,134808,Les Domaines de Robert Gilliard SA,,Landwirtschaft,Mitglied,Sion
+83,46828,Chantal Balet,217172,Caisse de pension VAUDOISE ASSURANCES,,Altersvorsorge,Präsident ,Lausanne
+83,46828,Chantal Balet,352772,"MUTUELLE VAUDOISE, Société Coopérative",,"Gesundheit, Pflege, Pharma",Vizepräsident,Lausanne
+83,46828,Chantal Balet,362987,VAUDOISE ASSURANCES HOLDING SA,,Versicherungen,Vizepräsident,Lausanne
+83,46828,Chantal Balet,395415,Fondation Louis Moret,,"Kultur, Medien, Telekommunikation",Mitglied,Martigny
+83,46828,Chantal Balet,5243952,Implenia AG,,Bauwirtschaft & Immobilien,Mitglied,Dietlikon
+83,46828,Chantal Balet,6390419,Fondation equal-salary,,"Hilfswerke, Nonprofit, Soziales",Mitglied,Vevey
+84,1046083,Renate Hotz,5436471,Renate Hotz Communications AG,,Consulting & PR,Präsident des Verwaltungsrates,Zug
+85,,Hans-Ulrich Hunziker,,,,,,
+86,,Barbara Küttel,,,,,,
+87,6328680,Patrick Hofstetter,6329079,Verein Energieallianz,,Industrie & Energie,Mitglied,Solothurn
+88,,Jonas Glanzmann,,,,,,
+89,,Nicole Werner,,,,,,
+90,5767738,Marcel Kreber,292138,Stiftung des Schweizerischen Bierbrauervereins für Wissenschaftliche Forschung,,Bildung & Forschung,Mitglied,Zürich
+92,,Andrea Wyss Graber,,,,,,
+93,,Markus Allemann,,,,,,
+94,4909799,Walter Stüdeli,673377,Schweizerischer Verband für komplementärmedizinische Heilmittel,,"Gesundheit, Pflege, Pharma",Geschäftsführer,Bern
+94,4909799,Walter Stüdeli,4909939,"Köhler, Stüdeli & Partner GmbH",,Consulting & PR,Gesellschafter,Bern
+94,4909799,Walter Stüdeli,4909939,"Köhler, Stüdeli & Partner GmbH",,Consulting & PR,Vorsitzender der Geschäftsführung,Bern
+94,4909799,Walter Stüdeli,4909939,"Köhler, Stüdeli & Partner GmbH",,Consulting & PR,Beteiligungshinweis ,Bern
+95,,Kurt Howald,,,,,,
+96,,Jürgen Schulz,,,,,,
+97,5131473,Hans-Peter In-Albon ,15092,Schweizerische Technische Fachschule Winterthur (STF),,Bildung & Forschung,Präsident ,Winterthur
+97,5131473,Hans-Peter In-Albon ,221374,Paritätische Krankenversicherung für Branchen der Gebäudetechnik,,Versicherungen,Mitglied,Zürich
+97,5131473,Hans-Peter In-Albon ,286830,Sozialfonds VSEI,,"Hilfswerke, Nonprofit, Soziales",Mitglied,Zürich
+97,5131473,Hans-Peter In-Albon ,5131511,Paritätische Landeskommission der Schweizerischen Elektro- und Telekommunikations-Installationsbranche (PLK),,"Kultur, Medien, Telekommunikation",Mitglied,Zürich
+98,6804000,Klaus Künzli,626292,Schweizer Reisekasse (Reka) Genossenschaft,,Sport & Tourismus,Mitglied,
+98,6804000,Klaus Künzli,696949,Kongress & Kursaal Bern,,Detailhandel & Gastronomie,Mitglied,
+98,6804000,Klaus Künzli,827077,GastroSuisse,,Detailhandel & Gastronomie,Präsident,
+98,6804000,Klaus Künzli,5177285,Hotel Allegro Bern,,Sport & Tourismus,Mitglied,
+98,6804000,Klaus Künzli,5177321,"Gastroconsult AG, Zürich",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,5300480,"Gastroconsult SA, succursale de Saignelégier",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,5935272,"Gastroconsult AG, Succursale di Cadempino",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,6356522,"Gastroconsult AG, Bern",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,730959,"Gastroconsult SA, succursale de Fribourg",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,4710674,"Gastroconsult SA, Sion",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,4710674,"Gastroconsult SA, Pully",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,4710674,"Gastroconsult AG, Chur",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,5532595,"Gastroconsult AG, St. Gallen",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,5536332,"Gastroconsult AG, Luzern",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,714250,"Gastroconsult AG, Olten",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,714250,"Gastroconsult AG, Bernex",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,117058,"Gastroconsult AG, Visp",,Finanzen,Vizepräsident,
+98,6804000,Klaus Künzli,231161,Hotel Consulting Group AG,,Finanzen,Präsident des Verwaltungsrates,
+98,6804000,Klaus Künzli,232861,Belvoirpark AG,,Detailhandel & Gastronomie,Mitglied,
+98,6804000,Klaus Künzli,5398325,Sasso San Gottardo SA,,"Kultur, Medien, Telekommunikation",Mitglied,
+98,6804000,Klaus Künzli,5654541,Restaurant Vieux-Bois SA,,Detailhandel & Gastronomie,Sekretär,
+98,6804000,Klaus Künzli,6755948,Schweizerischer Gewerbeverband,,Wirtschaftsdachverbände,Mitglied,
+98,6804000,Klaus Künzli,117045,Genossenschaft Dr. Frano Della Casa,,Bauwirtschaft & Immobilien,Mitglied,
+99,,Marie-Jo Girardin,,,,,,
+100,,Stefan Kilchenmann,,,,,Vizepräsident,Wabern
+101,527127,Kurt Wilhelm,714250,Sanitas Krankenversicherung,,Versicherungen,Präsident ,Zürich
+101,527127,Kurt Wilhelm,714250,Sanitas Krankenversicherung,,Versicherungen,Vorsitzender der Geschäftsleitung,Zürich
+102,,Stefan Jakob,,,,,,
+103,,Dieter Meile,,,,,,
+104,,Daniela Lehmann,,,,,,
+105,669335,Christine Davatz-Höchner,117058,swissskills,,Bildung & Forschung,Mitglied,Sursee
+105,669335,Christine Davatz-Höchner,232861,Pestalozzi-Stiftung für die Förderung der Ausbildung Jugendlicher aus schweizerischen Berggegenden,,Bildung & Forschung,Mitglied,Zürich
+105,669335,Christine Davatz-Höchner,5398325,Stiftung Privatschulregister Schweiz,,Bildung & Forschung,Präsident ,Bern
+105,669335,Christine Davatz-Höchner,5654541,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",,Bildung & Forschung,Mitglied,Chur
+105,669335,Christine Davatz-Höchner,6755948,IGKG Interessengemeinschaft Kaufmännische Grundbildung Schweiz,,Bildung & Forschung,Präsident ,Bern
+106,103036,Gallus Cadonau,117045,Schweizerische Greina-Stiftung (SGS) zur Erhaltung der alpinen Fliessgewässer,,Umwelt,Mitglied,Zürich
+106,103036,Gallus Cadonau,117045,Schweizerische Greina-Stiftung (SGS) zur Erhaltung der alpinen Fliessgewässer,,Umwelt,Geschäftsführer,Zürich
+106,103036,Gallus Cadonau,395107,Internationale Solarmobil Föderation ISF,,Umwelt,Vizepräsident,Bern
+106,103036,Gallus Cadonau,6840148,Solar Agentur Schweiz,,Umwelt,Geschäftsführer,Zürich
+107,5774114,Martin Rufer,20957,Proviande Genossenschaft,,Landwirtschaft,Mitglied,Bern
+107,5774114,Martin Rufer,403502,Schweizerischer Bauernverband (SBV),,Landwirtschaft,ferner zeichnet,Brugg AG
+108,6815095,Martin Pidoux,403502,Schweizerischer Bauernverband (SBV),,Landwirtschaft,Prokurist,Brugg AG
+109,,Raphaël Ciocchi,,,,,,
+110,,Alexander Segert,,,,,,
+111,5686206,Bettina Ramseier Rey,115912,Fondation du foyer d'accueil Le Christ-Roi,,"Gesundheit, Pflege, Pharma",Direktor,Lens
+111,5686206,Bettina Ramseier Rey,595976,ARGOS SA,,Versicherungen,Mitglied,Bern
+111,5686206,Bettina Ramseier Rey,595976,ARGOS SA,,Versicherungen,Kapitalbeteiligung 100%,Bern
+111,5686206,Bettina Ramseier Rey,5068611,CURAVIVA - Verband Heime und Institutionen Schweiz,,"Hilfswerke, Nonprofit, Soziales",Vizepräsident,Bern
+111,5686206,Bettina Ramseier Rey,7002607,BESA Care AG,,"Gesundheit, Pflege, Pharma",Mitglied,Bern
+112,5754911,Bruno Henggi,163174,Interpharma,,"Gesundheit, Pflege, Pharma",Mitglied der Geschäftsleitung,Basel
+113,4925063,Pascal Gentinetta,Bauwirtschaft & Immobilien,AG Haus der Wirtschaft,,Bauwirtschaft & Immobilien,,
+113,4925063,Pascal Gentinetta,Wirtschafts- und Branchenverbände,Economiesuisse,,Wirtschaftsdachverbände,,
+113,4925063,Pascal Gentinetta,Altersvorsorge,Fürsorgestiftung Economiesuisse,,Altersvorsorge,,
+113,4925063,Pascal Gentinetta,Umwelt,Stiftung Klimarappen,,Umwelt,,
+114,520100,Urs Wellauer,268108,Schweizerischer Bäcker-Confiseurmeister-Verband,,Wirtschaftsdachverbände,Vizedirektor,Bern
+,,,,,,,,
+,,,,,,,,
+120,218441,Rolf Hartl,104098,Erdöl - Vereinigung (EV),,Industrie & Energie,Präsident ,Zürich
+120,218441,Rolf Hartl,216315,Hutter Dynamics AG,,Industrie & Energie,Mitglied,Winterthur
+120,218441,Rolf Hartl,221414,Hutter Dynamics AG Schaffhausen,,Industrie & Energie,Mitglied,Schaffhausen
+120,218441,Rolf Hartl,5208161,Stiftung Klimarappen,,Umwelt,Mitglied,Zürich
+120,218441,Rolf Hartl,7052862,Stiftung Klimaschutz und CO2-Kompensation KliK,,Umwelt,Präsident ,Zürich
+115,,Florence Schurch,,,,,,
+119,,Cornelia Stamm,,,,,,
+123,,Dominik Bachmann,,,,,,
+124,5654519,Mirjam Ballmer,651985,Theres und Gerhard Kraus-Vogt Stiftung,,Bildung & Forschung,Mitglied,Basel
+126,,Aliki Panayides,,,,,,
+127,,Annina Schneider,,,,,,
+128,25037,Herbert Winter,196915,Saly Mayer Memorial Stiftung,,"Kultur, Medien, Telekommunikation",Mitglied,Zürich
+128,25037,Herbert Winter,199304,Memorial Stiftung des Schweizerischen Israelitischen Gemeindebundes,,"Hilfswerke, Nonprofit, Soziales",Mitglied,Zürich
+128,25037,Herbert Winter,203908,Adolf und Mary Mil-Stiftung,,"Hilfswerke, Nonprofit, Soziales",Präsident ,Zürich
+128,25037,Herbert Winter,275833,Sikna-Stiftung,,"Gesundheit, Pflege, Pharma",Mitglied,Zürich
+128,25037,Herbert Winter,376445,Turavent Oil GmbH,,Industrie & Energie,Geschäftsführer,Zug
+128,25037,Herbert Winter,618293,Phibro GmbH,,Industrie & Energie,Geschäftsführer,Zug
+128,25037,Herbert Winter,688803,Stiftung Jüdische Zeitgeschichte an der ETH Zürich zur Sicherung und Erschliessung historischer Quellen in der Schweiz,,Bildung & Forschung,Mitglied,Zürich
+128,25037,Herbert Winter,821960,SIMON UND HILDEGARD ROTHSCHILD-STIFTUNG,,"Kultur, Medien, Telekommunikation",Mitglied,Zürich
+129,18642,Hans-Rudolf Müller,18526,AXA Versicherungen AG,,Versicherungen,ferner zeichnet,Winterthur
+131,,Morten Keller,,"Stiftung Werk- und Wohnhaus zur Weid, Mettmenstetten",,,,
+132,6942944,Kalim Ghulam,800604,POWERcondens AG,,,Mitglied,Maienfeld
+136,4088504,Susanne Brunner,671386,Sigg Innenausbau GmbH,,,Gesellschafter,Thalwil
+136,4088504,Susanne Brunner,671386,Sigg Innenausbau GmbH,,,Geschäftsführer,Thalwil
+136,4088504,Susanne Brunner,671386,Sigg Innenausbau GmbH,,,Beteiligungshinweis ,Thalwil
+137,1014565,Paul Aenishänslin,4608992,Paul Aenishänslin Public Affairs & Communications (PAE-PAC),,,Inhaber,Gelterkinden
+138,1067385,Marcel Sennhauser,232658,Personalvorsorgestiftung von scienceindustries,,,Mitglied,Zürich
+138,1067385,Marcel Sennhauser,268069,scienceindustries,,,Mitglied der Geschäftsleitung,Zürich
+138,1067385,Marcel Sennhauser,296184,Swiss Engineering Media AG,,,Präsident des Verwaltungsrates,Zürich
+139,4302631,Bruno Weber-Gobet,4645644,Verein ARC -  Bildungsinstitut für Arbeitnehmende,,,Mitglied,Bern
+140,5285695,Dominique Reber,4474379,Hirzel.Neef.Schmid.Konsulenten AG,,,Direktor,Zürich
+140,5285695,Dominique Reber,5559401,Creapole SA,,,Mitglied,Delémont
+140,5285695,Dominique Reber,7011674,FIPRA Schweiz GmbH,,,Geschäftsführer,Bern
+143,155871,Hansjörg Fasnacht,2749,Beat Bucher AG,,,Mitglied,Tägerwilen
+143,155871,Hansjörg Fasnacht,4407853,FaH Consulting Hansjörg Fasnacht,,,Inhaber,Tägerwilen
+144,6311215,Maria Luisa Bernini Burkhard,6311314,Swiss Communication Agency Sagl,,,Gesellschafter,Lugano
+144,6311215,Maria Luisa Bernini Burkhard,6311314,Swiss Communication Agency Sagl,,,Geschäftsführer,Lugano
+144,6311215,Maria Luisa Bernini Burkhard,6311314,Swiss Communication Agency Sagl,,,Beteiligungshinweis ,Lugano
+144,6311215,Maria Luisa Bernini Burkhard,6311314,Swiss Communication Agency Sagl,,,Kapitalbeteiligung 90%,Lugano
+145,5617064,Raymond Loretan,3485,GSMN Vaud SA,,,Präsident des Verwaltungsrates,Genolier
+145,5617064,Raymond Loretan,15672,Société Suisse des Explosifs SA,,,Präsident des Verwaltungsrates,Gamsen
+145,5617064,Raymond Loretan,79832,Clinique Générale - Ste-Anne SA,,,Vizepräsident,Fribourg
+145,5617064,Raymond Loretan,115376,FONDATION DE PREVOYANCE GENOLIER SWISS MEDICAL NETWORK,,,Präsident ,Genolier
+145,5617064,Raymond Loretan,116690,Fondation patronale de la Société Suisse des Explosifs,,,Präsident ,Gamsen
+145,5617064,Raymond Loretan,133643,AEVIS Holding SA,,,Vizepräsident,Fribourg
+145,5617064,Raymond Loretan,161526,Institut de Médecine de Genolier,,,Präsident ,Genolier
+145,5617064,Raymond Loretan,224525,Centre Médico-Chirurgical des Eaux-Vives SA,,,Präsident des Verwaltungsrates,Genève
+145,5617064,Raymond Loretan,239537,Privatklinik Obach AG,,,Vizepräsident,Solothurn
+145,5617064,Raymond Loretan,239539,Klinik Villa im Park AG,,,Vizepräsident,Rothrist
+145,5617064,Raymond Loretan,275628,Klinik Pyramide am See AG,,,Mitglied,Zürich
+145,5617064,Raymond Loretan,305387,SSE Finance SA,,,Präsident des Verwaltungsrates,Gamsen
+145,5617064,Raymond Loretan,310957,Ars Medica Clinic SA,,,Vizepräsident,Gravesano
+145,5617064,Raymond Loretan,311905,Valsynthese SA,,,Präsident des Verwaltungsrates,Gamsen
+145,5617064,Raymond Loretan,542095,Clinique médico-chirurgicale de Valère SA,,,Vizepräsident,Sion
+145,5617064,Raymond Loretan,646222,Salus Medica Clinic SA,,,Vizepräsident,Sorengo
+145,5617064,Raymond Loretan,646899,Schweizerische Radio- und Fernsehgesellschaft,,,Präsident ,Bern
+145,5617064,Raymond Loretan,711243,Publications Financières LSI SA,,,Präsident des Verwaltungsrates,Genève
+145,5617064,Raymond Loretan,795853,GSMN Zürich AG,,,Präsident des Verwaltungsrates,Zürich
+145,5617064,Raymond Loretan,799547,CENTRE HENRY DUNANT POUR LE DIALOGUE HUMANITAIRE,,,Mitglied,Genève
+145,5617064,Raymond Loretan,4923606,Vins des Chevaliers SA,,,Vizepräsident,Salgesch
+145,5617064,Raymond Loretan,6262881,Les Hauts de Genolier SA,,,Präsident des Verwaltungsrates,Genolier
+145,5617064,Raymond Loretan,6435542,Raymond Loretan,,,Inhaber,Genève
+145,5617064,Raymond Loretan,6965730,Genolier Swiss Medical Network SA,,,Präsident des Verwaltungsrates,Genolier
+145,5617064,Raymond Loretan,7072960,GSMN Neuchâtel SA,,,Mitglied,Neuchâtel
+145,5617064,Raymond Loretan,7236043,SHI Swiss Hotels Investments S.A.,,,Mitglied,Fribourg
+147,6549004,Judith Fischer,5870217,Suva,,,ferner zeichnet,Luzern
+148,5500705,Yves Weidmann,40711,Schweizerische Bankiervereinigung (SwissBanking),,,ferner zeichnet,Basel
+149,906925,Monika Maire-Hefti,3241,CSEM Centre Suisse d'Electronique et de Microtechnique SA - Recherche et Développement,,,Mitglied,Neuchâtel
+149,906925,Monika Maire-Hefti,116484,"Fondation ""Les Billodes""",,,Diverse,Le Locle
+149,906925,Monika Maire-Hefti,116484,"Fondation ""Les Billodes""",,,Beteiligungshinweis ,Le Locle
+149,906925,Monika Maire-Hefti,709982,Fondation du Musée de la Tourbière,,,Sekretär,Les Ponts-de-Martel
+150,4308851,Thierry Burkart,19176,Assista Protection juridique SA,,,Vizepräsident,Vernier
+150,4308851,Thierry Burkart,26062,Verein Barmelweid,,,Mitglied,Barmelweid
+150,4308851,Thierry Burkart,26072,Aargauische Stiftung für Freiheit und Verantwortung in Politik und Wirtschaft,,,Mitglied,Aarau
+150,4308851,Thierry Burkart,299874,TCS-Zentrum Aargau AG,,,Präsident des Verwaltungsrates,Birr-Lupfig
+150,4308851,Thierry Burkart,305247,Touring Club Suisse (TCS),,,Vizepräsident,Vernier
+150,4308851,Thierry Burkart,5601563,Buholz Immobilien AG,,,Vizepräsident,Emmen
+150,4308851,Thierry Burkart,6572460,Burkart Immobilien AG,,,Mitglied,Baden
+150,4308851,Thierry Burkart,6617619,"Touring Club Schweiz, Sektion Aargau",,,Präsident ,Brunegg
+150,4308851,Thierry Burkart,6723537,Obere Mühle Alterswohnungen AG,,,Mitglied,Lenzburg
+150,4308851,Thierry Burkart,7190156,Swiss eMobility,,,Präsident ,Bern
+157,975318,Thomas Pletscher,751093,AG Haus der Wirtschaft,,,Sekretär ausserhalb des Verwaltungsrates,Zürich
+157,975318,Thomas Pletscher,4925481,economiesuisse,,,Mitglied der Geschäftsleitung,Zürich
+162,5612965,Rudolf Zumbühl,305247,Touring Club Suisse (TCS),,,Direktor,Vernier
+162,5612965,Rudolf Zumbühl,5613340,ACADEMIE MOBILITE SA,,,Delegierter,Bern
+162,5612965,Rudolf Zumbühl,7190156,Swiss eMobility,,,Mitglied,Bern
+168,363,Bollag Josef,59257,"Flora, Bona und Rosa Bollag-Stiftung",,,Einziges Mitglied des Stiftungsrates,Baden
+168,363,Bollag Josef,101713,Elinex Holding AG,,,Einziges Mitglied des Verwaltungsrates,Zug
+168,363,Bollag Josef,121306,Frenziek AG,,,Einziges Mitglied des Verwaltungsrates,Zug
+168,363,Bollag Josef,202090,MHN Treuhand AG,,,Präsident des Verwaltungsrates,Zug
+168,363,Bollag Josef,569177,Eltan Holding AG,,,Präsident des Verwaltungsrates,Zug
+168,363,Bollag Josef,670972,eurogold service Zumbühl & Co. Handelsagentur,,,Kollektiv-Gesellschafter,Zug
+168,363,Bollag Josef,675089,Mahr AG,,,Mitglied,Thalwil
+168,363,Bollag Josef,701374,NetJets Europe GmbH,,,Geschäftsführer,Zug
+168,363,Bollag Josef,722655,Kolmar Group AG,,,Mitglied,Zug
+168,363,Bollag Josef,786744,Och Holding AG,,,Vizepräsident,Rüschlikon
+168,363,Bollag Josef,813298,Burwill Commodities AG,,,Vizepräsident,Zug
+168,363,Bollag Josef,4080626,ASSOCIATION ROMANDE DES INTERMEDIAIRES FINANCIERS (ARIF),,,Vizepräsident,Genève
+168,363,Bollag Josef,4249726,Soda-Club (CO2) Atlantic GmbH,,,Kapitalbeteiligung .05%,Zug
+168,363,Bollag Josef,4280390,Eltaver AG,,,Präsident des Verwaltungsrates,Zug
+168,363,Bollag Josef,4659734,Klingelfuss+Cie.,,,Kollektiv-Gesellschafter,Steinhausen
+168,363,Bollag Josef,4867290,IDS Living GmbH,,,Gesellschafter,Zug
+168,363,Bollag Josef,4867290,IDS Living GmbH,,,Vorsitzender der Geschäftsführung,Zug
+168,363,Bollag Josef,4867290,IDS Living GmbH,,,Beteiligungshinweis ,Zug
+168,363,Bollag Josef,4867290,IDS Living GmbH,,,Kapitalbeteiligung 50%,Zug
+168,363,Bollag Josef,5598721,Institut für Sicherheitsanalysen und strategisches Networking - Stiftung (ISSN),,,Präsident ,Zug
+168,363,Bollag Josef,5860603,Eurogold Invest AG,,,Präsident des Verwaltungsrates,Zug
+168,363,Bollag Josef,6311301,Forum Schweizer Selbstregulierungsorganisationen (Forum-SRO),,,Vizepräsident,Zürich
+168,363,Bollag Josef,6790803,R.R.E. Immo AG,,,Mitglied,Zug
+168,363,Bollag Josef,6842976,Dr. J. Bollag & Cie.,,,Kollektiv-Gesellschafter,Zug
+168,363,Bollag Josef,6842976,Dr. J. Bollag & Cie.,,,Kollektivgesellschafter %,Zug
+171,5105362,Furrer Lorenz,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Mitglied,Bern
+171,5105362,Furrer Lorenz,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Geschäftsführer,Bern
+171,5105362,Furrer Lorenz,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Kapitalbeteiligung 100%,Bern
+171,5105362,Furrer Lorenz,5315051,Polo Bern AG,,,Mitglied,Bern
+171,5105362,Furrer Lorenz,5485153,Berner Politgespräche GmbH,,,Geschäftsführer,Bern
+171,5105362,Furrer Lorenz,6317730,yjoo communications ag,,,Mitglied,St. Gallen
+171,5105362,Furrer Lorenz,6662437,Port-Associations GmbH,,,Vorsitzender der Geschäftsführung,Bern
+171,5105362,Furrer Lorenz,6872037,Tabascom GmbH,,,Gesellschafter,Muri b. Bern
+171,5105362,Furrer Lorenz,6872037,Tabascom GmbH,,,Geschäftsführer,Muri b. Bern
+171,5105362,Furrer Lorenz,6872037,Tabascom GmbH,,,Beteiligungshinweis ,Muri b. Bern
+171,5105362,Furrer Lorenz,6872037,Tabascom GmbH,,,Kapitalbeteiligung 100%,Muri b. Bern
+171,5105362,Furrer Lorenz,6959305,Bergfahrt AG,,,Präsident des Verwaltungsrates,Bern
+171,5105362,Furrer Lorenz,6976376,Clé de Berne GmbH,,,Geschäftsführer,Bern
+171,5105362,Furrer Lorenz,7015365,Swiss Capital in Motion GmbH,,,Geschäftsführer,Bern
+172,6562803,Nussbaumer Michael,6562984,"Michi Nussbaumer, Grafik und Typografie",,,Inhaber,Basel
+175,121692,Cueni Thomas,163174,Interpharma,,,Generalsekretär,Basel
+175,121692,Cueni Thomas,163174,Interpharma,,,Geschäftsführer,Basel
+175,121692,Cueni Thomas,357518,Verein Hilfe für seelisch Leidende Basel,,,Präsident ,Basel
+175,121692,Cueni Thomas,6783413,Stiftung Hilfe für seelisch Leidende Basel,,,Präsident ,Basel
+179,477648,Studerus Konrad,232528,Personalvorsorgestiftung Labor Veritas,,,Mitglied,Zürich
+179,477648,Studerus Konrad,239607,Probat Heizungssysteme AG,,,Mitglied,Bauma
+179,477648,Studerus Konrad,4467299,Labor Veritas AG,,,Vizepräsident,Zürich
+179,477648,Studerus Konrad,4467299,Labor Veritas AG,,,Kapitalbeteiligung 100%,Zürich
+179,477648,Studerus Konrad,5718242,Studerus und Partner AG,,,Einziges Mitglied des Verwaltungsrates,Zug
+183,975543,Maurer Thomas C.,4398641,Thomas C. Maurer & Partner,,,unbeschränkt haftender Gesellschafter,Bern
+183,975543,Maurer Thomas C.,5698245,Maurer Partner Communications AG,,,Präsident des Verwaltungsrates,Bern
+184,335092,Meyer Urs F.,24080,Meyer-Wyss & Partner AG,,,Mitglied,Grenchen
+184,335092,Meyer Urs F.,114874,Stiftung der Schweizer Werbung für die Lauterkeit in der kommerziellen Kommunikation,,,Mitglied,Zürich
+184,335092,Meyer Urs F.,240380,"ProLitteris, Schweizerische Urheberrechtsgesellschaft für Literatur und bildende Kunst, Genossenschaft",,,Mitglied,Zürich
+184,335092,Meyer Urs F.,292160,Stiftung des Schweizerischen Zeitungsverleger-Verbandes zur Sicherung des schweizerischen Pressewesens,,,Mitglied,Zürich
+184,335092,Meyer Urs F.,662675,Medialex,,,Mitglied,Fribourg
+185,6446441,Werder Christina,224039,Pensionskassengenossenschaft des Schweizerischen Gewerkschaftsbundes,,,Mitglied,Bern
+186,848993,Karch Herbert,116807,Stiftung für Konsumentenschutz,,,Mitglied,Bern
+186,848993,Karch Herbert,683183,Kleinbauern-Warenversand GmbH in Liquidation,,,Liquidator,Bern
+186,848993,Karch Herbert,683183,Kleinbauern-Warenversand GmbH in Liquidation,,,Beteiligungshinweis ,Bern
+186,848993,Karch Herbert,765645,"INTERCOOPERATION, Swiss Foundation for Development and International Cooperation",,,Mitglied,Bern
+186,848993,Karch Herbert,6480102,Karch Kampagnen GmbH,,,Gesellschafter,Bern
+186,848993,Karch Herbert,6480102,Karch Kampagnen GmbH,,,Geschäftsführer,Bern
+186,848993,Karch Herbert,6480102,Karch Kampagnen GmbH,,,Beteiligungshinweis ,Bern
+189,6970879,Reimann Hans Peter,6970750,Hanspeter Reimann Schreinerarbeiten,,,Inhaber,Wallbach
+193,816649,Schwitter Stephan,5847367,Stiftung Solinvest,,,ferner zeichnet,Zürich
+193,816649,Schwitter Stephan,6943418,Energieplattform Immobilien (EPImmo),,,Mitglied,Zürich
+195,524178,Widmer Andreas,37437,Genossenschaft pro Mosnang,,,Präsident ,Mosnang
+195,524178,Widmer Andreas,154616,HULFTEGG Finanz- und Verwaltungs AG,,,Präsident des Verwaltungsrates,Mühlrüti
+195,524178,Widmer Andreas,318012,Stiftung St.Galler Landwirtschaft,,,Mitglied,Flawil
+195,524178,Widmer Andreas,318134,Agrisano Prevos,,,Vizepräsident,Brugg AG
+195,524178,Widmer Andreas,785660,St. Galler Bauernverband,,,Geschäftsführer,Flawil
+195,524178,Widmer Andreas,4659189,Paul und Hulda Gantenbein Stiftung,,,Präsident ,Flawil
+195,524178,Widmer Andreas,4830867,Animaltruck AG,,,Präsident des Verwaltungsrates,Necker
+195,524178,Widmer Andreas,6444785,Förderverein energietal toggenburg,,,Vizepräsident,Wattwil
+196,5912967,Kuert Killer Matthias,117560,Sicherheitsfonds BVG,,,Mitglied,Bern
+196,5912967,Kuert Killer Matthias,5870217,Suva,,,Mitglied,Luzern
+198,4034403,Besio Beatrix,310350,Schweizer Milchproduzenten SMP Genossenschaft,,,Prokurist,Bern
+200,6951145,Lauber Tamara,145354,Genossenschaft Hauseigentümerverband Zürich,,,Mitglied,Zürich
+201,728838,Rodewald Raimund,268028,Stiftung Landschaftsschutz Schweiz,,,Geschäftsführer,Bern
+201,728838,Rodewald Raimund,293395,Stiftung Umwelt-Einsatz Schweiz (SUS),,,Mitglied,Steffisburg
+201,728838,Rodewald Raimund,588305,Rottebrigge-Alte Mühle,,,Mitglied,Brig
+201,728838,Rodewald Raimund,5870237,Fundaziun Pro Terra Engiadina,,,Mitglied,Ramosch
+204,5397624,Tschirky Erich,292972,Stiftung Märtplatz,,,Mitglied,Rorbas
+204,5397624,Tschirky Erich,4645644,Verein ARC -  Bildungsinstitut für Arbeitnehmende,,,Mitglied,Bern
+204,5397624,Tschirky Erich,4878047,Stiftung Synapsis - Alzheimer Forschung Schweiz AFS,,,Geschäftsführer,Zürich
+204,5397624,Tschirky Erich,4878047,Stiftung Synapsis - Alzheimer Forschung Schweiz AFS,,,Sekretär ausserhalb des Stiftungsrates,Zürich
+204,5397624,Tschirky Erich,4996816,PHS Public Health Services GmbH,,,Gesellschafter,Bern
+204,5397624,Tschirky Erich,4996816,PHS Public Health Services GmbH,,,Geschäftsführer,Bern
+204,5397624,Tschirky Erich,4996816,PHS Public Health Services GmbH,,,Beteiligungshinweis ,Bern
+204,5397624,Tschirky Erich,5760940,wellatwork.ch GmbH,,,Geschäftsführer,Herzogenbuchsee
+204,5397624,Tschirky Erich,6371095,syneric GmbH,,,Gesellschafter,Zürich
+204,5397624,Tschirky Erich,6371095,syneric GmbH,,,Geschäftsführer,Zürich
+204,5397624,Tschirky Erich,6371095,syneric GmbH,,,Beteiligungshinweis ,Zürich
+208,139779,Dürr Lucius,40693,Schweizerische Vereinigung für Qualitäts- und Management-Systeme (SQS),,,Mitglied,Zollikofen
+208,139779,Dürr Lucius,231362,Personalvorsorgestiftung der Wilhelm Schulthess-Stiftung,,,Mitglied,Zürich
+208,139779,Dürr Lucius,267152,Wilhelm Schulthess - Stiftung,,,Mitglied,Zürich
+208,139779,Dürr Lucius,688086,"CLIMA-SUISSE, Verband Schweizerischer und Liechtensteinischer Heizungs- und Lüftungsfirmen",,,Direktor,Zürich
+208,139779,Dürr Lucius,5344085,Schweizerischer Versicherungsverband (SVV),,,Direktor,Zürich
+208,139779,Dürr Lucius,5808690,Stiftung Speranza,,,Mitglied,Aarau
+209,4886204,Buser Christoph,19700,EBL (Genossenschaft Elektra Baselland),,,Mitglied,Liestal
+209,4886204,Buser Christoph,134669,CH Gewerbe AG,,,Präsident des Verwaltungsrates,Binningen
+209,4886204,Buser Christoph,171444,Wirtschaftskammer Baselland,,,Direktor,Liestal
+209,4886204,Buser Christoph,171444,Wirtschaftskammer Baselland,,,Mitglied der Geschäftsleitung,Liestal
+209,4886204,Buser Christoph,229773,Personalfürsorgestiftung der Wirtschaftskammer Baselland,,,Präsident ,Liestal
+209,4886204,Buser Christoph,305247,Touring Club Suisse (TCS),,,Mitglied,Vernier
+209,4886204,Buser Christoph,744464,IWF Institut für Wirtschaftsförderung AG,,,Delegierter,Liestal
+209,4886204,Buser Christoph,4173962,Gewerbeverband Baselland,,,Vizepräsident,Liestal
+209,4886204,Buser Christoph,4263957,Arbeitgeber Nordwestschweiz,,,Präsident ,Liestal
+209,4886204,Buser Christoph,4267696,Wirtschaftskammer Nordwestschweiz,,,Vizepräsident,Liestal
+209,4886204,Buser Christoph,4752825,Schweizerische Gesellschaft zur Förderung des Bausparens (SGFB),,,Mitglied,Liestal
+209,4886204,Buser Christoph,4780271,Baselland Tourismus,,,Mitglied der Geschäftsleitung,Liestal
+209,4886204,Buser Christoph,4890499,Arbeitgeber Baselland,,,Präsident ,Liestal
+209,4886204,Buser Christoph,5158292,"Touring Club Schweiz, Sektion beider Basel",,,Mitglied,Füllinsdorf
+209,4886204,Buser Christoph,5568899,Verein Gastfamilien Basel 2008,,,Mitglied,Basel
+209,4886204,Buser Christoph,6365916,BaZ Holding AG,,,Mitglied,Basel
+209,4886204,Buser Christoph,6449283,Rofra Holding AG,,,Mitglied,Aesch BL
+209,4886204,Buser Christoph,7005117,VBS Verband-Services AG,,,Delegierter,Liestal
+209,4886204,Buser Christoph,7298171,Baselland Tourismus Services AG,,,Präsident des Verwaltungsrates,Liestal
+212,5799727,Polito Véronique,117316,Fondazione ECAP,,,Mitglied,Zürich
+212,5799727,Polito Véronique,293241,Stiftung Gewerkschaftsschule Schweiz,,,Präsident ,Basel
+213,460117,Spicher Georges,579369,Jetra AG,,,Einziges Mitglied des Verwaltungsrates,Schmitten FR
+213,460117,Spicher Georges,579369,Jetra AG,,,Kapitalbeteiligung 100%,Schmitten FR
+213,460117,Spicher Georges,5208161,Stiftung Klimarappen,,,Mitglied,Zürich
+213,460117,Spicher Georges,5263841,cemsuisse Verband der Schweizerischen Cementindustrie,,,Geschäftsführer,Bern
+213,460117,Spicher Georges,5445863,Betonsuisse Marketing AG,,,Sekretär ausserhalb des Verwaltungsrates,Bern
+216,5313040,Verrey Etiennette J.,292475,Stiftung für Erforschung der Frauenarbeit,,,Vizepräsident,Zürich
+219,6897508,Miescher Alex,6897353,Schweizerischer Fussballverband,,,Generalsekretär ausserhalb des Vorstandes,Muri b. Bern
+220,731886,Kummer Matthias,4115979,Kummer Public Affairs,,,Inhaber,Bern
+221,6879792,Merkli Christoph,6879673,Verein velojournal,,,Mitglied,Zürich
+229,880283,Hayoz Barbara,8464,Emch+Berger AG Bern,,,Mitglied,Bern
+229,880283,Hayoz Barbara,46748,BAND-GENOSSENSCHAFT,,,Mitglied,Bern
+229,880283,Hayoz Barbara,67731,"Burckhardt + Partner AG, Architekten Generalplaner",,,Mitglied,Basel
+229,880283,Hayoz Barbara,394367,Stiftung Diaconis,,,Mitglied,Bern
+229,880283,Hayoz Barbara,567608,CSS Versicherung AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,652694,CSS Verein,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,674653,tk3 AG,,,Mitglied,Basel
+229,880283,Hayoz Barbara,4148527,INTRAS Assurance SA,,,Mitglied,Lausanne
+229,880283,Hayoz Barbara,4559356,Stade de Suisse Wankdorf Nationalstadion AG,,,Mitglied,Bern
+229,880283,Hayoz Barbara,4798198,CSS Kranken-Versicherung AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,4975118,CSS Holding AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,4982160,Sport und Event Holding AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,4988911,Arcosana AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,5042617,BSC Young Boys Betriebs AG,,,Mitglied,Bern
+229,880283,Hayoz Barbara,5443936,Stadtbauten Bern,,,Mitglied,Bern
+229,880283,Hayoz Barbara,5565060,Schweizerische Exportrisikoversicherung,,,Mitglied,Zürich
+229,880283,Hayoz Barbara,5746627,INTRAS Assurance-maladie SA,,,Mitglied,Lausanne 10
+229,880283,Hayoz Barbara,5927280,Sanagate AG,,,Mitglied,Luzern
+229,880283,Hayoz Barbara,6277031,Stiftung Bärenpark Bern,,,Mitglied,Bern
+229,880283,Hayoz Barbara,7064698,Hayoz GmbH,,,Gesellschafter,Bern
+229,880283,Hayoz Barbara,7064698,Hayoz GmbH,,,Geschäftsführer,Bern
+229,880283,Hayoz Barbara,7064698,Hayoz GmbH,,,Beteiligungshinweis ,Bern
+234,5596910,Vitali-Odermatt Klara,5597055,Vitali Treuhand GmbH,,,Gesellschafter,Oberkirch
+234,5596910,Vitali-Odermatt Klara,5597055,Vitali Treuhand GmbH,,,Beteiligungshinweis ,Oberkirch
+235,6719597,Stückelberger Ueli,70954,Schweizer Reisekasse (Reka) Genossenschaft,,,Mitglied,Bern
+235,6719597,Stückelberger Ueli,310378,"Verband öffentlicher Verkehr, Genossenschaft (VöV)",,,Direktor,Bern
+235,6719597,Stückelberger Ueli,712164,SchweizMobil,,,Mitglied,Bern
+235,6719597,Stückelberger Ueli,5033251,Stiftung für die Unterstützung der Forschung im Bereich Seilbahnen,,,Präsident ,Goldau
+235,6719597,Stückelberger Ueli,7124388,"Bärn fägt - Stiftung für Berner Spiel-, Sport- und Erlebnistage",,,ferner zeichnet,Bern
+242,56476,Beglinger Nick,82791,Maxmakers AG,,,Vizepräsident,Zürich
+242,56476,Beglinger Nick,811363,Extramedia Holding AG,,,Präsident des Verwaltungsrates,Herrliberg
+242,56476,Beglinger Nick,811363,Extramedia Holding AG,,,Kapitalbeteiligung 100%,Herrliberg
+242,56476,Beglinger Nick,5638490,Foundation for Global Sustainability (FFGS),,,Delegierter,Zürich
+242,56476,Beglinger Nick,6569447,Stiftung Global Infrastructure Basel,,,Mitglied,Basel
+242,56476,Beglinger Nick,7200315,Cleantech Agentur Schweiz,,,Vizepräsident,Bern
+244,4723834,Burgener Andreas,313275,auto-schweiz VEREINIGUNG SCHWEIZER AUTOMOBIL-IMPORTEURE,,,Direktor,Bern
+244,4723834,Burgener Andreas,583791,INOBAT Interessenorganisation Batterieentsorgung Genossenschaft,,,Mitglied,Bern
+244,4723834,Burgener Andreas,597312,Stiftung Auto Recycling Schweiz,,,Mitglied,Bern
+244,4723834,Burgener Andreas,630809,Orthotec AG,,,Mitglied,Nottwil
+244,4723834,Burgener Andreas,646922,DTC Dynamic Test Center AG,,,Vizepräsident,Biel/Bienne
+244,4723834,Burgener Andreas,4723997,spirit of management Andreas Burgener,,,Inhaber,Bellach
+244,4723834,Burgener Andreas,5426262,Bozzio AG,,,Präsident des Verwaltungsrates,Biel/Bienne
+245,5728900,Meier Bernhard,818565,Schweizerische Bundesbahnen SBB,,,ferner zeichnet,Bern 65 SBB
+246,543205,Ziörjen Maja,331779,"Lothar Ziörjen, Architekturbüro",,,ferner zeichnet,Dübendorf
+255,853602,René Rall,70624,Pensionskasse Schweizerischer Anwaltsverband (PK SAV),,,Mitglied,Bern
+255,853602,René Rall,117243,Unterstützungsfonds des Schweizerischen Anwaltsverbandes,,,Mitglied,Basel
+256,6328894,Roger Schnegg,109479,Genossenschaft Feriendorf Fiesch,,,Mitglied,Fiesch
+256,6328894,Roger Schnegg,268418,Schweizer Sporthilfe,,,ferner zeichnet,Ittigen
+256,6328894,Roger Schnegg,5134692,Swiss Olympic Association,,,Direktor,Ittigen
+259,268223,Ulrich Keller,268215,wohnbaugenossenschaften schweiz - verband der gemeinnützigen wohnbauträger,,,Mitglied,Zürich
+259,268223,Ulrich Keller,384792,Klipper GmbH,,,Gesellschafter,Zürich
+259,268223,Ulrich Keller,384792,Klipper GmbH,,,Geschäftsführer,Zürich
+259,268223,Ulrich Keller,384792,Klipper GmbH,,,Beteiligungshinweis ,Zürich
+261,51997,Edith Baumann,97024,"East West Book Shop, Rentsch & Co",,,Prokurist,Winterthur
+262,1058766,Nathalie Gysi,602539,Grünes Kreuz Schweiz,,,Geschäftsführer,Zürich
+275,1035028,Fritz Glauser,116974,Fondation rurale de prévoyance professionnelle vieillesse survivants et invalidité,,,Mitglied,Lausanne
+275,1035028,Fritz Glauser,282878,LANDI Chénens Société coopérative,,,Mitglied,Chénens
+275,1035028,Fritz Glauser,283302,Société coopérative de fromagerie de Châtonnaye-Sédeilles-Rossens,,,Präsident ,Châtonnaye
+275,1035028,Fritz Glauser,403502,Schweizerischer Bauernverband (SBV),,,Vizepräsident,Brugg AG
+275,1035028,Fritz Glauser,653780,Le Journal Agri Sàrl,,,Diverse,Lausanne
+275,1035028,Fritz Glauser,653780,Le Journal Agri Sàrl,,,Beteiligungshinweis ,Lausanne
+275,1035028,Fritz Glauser,661166,"BauernZeitung Nordwestschweiz, Bern und Freiburg AG, Bern",,,Mitglied,Bern
+275,1035028,Fritz Glauser,5402950,Agrosolution AG,,,Vizepräsident,Zollikofen
+275,1035028,Fritz Glauser,5455802,AGRO fiduciaire fribourgeoise SA,,,Präsident des Verwaltungsrates,Granges-Paccot
+275,1035028,Fritz Glauser,6294164,Agrimmo AG,,,Präsident des Verwaltungsrates,Brugg AG
+283,727481,Alfred Squaratti,4805,Electricité de la Lienne SA,,,Mitglied,Sion
+283,727481,Alfred Squaratti,40105,USIC-Stiftung,,,Mitglied,Baar
+283,727481,Alfred Squaratti,40458,Association de l'ancien Hôpital de Gravelone des communes des districts de Sion-Hérens-Conthey,,,Mitglied,Sion
+283,727481,Alfred Squaratti,172258,Kbm Engineers SA,,,Präsident des Verwaltungsrates,Sion
+283,727481,Alfred Squaratti,406353,Radio Rhône SA,,,Mitglied,Martigny
+283,727481,Alfred Squaratti,666723,Pini Swiss Engineers SA,,,Mitglied,Lugano
+283,727481,Alfred Squaratti,4681350,ETEC Ecologie aquatique Sàrl,,,Geschäftsführer,Sion
+283,727481,Alfred Squaratti,5508793,GazEl SA,,,Präsident des Verwaltungsrates,Vétroz
+283,727481,Alfred Squaratti,5649408,alp Andenmatten Lauber & Partner AG,,,Sekretär,Visp
+283,727481,Alfred Squaratti,6428365,Zentrum La Suisse Brig AG,,,Präsident des Verwaltungsrates,Brig
+283,727481,Alfred Squaratti,7106884,"Pini Swiss Engineers SA, Niederlassung Zürich",,,ferner zeichnet,Zürich
+288,451881,Laurent Seydoux,682800,"Lys DCT Seydoux, Beerli",,,Kollektiv-Gesellschafter,Plan-les-Ouates
+288,451881,Laurent Seydoux,4146848,LYSOFT SA,,,Präsident des Verwaltungsrates,Plan-les-Ouates
+294,651505,Markus Meier,171444,Wirtschaftskammer Baselland,,,Stellvertretender Direktor,Liestal
+294,651505,Markus Meier,171444,Wirtschaftskammer Baselland,,,Mitglied der Geschäftsleitung,Liestal
+294,651505,Markus Meier,379649,"BG Mitte, Bürgschaftsgenossenschaft für KMU",,,Mitglied,Burgdorf
+294,651505,Markus Meier,744464,IWF Institut für Wirtschaftsförderung AG,,,ferner zeichnet,Liestal
+294,651505,Markus Meier,4173962,Gewerbeverband Baselland,,,Mitglied,Liestal
+294,651505,Markus Meier,4890499,Arbeitgeber Baselland,,,Mitglied,Liestal
+294,651505,Markus Meier,5002473,"Zentrale Paritätische Kontrollstelle, ZPK",,,Vizepräsident,Liestal
+294,651505,Markus Meier,5473306,"Zentrale Arbeitsmarkt-Kontrolle, ZAK",,,Mitglied,Liestal
+294,651505,Markus Meier,6997555,Stiftung Tierpark Weihermätteli,,,Vizepräsident,Liestal
+294,651505,Markus Meier,7005117,VBS Verband-Services AG,,,ferner zeichnet,Liestal
+295,7092939,Arnaud Schaller,7092781,Swisstasting Sàrl,,,Gesellschafter,Zweisimmen
+295,7092939,Arnaud Schaller,7092781,Swisstasting Sàrl,,,Geschäftsführer,Zweisimmen
+295,7092939,Arnaud Schaller,7092781,Swisstasting Sàrl,,,Beteiligungshinweis ,Zweisimmen
+300,1192206,Ansgar Gmür,268184,Hauseigentümerverband Schweiz,,,Direktor,Zürich
+300,1192206,Ansgar Gmür,6943418,Energieplattform Immobilien (EPImmo),,,Mitglied der Geschäftsleitung,Zürich
+301,224973,Daniel Heller,5117,Clientis Bank Küttigen-Erlinsbach AG,,,Präsident des Verwaltungsrates,Küttigen
+301,224973,Daniel Heller,5966,Franke Schweiz AG,,,Mitglied,Aarburg
+301,224973,Daniel Heller,26062,Verein Barmelweid,,,Präsident ,Barmelweid
+301,224973,Daniel Heller,26072,Aargauische Stiftung für Freiheit und Verantwortung in Politik und Wirtschaft,,,Mitglied,Aarau
+301,224973,Daniel Heller,107920,Farner Consulting AG,,,Mitglied,Zürich
+301,224973,Daniel Heller,107920,Farner Consulting AG,,,Direktor,Zürich
+301,224973,Daniel Heller,4185512,Reuss Private AG,,,Präsident des Verwaltungsrates,Bremgarten AG
+301,224973,Daniel Heller,4269554,Betriebe Barmelweid AG,,,Präsident des Verwaltungsrates,Barmelweid
+301,224973,Daniel Heller,4269558,Klinik Barmelweid AG,,,Präsident des Verwaltungsrates,Barmelweid
+301,224973,Daniel Heller,4691415,Clientis AG,,,Mitglied,Bern
+301,224973,Daniel Heller,5553278,Reuss Private Group AG,,,Präsident des Verwaltungsrates,Pfäffikon SZ
+301,224973,Daniel Heller,5920036,Pflegezentrum Barmelweid AG,,,Präsident des Verwaltungsrates,Barmelweid
+301,224973,Daniel Heller,6734760,Verein Geothermische Kraftwerke Schweiz (VGKS),,,Mitglied,Aarau
+303,152168,Richard Estermann,779169,ESTERMANN - CONSULTING,,,Inhaber,Kriens
+303,152168,Richard Estermann,6368285,Yvette Estermann Stiftung,,,Mitglied,Kriens
+305,6465912,Guido Fürer,68038,Schweizerische Beratungsstelle für Unfallverhütung bfu,,,Mitglied der Geschäftsleitung,Bern
+314,858208,Peter Schuhmacher,786243,GEO Consulting Group AG,,,Einziges Mitglied des Verwaltungsrates,Zürich
+315,6527757,Henrique Schneider,40749,Nuklearforum Schweiz,,,Mitglied,Bern
+315,6527757,Henrique Schneider,5208161,Stiftung Klimarappen,,,Mitglied,Zürich
+315,6527757,Henrique Schneider,6943418,Energieplattform Immobilien (EPImmo),,,Mitglied,Zürich
+315,6527757,Henrique Schneider,7290621,VALIDITAS Fachverband Schweizer Finanzdienstleister,,,Vizepräsident,Zürich
+317,5530653,Marco Föhn,24114,Möbelfabrik Betschart AG,,,Mitglied,Muotathal
+326,4243104,Roger de Weck,646899,Schweizerische Radio- und Fernsehgesellschaft,,,Generaldirektor,Bern
+329,4860527,Martin Schläpfer,11261,Migros-Genossenschafts-Bund,,,ferner zeichnet,Zürich
+329,4860527,Martin Schläpfer,5436471,Renate Hotz Communications AG,,,Mitglied,Zug
+331,869641,Michael Gehrken,597312,Stiftung Auto Recycling Schweiz,,,Mitglied,Bern
+331,869641,Michael Gehrken,692676,"BOOM Büro für Organisation, Oeffentlichkeitsarbeit & Medienberatung Michael Gehrken",,,Inhaber,Bern
+331,869641,Michael Gehrken,4680048,ASTAG Schweizerischer Nutzfahrzeugverband,,,Direktor,Bern
+331,869641,Michael Gehrken,5870217,Suva,,,Mitglied,Luzern
+332,33090,Rudolf Alther,5718926,Gesellschaft Schweiz - Albanien,,,Präsident ,Goldach
+341,6238466,Giovanni Giunta,5269690,kmuNEXT Schweizerische Vereinigung für Unternehmensnachfolge in Liquidation,,,Mitglied,Winterthur
+341,6238466,Giovanni Giunta,7015293,Giovanni Giunta Bureau de conseils,,,Inhaber,Chailly-Montreux
+344,926284,Christian Köpe,4022257,medi 24 Service AG,,,Einziges Mitglied des Verwaltungsrates,Bern
+344,926284,Christian Köpe,4539901,Amavita Health Care AG,,,ferner zeichnet,Niederbipp
+344,926284,Christian Köpe,5697285,G-Pharma AG,,,ferner zeichnet,Niederbipp
+347,888313,Urs Brogli,5674085,The Swiss Leading Hospitals,,,Mitglied,Baar
+349,864193,Armin Menzi,4093801,Consulenza Armin Menzi,,,Inhaber,Frauenfeld
+361,4757083,Pierre Maudet,114788,Fondation des immeubles pour les organisations internationales (FIPOI),,,Mitglied,Genève
+361,4757083,Pierre Maudet,217269,Office de Promotion des Industries et des Technologies,,,Mitglied,Plan-les-Ouates
+361,4757083,Pierre Maudet,641740,Aéroport International de Genève,,,Präsident ,Le Grand-Saconnex
+361,4757083,Pierre Maudet,6299054,Services industriels de Genève,,,Mitglied,Le Lignon
+366,505270,Valentin Vogt,9363,Kistler Holding AG,,,Mitglied,Winterthur
+366,505270,Valentin Vogt,10728,Burckhardt Compression AG,,,Präsident des Verwaltungsrates,Winterthur
+366,505270,Valentin Vogt,32608,"Allgemeiner Wohlfahrtsfonds der Kistler Instrumente Aktiengesellschaft, Winterthur",,,Mitglied,Winterthur
+366,505270,Valentin Vogt,586089,Kistler Instrumente AG,,,Mitglied,Winterthur
+366,505270,Valentin Vogt,4492330,Burckhardt Compression Holding AG,,,Präsident des Verwaltungsrates,Winterthur
+366,505270,Valentin Vogt,5880664,EGS Beteiligungen AG,,,Mitglied,Zürich
+366,505270,Valentin Vogt,6957758,TAW Holding AG,,,Präsident des Verwaltungsrates,Kloten
+366,505270,Valentin Vogt,6957758,TAW Holding AG,,,Kapitalbeteiligung 100%,Kloten
+370,853105,Daniel Wiener,685220,ecos AG,,,Präsident des Verwaltungsrates,Basel
+370,853105,Daniel Wiener,685220,ecos AG,,,Kapitalbeteiligung 100%,Basel
+370,853105,Daniel Wiener,685310,Stiftung Oekomedia,,,Präsident ,Basel
+370,853105,Daniel Wiener,4395103,Stiftung BASE (Basel Agency for Sustainable Energy),,,Mitglied,Basel
+370,853105,Daniel Wiener,5411125,The Gold Standard Foundation,,,Mitglied,Cointrin
+370,853105,Daniel Wiener,5797620,swisscleantech Association,,,Mitglied,Bern
+370,853105,Daniel Wiener,6569447,Stiftung Global Infrastructure Basel,,,Präsident ,Basel
+370,853105,Daniel Wiener,7256869,Förderverein Cargo sous terrain,,,Mitglied,Basel
+372,1065079,Marcel Durst,597317,KOMET Werbeagentur AG,,,Präsident des Verwaltungsrates,Bern
+372,1065079,Marcel Durst,4046366,"Durst, Marketing und Kommunikation",,,Inhaber,Avenches
+372,1065079,Marcel Durst,4525006,BIRDIE Company GmbH,,,Gesellschafter,Langnau am Albis
+372,1065079,Marcel Durst,4525006,BIRDIE Company GmbH,,,Geschäftsführer,Langnau am Albis
+372,1065079,Marcel Durst,4525006,BIRDIE Company GmbH,,,Beteiligungshinweis ,Langnau am Albis
+372,1065079,Marcel Durst,5241435,Association Spitex privée Suisse (ASPS),,,Sekretär ausserhalb des Vorstandes,Bern
+372,1065079,Marcel Durst,5690754,KOMET marketing & communication Sàrl,,,Vorsitzender der Geschäftsführung,Bern
+372,1065079,Marcel Durst,7237206,VerMaG AG,,,Mitglied,Bern
+374,713874,Peter Kyburz,55733,Bildungsfonds des KV Schweiz,,,Mitglied,Zürich
+374,713874,Peter Kyburz,55733,Bildungsfonds des KV Schweiz,,,Geschäftsführer,Zürich
+374,713874,Peter Kyburz,257640,Sabimo AG,,,Mitglied,Wolfwil
+374,713874,Peter Kyburz,268190,Kaufmännischer Verband Schweiz,,,Generalsekretär,Zürich
+374,713874,Peter Kyburz,286828,Sozialfonds des KV Schweiz,,,Mitglied,Zürich
+374,713874,Peter Kyburz,286828,Sozialfonds des KV Schweiz,,,Geschäftsführer,Zürich
+374,713874,Peter Kyburz,318221,Vorsorgestiftung des Kaufmännischen Verbandes Schweiz,,,Geschäftsführer,Zürich
+374,713874,Peter Kyburz,586102,Heidi Taxi Betriebs AG,,,Mitglied,Winterthur
+374,713874,Peter Kyburz,4043196,SKV Immobilien AG,,,Delegierter,Zürich
+374,713874,Peter Kyburz,4368260,HWZ Hochschule für Wirtschaft Zürich AG,,,Mitglied,Zürich
+374,713874,Peter Kyburz,5740079,SIB Schweizerisches Institut für Betriebsökonomie AG,,,Delegierter,Zürich
+374,713874,Peter Kyburz,5870217,Suva,,,Mitglied,Luzern
+374,713874,Peter Kyburz,7051193,Verlag SKV AG,,,Delegierter,Zürich
+380,681493,Urs Glutz,6567746,Swisspower AG,,,Mitglied der Geschäftsleitung,Zürich
+385,1022882,Maxwell Sigurd,771741,GTER-GROUPEMENT POUR DES TRANSPORTS EXPRESS REGIONAUX,,,Mitglied,Genève
+386,791471,Claudia Bolla-Vincenz,269490,Robert Walser-Stiftung Bern,,,Mitglied,Bern
+386,791471,Claudia Bolla-Vincenz,702393,SWISSCABLE VERBAND FÜR KOMMUNIKATIONSNETZE,,,Geschäftsführer,Bern
+386,791471,Claudia Bolla-Vincenz,806711,SCN SwissCableNet AG,,,Einziges Mitglied des Verwaltungsrates,Bern
+388,1144647,Alain Carrupt,32605,Hilfs- und Solidaritätsfonds syndicom,,,Co-Präsident,Bern
+388,1144647,Alain Carrupt,5870217,Suva,,,Mitglied,Luzern
+388,1144647,Alain Carrupt,6512328,syndicom,,,Co-Präsident,Bern
+389,4957570,Gabi Badertscher,243207,Raiffeisenbank Amriswil-Dozwil-Sommeri Genossenschaft,,,Mitglied,Amriswil
+389,4957570,Gabi Badertscher,6317730,yjoo communications ag,,,ferner zeichnet,St. Gallen
+390,534408,Rudolf Wyder,42744,Auslandschweizer-Organisation,,,Direktor,Bern
+390,534408,Rudolf Wyder,116726,Stiftung Auslandschweizerplatz Brunnen,,,Mitglied,Brunnen
+390,534408,Rudolf Wyder,122994,Für die Auslandschweizer,,,Mitglied,Bern
+390,534408,Rudolf Wyder,122994,Für die Auslandschweizer,,,Direktor,Bern
+390,534408,Rudolf Wyder,646698,Stiftung für Schweizer Schulen im Ausland,,,Mitglied,Bern
+390,534408,Rudolf Wyder,4825624,Oeschger-Hintermann Stiftung der NHG,,,Mitglied,Bern
+392,5546035,Martin Muerner,13369,Radio Berner Oberland AG,,,Kapitalbeteiligung 12.77%,Interlaken
+392,5546035,Martin Muerner,6327436,Stiftung für Radio und Kultur Schweiz,,,Mitglied,Bern
+394,5579517,Christian Zeyer,5579664,E plus U Energie- und Umweltberatung GmbH,,,Gesellschafter,Bern
+394,5579517,Christian Zeyer,5579664,E plus U Energie- und Umweltberatung GmbH,,,Geschäftsführer,Bern
+394,5579517,Christian Zeyer,5579664,E plus U Energie- und Umweltberatung GmbH,,,Beteiligungshinweis ,Bern
+394,5579517,Christian Zeyer,5606885,"Wohnbaugenossenschaft Oberfeld, Ostermundigen",,,Präsident ,Ostermundigen
+397,6657780,Mohamed Hamdaoui,691516,Fondation des Spectacles français,,,Mitglied,Biel/Bienne
+398,6348926,Andreas Schefer,217443,OGS Beratungsteam AG,,,Mitglied,Uster
+398,6348926,Andreas Schefer,242583,Radio- und Fernsehgenossenschaft Bern Deutschfreiburg Oberwallis RGB,,,Präsident ,Bern
+406,702264,Oscar J. Schwenk,12837,PILATUS Flugzeugwerke AG,,,Präsident des Verwaltungsrates,Stans
+406,702264,Oscar J. Schwenk,19493,Pilatus Aircraft Service AG,,,Präsident des Verwaltungsrates,Stans
+406,702264,Oscar J. Schwenk,20732,PILATUS-BAHNEN AG,,,Präsident des Verwaltungsrates,Alpnachstad
+406,702264,Oscar J. Schwenk,204079,Mineralquelle Bad Knutwil AG,,,Präsident des Verwaltungsrates,Büron
+406,702264,Oscar J. Schwenk,204079,Mineralquelle Bad Knutwil AG,,,Kapitalbeteiligung 97.4%,Büron
+406,702264,Oscar J. Schwenk,698074,Tautec AG,,,Einziges Mitglied des Verwaltungsrates,Hergiswil NW
+406,702264,Oscar J. Schwenk,4005937,Oskar J. Schwenk,,,Inhaber,Hergiswil NW
+406,702264,Oscar J. Schwenk,4272674,Patronale Personalfürsorgestiftung PILATUS-BAHNEN,,,Mitglied,Kriens
+406,702264,Oscar J. Schwenk,6484243,SCL Helvetia AG,,,Mitglied,Unterägeri
+408,4692736,Monika Sommer,268184,Hauseigentümerverband Schweiz,,,Stellvertretender Direktor,Zürich
+414,4127563,Studer Marc,6925297,Garage STUDER,,,Inhaber,Genève
+417,4513204,Andreas Hugi,286827,Stiftung SwissEngineering STV,,,Mitglied,Zürich
+417,4513204,Andreas Hugi,292304,Stiftung für die Hilfskasse des Schweizerischen Technischen Verbandes STV,,,Mitglied,Zürich
+417,4513204,Andreas Hugi,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Mitglied,Bern
+417,4513204,Andreas Hugi,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Geschäftsführer,Bern
+417,4513204,Andreas Hugi,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Kapitalbeteiligung 100%,Bern
+417,4513204,Andreas Hugi,5485153,Berner Politgespräche GmbH,,,Vorsitzender der Geschäftsführung,Bern
+417,4513204,Andreas Hugi,6662437,Port-Associations GmbH,,,Geschäftsführer,Bern
+418,4010952,Stefan Batzli,86175,cR Kommunikation AG,,,Präsident des Verwaltungsrates,Zürich
+418,4010952,Stefan Batzli,131777,Genossenschaft Baseltor,,,Präsident ,Solothurn
+418,4010952,Stefan Batzli,546549,Liegenschaft Hauptgasse 79 AG,,,Mitglied,Solothurn
+418,4010952,Stefan Batzli,4784701,cR Lichtspiele GmbH,,,ferner zeichnet,Zürich
+418,4010952,Stefan Batzli,7191682,Liegenschaft Hauptgasse 64 AG,,,Mitglied,Solothurn
+423,527355,Willener Walter,318134,Agrisano Prevos,,,Mitglied,Brugg AG
+423,527355,Willener Walter,653780,Le Journal Agri Sàrl,,,Diverse,Lausanne
+423,527355,Willener Walter,653780,Le Journal Agri Sàrl,,,Beteiligungshinweis ,Lausanne
+423,527355,Willener Walter,698007,Association pour la Mise en valeur des Travaux de la Recherche Agronomique,,,Präsident ,Nyon
+423,527355,Willener Walter,765433,Agro-Marketing Suisse (AMS),,,Vizepräsident,Bern
+424,4178254,Enggasser Josiane,15126,Schweizer Obstverband,,,Vizedirektor,Zug
+424,4178254,Enggasser Josiane,74971,CAVO-Stiftung,,,Mitglied,Zug
+424,4178254,Enggasser Josiane,293364,Stiftung Technische Obstverwertung Wädenswil,,,Mitglied,Wädenswil
+426,880278,Gfeller Kurt,12585,Helsana Unfall AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,104608,Ersatzkasse gemäss den Artikeln 72 - 74 des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung,,,Mitglied,Zürich
+426,880278,Gfeller Kurt,117050,Schweizerische Sozialpartner-Stiftung für die Auffangeinrichtung gemäss Artikel 60 BVG (Stiftung Auffangeinrichtung BVG),,,Präsident ,Zürich
+426,880278,Gfeller Kurt,117560,Sicherheitsfonds BVG,,,Präsident ,Bern
+426,880278,Gfeller Kurt,130809,proparis Vorsorge-Stiftung Gewerbe Schweiz,,,Mitglied,Bern
+426,880278,Gfeller Kurt,231161,Personalvorsorgestiftung der Geschäftsstelle des Schweizerischen Gewerbeverbandes in Liquidation,,,Liquidator,Bern
+426,880278,Gfeller Kurt,391644,Stiftung für ein erweitertes Versicherungsangebot durch die Helsana,,,Mitglied,Dübendorf
+426,880278,Gfeller Kurt,670731,Helsana Zusatzversicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,697913,Helsana Versicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,760934,Progrès Versicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,787348,Personalvorsorgestiftung der Helsana Versicherungen AG,,,Mitglied,Dübendorf
+426,880278,Gfeller Kurt,831675,Helsana AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,4373737,Avanex Versicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,4373739,Sansan Versicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,5546128,maxi.ch Versicherungen AG,,,Vizepräsident,Dübendorf
+426,880278,Gfeller Kurt,5870217,Suva,,,Mitglied,Luzern
+431,33776,Ambrosetti Renzo,3548,COGERIM SOCIETE COOPERATIVE,,,Mitglied,Genève
+431,33776,Ambrosetti Renzo,83794,Coopérative de construction de Moutier  en liquidation,,,Mitglied,Moutier
+431,33776,Ambrosetti Renzo,83794,Coopérative de construction de Moutier  en liquidation,,,Liquidator,Moutier
+431,33776,Ambrosetti Renzo,89292,Gewerkschaft UNIA,,,Co-Präsident,Bern
+431,33776,Ambrosetti Renzo,99048,Egghölzli Verwaltungen AG,,,Präsident des Verwaltungsrates,Bern
+431,33776,Ambrosetti Renzo,273184,Société Immobilière Cluse-Préau SA,,,Mitglied,Genève
+431,33776,Ambrosetti Renzo,277486,SI Lignon-Résidence SA,,,Mitglied,Genève
+431,33776,Ambrosetti Renzo,292249,Stiftung UNIA,,,Mitglied,Zürich
+431,33776,Ambrosetti Renzo,292249,Stiftung UNIA,,,Geschäftsführer,Zürich
+431,33776,Ambrosetti Renzo,309374,Typo Offset Aurora SA,,,Vizepräsident,Canobbio
+431,33776,Ambrosetti Renzo,327310,"Wohnbaugenossenschaft ""Schönehof"" Frauenfeld",,,Mitglied,Frauenfeld
+431,33776,Ambrosetti Renzo,331829,Zivag Verwaltungen AG,,,Präsident des Verwaltungsrates,Bern 15
+431,33776,Ambrosetti Renzo,775866,L'Evénement syndical SA,,,Mitglied,Lausanne
+431,33776,Ambrosetti Renzo,786186,Edizioni Sociali SA in liquidazione,,,Präsident des Verwaltungsrates,Bern 15
+431,33776,Ambrosetti Renzo,786186,Edizioni Sociali SA in liquidazione,,,Liquidator,Bern 15
+431,33776,Ambrosetti Renzo,4877396,Associazione interprofessionale di controllo (AIC),,,Präsident ,Bellinzona
+431,33776,Ambrosetti Renzo,4889447,Caisse de retraite anticipée du second oeuvre romand (RESOR),,,ferner zeichnet,Sion
+431,33776,Ambrosetti Renzo,5870217,Suva,,,Mitglied,Luzern
+431,33776,Ambrosetti Renzo,6972825,IndustriALL Global Union,,,Mitglied,Carouge GE
+441,944515,Josef Dissler,182233,LANDI Wolhusen Genossenschaft in Liquidation,,,Mitglied,Wolhusen
+441,944515,Josef Dissler,182462,Genossenschaft Landwirtschaftliches Bau- und Architekturbüro LBA des Schweizerischen Bauernverbandes,,,Mitglied,Brugg AG
+441,944515,Josef Dissler,232487,Personalvorsorgestiftung des Schweizerischen Bauernverbandes,,,Mitglied,Brugg AG
+441,944515,Josef Dissler,293573,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,,,Präsident ,Brugg AG
+441,944515,Josef Dissler,403502,Schweizerischer Bauernverband (SBV),,,Mitglied,Brugg AG
+441,944515,Josef Dissler,822767,Qualinova AG,,,Mitglied,Gunzwil
+441,944515,Josef Dissler,5701303,Regionale Wald-Genossenschaft Fontannen,,,Vizepräsident,Wolhusen
+444,188532,Gfeller Peter,4971,Emmentalische Mobiliar Versicherungs-Genossenschaft (emmental versicherung),,,Vizepräsident,Konolfingen
+444,188532,Gfeller Peter,232666,Pensionskasse der emmental versicherung,,,Mitglied,Konolfingen
+444,188532,Gfeller Peter,326487,Zusatzstiftung SMP,,,Präsident ,Bern
+444,188532,Gfeller Peter,403502,Schweizerischer Bauernverband (SBV),,,Mitglied,Brugg AG
+449,865001,Beglinger Caroline,40937,VCS Verkehrs-Club der Schweiz,,,Geschäftsführer,Herzogenbuchsee
+449,865001,Beglinger Caroline,122699,Schweizerische Verkehrs-Stiftung (SVS),,,Mitglied,Herzogenbuchsee
+454,6243190,Mark Saxer,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Prokurist,Bern
+454,6243190,Mark Saxer,821909,Furrer.Hugi & Partner AG für Public Affairs und Kommunikationsmanagement,,,Kapitalbeteiligung 100%,Bern
+457,5190083,Saladin Franz,292876,Stiftung Telebasel,,,Mitglied,Basel
+457,5190083,Saladin Franz,313520,Basel Tourismus,,,Mitglied,Basel
+457,5190083,Saladin Franz,371094,Jubiläums-Stiftung des Bankhauses La Roche & Co.,,,Mitglied,Basel
+457,5190083,Saladin Franz,612315,Stiftung Europainstitut Basel,,,Mitglied,Basel
+457,5190083,Saladin Franz,726339,Handelskammer beider Basel,,,Direktor,Basel
+457,5190083,Saladin Franz,4926052,SSIB Swiss School for International Business AG,,,Mitglied,Zürich
+457,5190083,Saladin Franz,5722470,Swiss Chambers' Arbitration Institution,,,Mitglied,Basel
+457,5190083,Saladin Franz,6572383,BioValley Basel,,,Kassier,Basel
+457,5190083,Saladin Franz,6639707,BaselArea - Wirtschaftsförderung Basel-Stadt und Basel-Landschaft,,,Mitglied,Basel
+463,970677,Niggli Peter,4412332,Stiftung ZEWO,,,Mitglied,Zürich
+465,6522394,Grichting Thomas J.,75809,CLINIQUE LE NOIRMONT SOCIETE COOPERATIVE,,,Mitglied,Le Noirmont
+465,6522394,Grichting Thomas J.,293513,Stiftung zur Förderung besonderer gemeinschaftlicher Aufgaben der sozialen Krankenversicherung,,,Vizepräsident,Solothurn
+465,6522394,Grichting Thomas J.,635751,Medidata AG,,,Mitglied,Root Längenbold
+465,6522394,Grichting Thomas J.,726764,SVK Schweizerischer Verband für Gemeinschaftsaufgaben der Krankenversicherer,,,Mitglied,Solothurn
+465,6522394,Grichting Thomas J.,5344085,Schweizerischer Versicherungsverband (SVV),,,Mitglied,Zürich
+465,6522394,Grichting Thomas J.,5516292,Genossenschaft Alpin Center Zermatt,,,Mitglied,Zermatt
+465,6522394,Grichting Thomas J.,5828759,SASIS AG,,,Vizepräsident,Solothurn
+465,6522394,Grichting Thomas J.,6246638,santésuisse,,,Vizepräsident,Solothurn
+465,6522394,Grichting Thomas J.,6426301,tarifsuisse ag,,,Vizepräsident,Solothurn
+465,6522394,Grichting Thomas J.,6455695,Mutuel Assurance Maladie SA,,,Mitglied,Martigny
+465,6522394,Grichting Thomas J.,6784868,Allianz Schweizer Krankenversicherer,,,Vizepräsident,Bern
+466,4931043,Buholzer René,3913,Credit Suisse Group AG,,,ferner zeichnet,Zürich
+466,4931043,Buholzer René,15012,Credit Suisse AG,,,ferner zeichnet,Zürich
+466,4931043,Buholzer René,318753,Dr. Heinrich Wachter-Stiftung zur Förderung der wissenschaftlichen Forschung an der Hochschule St. Gallen für Wirtschafts- und Sozialwissenschaften,,,Mitglied,St. Gallen
+466,4931043,Buholzer René,7059421,Young Leaders Alumni Foundation,,,Mitglied,Neuchâtel 1
+467,872550,Ziltener Erika,825414,EQUAM Stiftung,,,Mitglied,Zürich
+470,729397,Saxenhofer Peter,5242,Europäische Reiseversicherungs AG,,,Mitglied,Basel
+470,729397,Saxenhofer Peter,116807,Stiftung für Konsumentenschutz,,,Vizepräsident,Bern
+477,6702969,Michaud Gigon Sophie,268028,Stiftung Landschaftsschutz Schweiz,,,Mitglied,Bern
+477,6702969,Michaud Gigon Sophie,268034,sanu durabilitas - Schweizerische Stiftung für Nachhaltige Entwicklung,,,Mitglied,Biel/Bienne
+478,4442814,Schneuwly Felix,6473402,Solsana AG,,,Mitglied,Saanen
+481,1190796,Egle Franz,268221,Schweizerisches Alpines Museum,,,Vizepräsident,Bern
+481,1190796,Egle Franz,709580,Top Fifty AG,,,Mitglied,Zug
+481,1190796,Egle Franz,4140396,Fondation pour la Garde Suisse Pontificale au Vatican,,,Mitglied,Fribourg
+481,1190796,Egle Franz,4944573,Stylos BVG-Sammelstiftung,,,Mitglied,Kirchlindach
+481,1190796,Egle Franz,5295393,Textbüro Holz GmbH,,,Gesellschafter,Luzern
+481,1190796,Egle Franz,5295393,Textbüro Holz GmbH,,,Beteiligungshinweis ,Luzern
+481,1190796,Egle Franz,5295393,Textbüro Holz GmbH,,,Kapitalbeteiligung 5%,Luzern
+481,1190796,Egle Franz,5442536,Dynamics Group AG,,,Präsident des Verwaltungsrates,Zürich
+481,1190796,Egle Franz,5442536,Dynamics Group AG,,,Kapitalbeteiligung 100%,Zürich
+481,1190796,Egle Franz,5530903,Andermatt Swiss Alps AG,,,Mitglied,Andermatt
+481,1190796,Egle Franz,5633298,Basis 57 nachhaltige Wassernutzung AG,,,Kapitalbeteiligung 2%,Erstfeld
+481,1190796,Egle Franz,5660402,Orascom Development Holding AG,,,Mitglied,Altdorf UR
+481,1190796,Egle Franz,5677046,Dynamics Group AG,,,Filialleiter,Bern
+481,1190796,Egle Franz,5708995,Stiftung SALLE MODULABLE,,,Mitglied,Luzern
+481,1190796,Egle Franz,6679138,Andermatt-Urserntal Tourismus GmbH,,,Geschäftsführer,Andermatt
+486,1038098,Linder Stefan,4594926,premium incentives and events AG,,,Mitglied,Gwatt (Thun)
+486,1038098,Linder Stefan,4804896,Swiss Economic Forum (SEF) AG,,,Mitglied,Gwatt (Thun)
+486,1038098,Linder Stefan,5837891,Stähli & Linder AG,,,Mitglied,Gwatt (Thun)
+486,1038098,Linder Stefan,6808909,IFH Interforum Holding AG,,,Mitglied,Zürich
+486,1038098,Linder Stefan,6808909,IFH Interforum Holding AG,,,Kapitalbeteiligung 20%,Zürich
+491,4573869,Tuti Giorgio,3749,Coop Rechtsschutz AG,,,Mitglied,Aarau 1 Fächer
+491,4573869,Tuti Giorgio,70243,SEV Versicherungen Genossenschaft   in Liquidation,,,Mitglied,Basel
+491,4573869,Tuti Giorgio,83722,Ferienheimgenossenschaft SEV,,,Präsident ,Bern
+491,4573869,Tuti Giorgio,108671,SEV - Gewerkschaft des Verkehrspersonals,,,Präsident ,Bern
+491,4573869,Tuti Giorgio,224004,Pensionskasse des Schweizerischen Eisenbahn- und Verkehrspersonal-Verbandes,,,Mitglied,Bern
+492,472127,Stockmann Benedikt,10084,Lenzlinger Söhne AG,,,ferner zeichnet,Nänikon
+492,472127,Stockmann Benedikt,727357,Verein Pro Waldmannsburg,,,Mitglied,Zürich
+0,268223,Ulrich Keller,268215,wohnbaugenossenschaften schweiz - verband der gemeinnützigen wohnbauträger,,,Mitglied,Zürich
+0,268223,Ulrich Keller,384792,Klipper GmbH,,,Gesellschafter,Zürich
+0,268223,Ulrich Keller,384792,Klipper GmbH,,,Geschäftsführer,Zürich
+0,268223,Ulrich Keller,384792,Klipper GmbH,,,Beteiligungshinweis ,Zürich
+0,1057184,Stefan Michael Nünlist,217752,Oltra AG,,,Mitglied,Olten
+0,1057184,Stefan Michael Nünlist,760606,Swisscom (Schweiz) AG,,,ferner zeichnet,Worblaufen
+0,1057184,Stefan Michael Nünlist,784052,Swisscom AG,,,ferner zeichnet,Worblaufen
+0,4957570,Gabriele Badertscher Renz,243207,Raiffeisenbank Amriswil-Dozwil-Sommeri Genossenschaft,,,Mitglied,Amriswil
+0,4957570,Gabriele Badertscher Renz,6317730,yjoo communications ag,,,ferner zeichnet,St. Gallen
+0,5100664,Barbara Claire Gisi,70954,Schweizer Reisekasse (Reka) Genossenschaft,,,Mitglied,Bern
+0,5100664,Barbara Claire Gisi,97710,"sfb Bildungszentrum (esg, soa)",,,Mitglied,Dietikon
+0,5770043,Beat Meiner Büchi,645781,Stiftung Alpenruhe Saanen,,,Mitglied,Saanen
+0,5770043,Beat Meiner Büchi,7203683,Schweizerische Flüchtlingshilfe / SFH,,,Mitglied,Bern
+0,7039480,Miriam Christina Wetter Arni,7039357,mcw - Miriam C. Wetter Arni,,,Inhaber,Zofingen
+0,7176227,Peter With,7176095,With Metallbau AG,,,Mitglied,Luzern
+0,7218675,Morten Keller,7218593,Stiftung Werk- und Wohnhaus zur Weid,,,Mitglied,Mettmenstetten
