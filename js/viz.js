@@ -191,7 +191,7 @@ function ready (error,politiker,badges,network,auswahl) {
     return (d.status !="alt")
   });
   network = network.filter(function(d){ return d.badge_id != ""});
-   mandateCount = d3.nest()
+  mandateCount = d3.nest()
     .key(function(d) { return d.kategorie })
     .rollup(function(g) {
       return d3.set(g.map(function(d){ return d.badge_id })).values().length
@@ -232,6 +232,13 @@ function ready (error,politiker,badges,network,auswahl) {
 
   //console.log("network",mandates);
 
+  var badgeFunktionenLookup = d3.nest()
+    .key(function(d) { return d.badge_id })
+    .rollup(function(g) {
+      return d3.set(g.map(function(d){ return d.kategorie }))
+    })
+    .map(network)
+
   badges.forEach(function(d,i){
 
     if(d.deklarierte_funktion == "0.0"){
@@ -245,6 +252,12 @@ function ready (error,politiker,badges,network,auswahl) {
     d.rat = d.politiker.rat;
     //d.kategorie = kategorien.filter(function(k){ return d.kategorie == k.id; })[0].kategorie;
     d.kategorie = d.kategorieNEU;
+    if (badgeFunktionenLookup.hasOwnProperty(d.badge_id)) {
+      badgeFunktionenLookup[d.badge_id].add(d.kategorie);
+      d.aktiveKategorien = badgeFunktionenLookup[d.badge_id];
+    } else {
+      d.aktiveKategorien = d3.set([d.kategorie]);
+    }
     d.type = "badge";
     d.active = 4;
     d.id = i;
@@ -641,6 +654,8 @@ function ready (error,politiker,badges,network,auswahl) {
   var sortBadges = function(d,key,val){
     d.data.badges.forEach(function(d){
       if(d[key]==val || val=="" || val=="Alle" || (val=="network" && d.mandates.length != 0)) {
+        d.active = 4;
+      } else if (key == "kategorie" && d.aktiveKategorien.has && d.aktiveKategorien.has(val)) {
         d.active = 4;
       } else {
         d.active = 1;
