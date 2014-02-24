@@ -1,3 +1,7 @@
+console.log("VIZ INITIALIZE");
+
+if(typeof d3 != 'undefined'){
+
 
 var modal = $( "#modal-quellen" );
 
@@ -49,6 +53,10 @@ d3.selectAll('.legende circle')
     }
   })
 var partei;
+var mandateCount;
+
+console.log("VIZ RUN");
+
 
 var id = function(d,i){ return d.type+d.id; };
 
@@ -169,19 +177,27 @@ var makeRat = function(params){
 
 }
 
-queue()
-  .defer(d3.csv, 'data/politiker.csv')
-  .defer(d3.csv, 'data/badges.csv')
-  .defer(d3.csv, 'data/network.csv')
-  .defer(d3.csv, 'data/auswahl.csv')
-  .await(ready)
+
 
 function ready (error,politiker,badges,network,auswahl) {
+
+  console.log("load",error,politiker,badges,network,auswahl)
   $("#loading").fadeOut();
   // console.log(politiker,badges,kategorien);
 
   politiker = politiker.filter(function(d){ return (d.status !="alt") });
-  badges = badges.filter(function(d){ return (d.status !="alt") });
+  //badges = badges.filter(function(d){ return (d.status !="alt") });
+  badges = badges.filter(function(d){
+    return (d.status !="alt")
+  });
+  network = network.filter(function(d){ return d.badge_id != ""});
+   mandateCount = d3.nest()
+    .key(function(d) { return d.kategorie })
+    .rollup(function(g) {
+      return d3.set(g.map(function(d){ return d.badge_id })).values().length
+    })
+    .map(network)
+  mandateCount["Alle"] = d3.sum(d3.values(mandateCount));
 
   politiker.forEach(function(d){
     d.partei = d.parteiZuordnung;
@@ -192,7 +208,7 @@ function ready (error,politiker,badges,network,auswahl) {
   });
 
 
-  network = network.filter(function(d){ return d.id != ""});
+  //network = network.filter(function(d){ return d.id != ""});
 
   var mandates = d3.nest()
     .key(function(d) { return d.name; })
@@ -208,7 +224,8 @@ function ready (error,politiker,badges,network,auswahl) {
       d.name = d.key;
       d.values = d.values.map(function(e){
         return badges
-          .filter(function(f){ return e.infocube_id_person == f.infocube_id;
+          //.filter(function(f){ return e.infocube_id_person == f.infocube_id;
+            .filter(function(f){ return e.badge_id == f.badge_id;
         })[0];
       });
     })
@@ -231,7 +248,7 @@ function ready (error,politiker,badges,network,auswahl) {
     d.type = "badge";
     d.active = 4;
     d.id = i;
-    d.mandates = network.filter(function(e){ return e.infocube_id_person == d.infocube_id})
+    d.mandates = network.filter(function(e){ return e.badge_id == d.badge_id})
       .map(function(d){ return mandates.filter(function(e){ return e.key == d.name; })[0]});
 
     //d.mandates = _.uniq(d.mandates.map(function(d){ d.name; }));
@@ -244,19 +261,27 @@ function ready (error,politiker,badges,network,auswahl) {
   // politiker = politiker.filter(function(d){
   //   return _.flatten(d.badges.map(function(d){ return d.mandates; })).length!=0;
   // });
+  
+  var nationalratSort = ["SVP","SP","FDP","CVP","GP","GLP","BDP","EVP","LEG","CSP","MCR"];
+  var standeratSort = [" ","GP","BDP","GLP","SVP","FDP","SP","CVP"];
 
   var nationalrat = d3.nest()
     .key(function(d) { return d.partei; })
     .entries(politiker.filter(function(d){ return d.rat == "NR" }));
+
+  // nationalrat.forEach(function (d) {
+  //   console.log(_.indexOf(nationalratSort,d.key),d.key)
+  // })
 
   // var nationalratOver = nationalrat.filter(function(d){ return d.values.length<=1 });
   //nationalrat = nationalrat.filter(function(d){ return d.values.length>1 });
   // console.log(nationalratOver);
 
   nationalrat.sort(function(a,b){
-    return b.values.length - a.values.length;
+    return _.indexOf(nationalratSort,a.key) - _.indexOf(nationalratSort,b.key);
   });
-  move(nationalrat,7,4); // 7 = PPD, soll neben CVP stehen
+  //console.log("nationalrat",nationalrat)
+  //move(nationalrat,7,4); // 7 = PPD, soll neben CVP stehen
   
   nationalrat.forEach(function(n){
     n.politiker = n.values;
@@ -267,10 +292,14 @@ function ready (error,politiker,badges,network,auswahl) {
     .key(function(d) { return d.partei; })
     .entries(politiker.filter(function(d){ return d.rat == "SR" }));
   //standerat = standerat.filter(function(d){ return d.values.length>1 });
+
+  // standerat.forEach(function (d) {
+  //   console.log(_.indexOf(standeratSort,d.key),d.key)
+  // })
   standerat.sort(function(a,b){
-    return b.values.length - a.values.length;
-  })
-  move(standerat,5,6); // 5 = GP, soll neben LES stehen
+    return _.indexOf(standeratSort,a.key) - _.indexOf(standeratSort,b.key);
+  });
+  //move(standerat,5,6); // 5 = GP, soll neben LES stehen
   standerat.forEach(function(n){
     n.politiker = n.values;
     n.badges = badges.filter(function(b){ return (n.key == b.partei && b.rat == "SR") })
@@ -470,6 +499,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
       var name = $( "option:selected", this).attr('value');
       if(name){
+        resetGraph();
         filterKatergorie(name,"deklarierte_funktion");
       } else {
         resetGraph();
@@ -557,16 +587,25 @@ function ready (error,politiker,badges,network,auswahl) {
         .text(function(d){ return d.key; })
       elm
         .append('span')
-        .text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "w";}).length; })
+        .text(function(d){ return d.values.length; })
+        //.text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "w";}).length; })
       elm
         .append('span')
-        .text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "m";}).length; })
+        .text(function(d){
+           if (mandateCount.hasOwnProperty(d.key)) {
+             return d.values.length + mandateCount[d.key];
+           } else {
+             return "–";
+           }
+         })
+
+        //.text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "m";}).length; })
       elm
         .on('click',function(d){
     
           d3.selectAll(".katlist .active").classed("active",false);
           d3.select(this).classed("active",true);
-
+          resetGraph();
           filterKatergorie(d.key,d.field);
         })
         .classed("active",function(d) { return i==0 ? true : false; })
@@ -1260,9 +1299,20 @@ function ready (error,politiker,badges,network,auswahl) {
   //   }
   // });
 
-
-
 }
+
+  queue()
+  .defer(d3.csv, 'data/politiker.csv')
+  .defer(d3.csv, 'data/badges.csv')
+  .defer(d3.csv, 'data/network.csv')
+  .defer(d3.csv, 'data/auswahl.csv')
+  .await(ready)
+
+} else {
+  $('#noSupport').show();
+  $('#vizContainer, #modal-quellen').hide();
+}
+
 
 // helper funcs
 

@@ -308,7 +308,7 @@ background: #EEE;
   color: rgb(30, 30, 30);
   font-size: 11px;
   float: right;
-  width: 120px;
+  width: 215px;
 }
 .legende div {
   padding-bottom: 3px;
@@ -345,6 +345,7 @@ background: #EEE;
 }
 .katlist .header span:nth-child(1) {
   padding-top: 4px;
+  width: auto;
 }
 
 .katlist .icon  {
@@ -389,6 +390,9 @@ background: #EEE;
   color: rgb(30, 30, 30);
   font-size: 11px;
   float: left;
+}
+.katlist span.right {
+  text-align: right;
 }
 .katlist div>span:nth-child(1) {
    width: 210px;
