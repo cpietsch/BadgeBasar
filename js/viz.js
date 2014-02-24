@@ -1,4 +1,4 @@
-console.log("VIZ INITIALIZE");
+//console.log("VIZ INITIALIZE");
 
 if(typeof d3 != 'undefined'){
 
@@ -55,7 +55,7 @@ d3.selectAll('.legende circle')
 var partei;
 var mandateCount;
 
-console.log("VIZ RUN");
+//console.log("VIZ RUN");
 
 
 var id = function(d,i){ return d.type+d.id; };
@@ -181,7 +181,7 @@ var makeRat = function(params){
 
 function ready (error,politiker,badges,network,auswahl) {
 
-  console.log("load",error,politiker,badges,network,auswahl)
+  //console.log("load",error,politiker,badges,network,auswahl)
   $("#loading").fadeOut();
   // console.log(politiker,badges,kategorien);
 
@@ -230,7 +230,7 @@ function ready (error,politiker,badges,network,auswahl) {
       });
     })
 
-  console.log("network",mandates);
+  //console.log("network",mandates);
 
   badges.forEach(function(d,i){
 
@@ -239,7 +239,7 @@ function ready (error,politiker,badges,network,auswahl) {
     }
     d.funktionKurz = d.deklarierte_funktion.slice(0,20);
     d.politiker = politiker.filter(function(pol){ return pol.id == d.badgegeber_id; })[0];
-    if(!d.politiker) console.log("kein politiker für",d)
+    //if(!d.politiker) console.log("kein politiker für",d)
     d.partei = d.politiker.partei;
     d.farbe = d.politiker.farbe;
     d.rat = d.politiker.rat;
@@ -309,10 +309,10 @@ function ready (error,politiker,badges,network,auswahl) {
   var personen = [].concat(badges).concat(politiker).sort(function(a,b){ return d3.ascending(a.name, b.name)});
 
   personen.forEach(function(d){
-    if(d.id=="") console.log(d);
+    //if(d.id=="") console.log(d);
   })
 
-  console.log(politiker[0],badges[0]);
+  //console.log(politiker[0],badges[0]);
   
   var centerPos = {left:w/2 ,top:h/2};
   var circleSvg = svg.append("g")
@@ -469,7 +469,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
   var makeFunktionen = function(){
 
-    console.log("make funktionen",kategorien)
+    //console.log("make funktionen",kategorien)
 
     d3.select('#funktionen select')
       .selectAll('.options')
@@ -509,7 +509,7 @@ function ready (error,politiker,badges,network,auswahl) {
     })
   }
   var makeAuswahl = function(){
-    console.log("makeAuswahl", auswahl)
+    //console.log("makeAuswahl", auswahl)
     d3.select('#auswahl select')
       .selectAll('.options')
       .data(auswahl)
@@ -544,7 +544,7 @@ function ready (error,politiker,badges,network,auswahl) {
   }
 
   var makeSearch = function(){
-    console.log("makeSearch", personen)
+    //console.log("makeSearch", personen)
     d3.select('#search select')
       .selectAll('.options')
       .data(personen)
@@ -908,7 +908,7 @@ function ready (error,politiker,badges,network,auswahl) {
 
     myTooltip.display(d);
     makeInfo(d);
-    console.log(d)
+    //console.log(d)
 
     if(!networkActive){
       if(showNetworks) makeNetwork(d);
@@ -1065,14 +1065,14 @@ function ready (error,politiker,badges,network,auswahl) {
 
 
   var makeNetwork = function(d){
-    console.log("makeNetwork",d);
+    //console.log("makeNetwork",d);
 
     var source = d.type == "badge" ? [d] : d.badges;
 
     var mandates = getMandates(source);
     var personen = getPersonsForMandates(mandates);
 
-    console.log("makeMandates",source,mandates,personen);
+    //console.log("makeMandates",source,mandates,personen);
 
     if(mandates.length==0){
       // shortcut
@@ -1187,11 +1187,11 @@ function ready (error,politiker,badges,network,auswahl) {
     .padding(15);
 
   var makeMandates = function(data){
-    console.log("makeMandates",data);
+    //console.log("makeMandates",data);
 
     var dd = data.mandates.map(function(d){ return { name: d.key };});
 
-    console.log(dd)
+    //console.log(dd)
 
     mandatesSvg.selectAll("circle").data([]).exit().remove();
 
