@@ -1,5 +1,5 @@
 S3_BUCKET = maps.nzzdali.ch
-S3_PATH = nzzdata/badge-basar-fi5ogg4ab6box7que/
+S3_PATH = nzzdata/badge-basar/
 S3_PUBLIC_URL = http://$(S3_BUCKET).s3-website-eu-west-1.amazonaws.com/$(S3_PATH)
 
 dependencies:
