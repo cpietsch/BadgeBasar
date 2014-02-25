@@ -215,9 +215,11 @@ function ready (error,politiker,badges,network,auswahl) {
       d.id = i;
       d.name = d.key;
       d.values = d.values.map(function(e){
-        return badges
+        var person = badges
+          .filter(function(f){return f.infocube_id_person != ""})
           .filter(function(f){ return e.infocube_id_person == f.infocube_id_person;
           })[0];
+        return person ? person : [];
       });
     })
 
