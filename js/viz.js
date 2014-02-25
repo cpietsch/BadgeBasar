@@ -252,7 +252,9 @@ function ready (error,politiker,badges,network,auswahl) {
     d.type = "badge";
     d.active = 4;
     d.id = i;
-    d.mandates = network.filter(function(e){ return e.infocube_id_person == d.infocube_id_person})
+    d.mandates = network
+      .filter(function(e){return e.infocube_id_person != ""})
+      .filter(function(e){return e.infocube_id_person == d.infocube_id_person})
       .map(function(d){ return mandates.filter(function(e){ return e.key == d.name; })[0]});
 
     //d.mandates = _.uniq(d.mandates.map(function(d){ d.name; }));
