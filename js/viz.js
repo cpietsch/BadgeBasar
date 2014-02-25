@@ -606,10 +606,12 @@ function ready (error,politiker,badges,network,auswahl) {
         .text(function(d){ return d.key; })
       elm
         .append('span')
+        .attr('class', 'right')
         .text(function(d){ return d.values.length; })
         //.text(function(d){ return d.values.filter(function(k){ return k.geschlecht == "w";}).length; })
       elm
         .append('span')
+        .attr('class', 'right')
         .text(function(d){
           if (d.hasOwnProperty("allRelatedBadgesCount")) {
             return d.allRelatedBadgesCount;
